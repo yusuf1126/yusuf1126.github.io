@@ -18,12 +18,14 @@ Deadline: 31 March 2020
 
 --------
 CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks   
-https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm   
-Deadline: 01 June 2020    
+https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm        
 Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao  
+Deadline: 01 June 2020  
 
 --------
 CFP: Elsevier IoT special issue on Advances in Social Internet of Things  
-https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things    Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny   Deadline: 30 June 2020 
+https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things
+Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny
+Deadline: 30 June 2020 
 
 
