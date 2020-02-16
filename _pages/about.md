@@ -16,10 +16,8 @@ CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Netw
 http://collaboratecom.org/collaboratenet-workshop/ 
 
 --------
-CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks (Deadline: 01 June 2020) 
-
-https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm 
-
+CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks (Deadline: 01 June 2020)  
+https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm  
 Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao 
 
 --------
