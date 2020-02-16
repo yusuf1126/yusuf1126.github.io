@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yusuf'Personal Website"
+title                    : "Yusuf 'Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.Xuan Liu(yusuf)"
+  name             : "Dr. Xuan Liu (yusuf)"
   avatar           : "profile.png"
   bio              : "Future Network Research Center, Southeast University, China"
   location         : "Nanjing, China"
