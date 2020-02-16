@@ -18,7 +18,7 @@ http://collaboratecom.org/collaboratenet-workshop/
 
 Deadline: 31 March 2020
 
-------
+=======
 CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks 
 
 https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm 
