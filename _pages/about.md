@@ -12,19 +12,18 @@ redirect_from:
 
 Recent News
 --------
-CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks, Deadline: 31 March 2020)  
-http://collaboratecom.org/collaboratenet-workshop/ 
+CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks)   
+http://collaboratecom.org/collaboratenet-workshop/    
+Deadline: 31 March 2020  
 
 --------
-CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks (Deadline: 01 June 2020)  
-https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm  
-Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao 
+CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks   
+https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm   
+Deadline: 01 June 2020    
+Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao  
 
 --------
-CFP: Elsevier IoT special issue on Advances in Social Internet of Things (Deadline: 30 June 2020)
-
-https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things 
-
-Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny 
+CFP: Elsevier IoT special issue on Advances in Social Internet of Things  
+https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things    Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny   Deadline: 30 June 2020 
 
 
