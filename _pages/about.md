@@ -12,8 +12,7 @@ redirect_from:
 
 Recent News
 --------
-CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks, Deadline: 31 March 2020) 
-
+CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks, Deadline: 31 March 2020)/
 http://collaboratecom.org/collaboratenet-workshop/ 
 
 --------
