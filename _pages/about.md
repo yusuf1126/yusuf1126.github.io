@@ -25,6 +25,7 @@ Deadline: 01 June 2020
 --------
 CFP: Elsevier IoT special issue on Advances in Social Internet of Things  
 https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things  
-Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny   Deadline: 30 June 2020 
+Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny  
+Deadline: 30 June 2020 
 
 
