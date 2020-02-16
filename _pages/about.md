@@ -12,6 +12,13 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 -------- 
+CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks) 
+
+http://collaboratecom.org/collaboratenet-workshop/ 
+
+Deadline: 31 March 2020
+
+------
 CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks 
 
 https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm 
@@ -29,9 +36,4 @@ Deadline: 30 June 2020
 
 Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny 
 
------- 
-CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks) 
 
-http://collaboratecom.org/collaboratenet-workshop/ 
-
-Deadline: 31 March 2020
