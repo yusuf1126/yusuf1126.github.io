@@ -4,7 +4,7 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and various web services. This is to make it easy for people to find me. 
+Contact information is below, including email and various web services. This is to make it easy for finding me. 
 
 --------
 * E-mail: yusuf[at]seu.edu.cn; xuan1126a[at]gmail.com
