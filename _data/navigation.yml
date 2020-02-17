@@ -8,13 +8,13 @@ main:
     url: /publications/
 
   - title: "Professional Services"
-    url: /talks/    
+    url: /services/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Links and Tools"
-    url: /link/
+    url: /links/
  
   - title: "Contact"
     url: /contact/
