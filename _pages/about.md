@@ -17,6 +17,11 @@ http://collaboratecom.org/collaboratenet-workshop/
 Deadline: 31 March 2020  
 
 --------
+CFP: VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)   
+https://computing.derby.ac.uk/c/vehcomnet-2020/    
+Deadline: 10 May 2020  
+
+--------
 CFP: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks   
 https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm        
 Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao  
