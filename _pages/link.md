@@ -4,7 +4,7 @@ title: "Links and Tools"
 excerpt: "Links and Tools"
 author_profile: true
 ---
-Contact information is below, including email and various web services. This is to make it easy for finding me. 
+Below are some important links and tools. 
 
 --------
 * dblp: <a href="https://dblp.uni-trier.de/" target="_blank">https://dblp.uni-trier.de</a>
