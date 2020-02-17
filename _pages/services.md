@@ -1,3 +1,11 @@
+---
+permalink: /services/
+title: "Professional Services"
+excerpt: "Contact me"
+author_profile: true
+
+---
+
 Recent News
 --------
 CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks  
