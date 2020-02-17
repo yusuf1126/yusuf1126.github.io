@@ -18,7 +18,7 @@ Deadline: 31 March 2020
 
 --------
 CFP: VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)  
-<a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">https://computing.derby.ac.uk/c/vehcomnet-2020/</a>
+<a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">https://computing.derby.ac.uk/c/vehcomnet-2020/</a>  
 Deadline: 10 May 2020  
 
 --------
