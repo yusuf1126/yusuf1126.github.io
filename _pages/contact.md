@@ -6,7 +6,7 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site.  Here are some other places on the Internet where I reside.
 
-* E-mail: yusuf[at]seu.edu.cn.com; xuan1126a[at]gmail.com
+* E-mail: yusuf[at]seu.edu.cn; xuan1126a[at]gmail.com
 * Facebook: [xuan liu](https://www.facebook.com/profile.php?id=100013576692140)
 * Twitter: [xuanliu_yusuf](https://twitter.com/xuanliu_yusuf)
 * Google Scholar: [Xuan Liu](https://scholar.google.com.hk/citations?user=N95MHnkAAAAJ&hl=en)
