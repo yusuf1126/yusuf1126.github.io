@@ -1,3 +1,10 @@
+---
+permalink: /research/
+title: "Research Interests"
+excerpt: "Research Interests"
+author_profile: true
+---
+
  Education
  ======
 -* B.S. in Github, Github University, 2012
