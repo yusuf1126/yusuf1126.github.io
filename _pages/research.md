@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Current Research Interest"
-excerpt: "Current Research Interest"
+title: "Current Research Interests"
+excerpt: "Current Research Interests"
 author_profile: true
 ---
 
