@@ -59,7 +59,7 @@ Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 Mar
   <a href="https://icc2020.ieee-icc.org" target="_blank">IEEE International Conference on Communications (IEEE ICC 2020)</a>  
   <a href="https://pimrc2020.ieee-pimrc.org/" target="_blank">IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC 2020)</a>  
    <a href="https://vtc2020spring.trackchair.com/track/1814" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2020-Spring)</a>  
-   <a href="https://www.icin-conference.org/" target="_blank">23rd Conference on Innovation in Clouds, Internet and Networks (IEEE ICIN 2020)</a>  
+   <a href="https://www.icin-conference.org/" target="_blank">The 23rd Conference on Innovation in Clouds, Internet and Networks (ICIN 2020)</a>  
    <a href="http://www.adhocnow2020.it/index.php/" target="_blank">The 19th International Conference on Ad Hoc Networks and Wireless (AdHoc-Now 2020)</a>  
    <a href="http://cs-conferences.acadiau.ca/fnc-20/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2020)</a>  
    <a href="http://dione-conference.org/" target="_blank">The EAI International Conference on Data and Information in Online Environments (EAI DIONE 2020)</a>  
@@ -70,6 +70,7 @@ Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 Mar
    <a href="http://cyber-science.org/2019/dasc/" target="_blank">The 17th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2019)</a>  
    <a href="https://giis-2019.dnac.org/" target="_blank">The Global Information Infrastructure Symposium (GIIS 2019)</a>  
     <a href="http://collaboratecom2019.eai-conferences.org/" target="_blank">The EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (EAI CollaborateCom 2019)</a>  
+    <a href="http://broadnets2019.eai-conferences.org/" target="_blank">The 10th EAI International Conference on Broadband Communications, Networks, and Systems (EAI BROADNETS 2019)</a>
     <a href="http://cs-conferences.acadiau.ca/fnc-19/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2019)</a>  
      
    
@@ -77,10 +78,9 @@ Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 Mar
 
    
 
-   <a href="https://vtc2018f-rr-wks.trackchair.com/track/1696/" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2018-fall workshop)</a>
- 
- 
-  EAI ChinaCom 2019, 
+   
+   <a href="http://iwcmc.org/2018/" target="_blank">The 14th International Wireless Communications and Mobile Computing Conference (IWCMC 2018)</a>  
+   <a href="https://vtc2018f-rr-wks.trackchair.com/track/1696/" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2018-fall workshop)</a>  
 
 
 Reviewing Services
