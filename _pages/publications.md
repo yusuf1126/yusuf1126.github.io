@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Journal Papers
+:-: Journal Papers
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery.  Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
 
@@ -29,7 +29,7 @@ Xiaona Hu, Peng Yang, **Xuan Liu**. Collaborative Content Distribution Mechanism
 Zhiwei Yuan, Peng Yang, **Xuan Liu**. Research on Detecting Duplicated URL in Dual-Structural Network. Journal of Taiyuan University of Technology, 2016, 47(1): 68-74 (In Chinese)
 
 
-Conference Papers
+:-: Conference Papers
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. An Analysis of Content Sharing Hops for Dual-Structural Network Based on General Random Graph. IEEE GLOBECOM 2018，Abu Dhabi：IEEE，2018，1-6.(EI, CCF C)
 
