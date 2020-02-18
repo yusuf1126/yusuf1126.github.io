@@ -22,12 +22,12 @@ Editorial Services
   
 * Advisory Editor
 
-  Wiley Engineering Reports
+  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>
   
 * Area Editor 
 
-  EAI Endorsed Transactions on Internet of Things, 
-  
+  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of ThingsComputing</a>
+    
 * Editorial Board Members
 
    <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a> 
