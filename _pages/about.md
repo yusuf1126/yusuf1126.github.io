@@ -12,7 +12,7 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-CFP: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks  
+[Call for papers]: CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks  
 <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">http://collaboratecom.org/collaboratenet-workshop/</a>  
 Deadline: 31 March 2020  
 
