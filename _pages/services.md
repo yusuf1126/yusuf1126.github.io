@@ -21,7 +21,7 @@ Editorial Services
     
 * Area Editor 
 
-  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of ThingsComputing</a>, June, 2019-Present
+  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of Things Computing</a>, June, 2019-Present
     
 * Editorial Board Members
 
