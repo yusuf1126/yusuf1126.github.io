@@ -8,10 +8,10 @@ author_profile: true
 
 Journal Papers
 --------
-**Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery.  Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery. Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
 
 --------
-Peng Yang, Liang Gu, **Xuan Liu**. Collaborative Filtering Driven by Fast Semantic Feature Analysis on Spark. Wireless Networks, 2018, accepted. (SCI, IF: 1.981, CCF C)
+Peng Yang, Liang Gu, **Xuan Liu**. Collaborative Filtering Driven by Fast Semantic Feature Analysis on Spark. Wireless Networks, 2018, accepted. (SCI, IF: 2.405, CCF C)
 
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong. Research on Content Sharing Capability for Dual-Architecture Network. Acta Electronica Sinica, 2018, 46(4): 849-855. (EI, CCF A(Chinese version), in Chinese)
