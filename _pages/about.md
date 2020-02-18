@@ -25,7 +25,7 @@ Deadline: 31 March 2020
 <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">https://computing.derby.ac.uk/c/vehcomnet-2020/</a>   
 Deadline: 10 May 2020  
 
-[Call for papers]: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks   
+[Call for papers]: Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks(SCI, IF: 1.258)  
 <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/</a>  
 Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao  
 Deadline: 01 June 2020  
