@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-:-: Journal Papers
+Journal Papers
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery.  Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
 
