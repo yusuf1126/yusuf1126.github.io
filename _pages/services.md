@@ -8,12 +8,8 @@ author_profile: true
 
 Editorial Services
 --------
-* Advisory Editor
-
-  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October, 2019-Present
 
 * Associate Editor
-
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, September, 2019-Present  
    <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, January, 2020-Present  
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, September, 2019-Present  
@@ -22,6 +18,9 @@ Editorial Services
 * Area Editor 
 
   <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of Things Computing</a>, June, 2019-Present
+  
+* Advisory Editor
+  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October, 2019-Present
     
 * Editorial Board Members
 
