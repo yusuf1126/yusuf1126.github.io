@@ -62,14 +62,14 @@ Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 Mar
    <a href="https://www.icin-conference.org/" target="_blank">23rd Conference on Innovation in Clouds, Internet and Networks (IEEE ICIN 2020)</a>  
    <a href="http://www.adhocnow2020.it/index.php/" target="_blank">The 19th International Conference on Ad Hoc Networks and Wireless (AdHoc-Now 2020)</a>  
    <a href="http://cs-conferences.acadiau.ca/fnc-20/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2020)</a>  
-   <a href="http://dione-conference.org/" target="_blank">EAI International Conference on Data and Information in Online Environments (EAI DIONE 2020)</a>  
+   <a href="http://dione-conference.org/" target="_blank">The EAI International Conference on Data and Information in Online Environments (EAI DIONE 2020)</a>  
    <a href="https://globecom2019.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE GLOBECOM 2019)</a>  
    <a href="https://pimrc2019.ieee-pimrc.org/" target="_blank">IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC 2019)</a>  
    <a href="https://vtc2019s-rr-wks.trackchair.com/track/1744" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2019-Spring)</a>  
-   <a href="https://www.ieice.org/~icm/apnoms/2019/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2019)</a>
+   <a href="https://www.ieice.org/~icm/apnoms/2019/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2019)</a>  
    <a href="http://cyber-science.org/2019/dasc/" target="_blank">The 17th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2019)</a>  
    <a href="https://giis-2019.dnac.org/" target="_blank">The Global Information Infrastructure Symposium (GIIS 2019)</a>  
-    <a href="http://collaboratecom2019.eai-conferences.org/" target="_blank">EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (EAI CollaborateCom 2019)</a>  
+    <a href="http://collaboratecom2019.eai-conferences.org/" target="_blank">The EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (EAI CollaborateCom 2019)</a>  
     <a href="http://cs-conferences.acadiau.ca/fnc-19/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2019)</a>  
      
    
