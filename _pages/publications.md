@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Selected publications"
 excerpt: "Selected publications"
 author_profile: true
 
