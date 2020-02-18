@@ -15,7 +15,7 @@ Recent News
 Organizational activity: Invited as a TPC member for <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">APNOMS 2020</a> in Feburary, 2020
 
 --------
-Editorial service: Appointed as an Associate Editor for <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a> in January, 2029
+Editorial service: Appointed as an Associate Editor for <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a> in January, 2020
 
 --------
 Call for papers: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020)</a>  
