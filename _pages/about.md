@@ -12,7 +12,7 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-<font color=#0099ff size=7 face="黑体">Organizational activity</font>: Invited as a TPC member for <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">APNOMS 2020</a> in Feburary, 2020
+<font color=#DC143C>Organizational activity</font>: Invited as a TPC member for <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">APNOMS 2020</a> in Feburary, 2020
 
 --------
 Editorial service: Appointed as an Associate Editor for <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a> in January, 2020
