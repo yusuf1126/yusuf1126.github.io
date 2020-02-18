@@ -70,16 +70,11 @@ Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 Mar
    <a href="http://cyber-science.org/2019/dasc/" target="_blank">The 17th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2019)</a>  
    <a href="https://giis-2019.dnac.org/" target="_blank">The Global Information Infrastructure Symposium (GIIS 2019)</a>  
     <a href="http://collaboratecom2019.eai-conferences.org/" target="_blank">The EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (EAI CollaborateCom 2019)</a>  
+    <a href="http://chinacom2019.eai-conferences.org/" target="_blank">The 14th EAI International Conference on Communications and Networking in China(EAI Chinacom 2019)</a>  
+    <a href="http://mobicase2019.eai-conferences.org/" target="_blank">The 10th EAI International Conference on Mobile Computing, Applications and Services(EAI MobiCASE 2019)</a>    
     <a href="http://broadnets2019.eai-conferences.org/" target="_blank">The 10th EAI International Conference on Broadband Communications, Networks, and Systems (EAI BROADNETS 2019)</a>
     <a href="http://cs-conferences.acadiau.ca/fnc-19/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2019)</a>  
-     
-   
-   
-
-   
-
-   
-   <a href="http://iwcmc.org/2018/" target="_blank">The 14th International Wireless Communications and Mobile Computing Conference (IWCMC 2018)</a>  
+    <a href="http://iwcmc.org/2018/" target="_blank">The 14th International Wireless Communications and Mobile Computing Conference (IWCMC 2018)</a>  
    <a href="https://vtc2018f-rr-wks.trackchair.com/track/1696/" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2018-fall workshop)</a>  
 
 
