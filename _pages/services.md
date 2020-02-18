@@ -10,6 +10,7 @@ Editorial Services
 --------
 
 * Associate Editor
+
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, September, 2019-Present  
    <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, January, 2020-Present  
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, September, 2019-Present  
@@ -20,6 +21,7 @@ Editorial Services
   <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of Things Computing</a>, June, 2019-Present
   
 * Advisory Editor
+
   <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October, 2019-Present
     
 * Editorial Board Members
@@ -105,4 +107,4 @@ Reviewing Services
 Awards
 --------
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
-
+![img]("Top-reviewer.png")
