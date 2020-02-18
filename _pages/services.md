@@ -9,7 +9,7 @@ author_profile: true
 Awards
 --------
 Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019 
-<a href="https://publons.com/researcher/1280129/xuan-liu/peer-review/" target="_blank">https://publons.com/researcher/1280129/xuan-liu/peer-review/</a>
+<a href="https://publons.com/awards/peer-review/2019/" target="_blank">https://publons.com/awards/peer-review/2019/</a>
 
 Editorial Services
 --------
