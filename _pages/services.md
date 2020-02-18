@@ -81,15 +81,22 @@ Reviewing Services
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
   <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a>  
+  <a href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>
   <a href="https://www.comsoc.org/publications/journals/ieee-comml" target="_blank">IEEE Communications Letters</a>  
   <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
   <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications/" target="_blank">Elsevier Journal of Network and Computer Applications</a>  
+  <a href="https://www.journals.elsevier.com/ad-hoc-networks/" target="_blank">Elsevier Ad Hoc Networks</a>  
+  <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" target="_blank">Elsevier Sustainable Cities and Society</a> 
+  <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces/" target="_blank">Elsevier Computer Standards & Interfaces</a>  
+  <a href="https://www.journals.elsevier.com/optics-and-laser-technology/" target="_blank">Elsevier Optics & Laser Technology</a>  
   <a href="https://www.springer.com/journal/11276" target="_blank">Springer Wireless Networks</a>  
   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>  
   <a href="https://www.springer.com/journal/11277" target="_blank">Springer Wireless Personal Communications</a>  
   <a href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">Wiley International Journal of Communication Systems</a>  
   <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>  
-  <a href="https://digital-library.theiet.org/content/journals/iet-cps" target="_blank">IET Cyber-Physical Systems: Theory & Applications</a>
+  <a href="https://digital-library.theiet.org/content/journals/iet-cps" target="_blank">IET Cyber-Physical Systems: Theory & Applications</a>  
+  <a href="https://www.hindawi.com/journals/scn/" target="_blank">Hindawi Security and Communication Networks</a>  
+  <a href="https://www.hindawi.com/journals/js/" target="_blank">Hindawi Journal of Sensors</a>
 
 Awards
 --------
