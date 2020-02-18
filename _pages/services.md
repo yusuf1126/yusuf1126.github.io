@@ -15,22 +15,22 @@ Editorial Services
 --------
 * Associate Editor
 
-  Springer Telecommunication Systems
-  IET Smart Cities
-  Taylor & Francis International Journal of Computers and Applications
-  KeAi International Journal of Intelligent Networks
+   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, September 2019-Present 
+   <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, January 2020-Present 
+   <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, September 2019-Present 
+   <a href="http://www.keaipublishing.com/en/journals/international-journal-of-intelligent-networks/" target="_blank">KeAi International Journal of Intelligent Networks</a>, December 2019-Present 
   
 * Advisory Editor
 
-  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>
+  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October 2019-Present
   
 * Area Editor 
 
-  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of ThingsComputing</a>
+  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of ThingsComputing</a>, June 2019-Present
     
 * Editorial Board Members
 
-   <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a> 
+   <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>, Feburay 2019-Present 
 
 Guest Editorial Services
 --------
@@ -83,6 +83,7 @@ Elsevier FGCS,
 Springer WINE, 
 Springer TELS, 
 IET SMC, 
+IET CPS
 EAI CollaborateCom 
 Wiley IJCS,
 
