@@ -79,27 +79,18 @@ Reviewing Services
 
 * Journals
 
-IEEE COMMAG, 
-IEEE TII, 
-IEEE IoT, 
-IEEE CL, 
-Elsevier, JNCA, 
-Elsevier FGCS, 
-Springer WINE, 
-Springer TELS, 
-IET SMC, 
-IET CPS
-EAI CollaborateCom 
-Wiley IJCS,
-
-* Conferences  
-
-  <a href="https://infocom2020.ieee-infocom.org/workshop-drone-assisted-smart-backhaul-solutions-5g-and-beyond" target="_blank">IEEE International Conference on Computer Communications (IEEE INFOCOM 2020) workshop: DroneCom</a>
-  
-IEEE ICC, 
-IEEE GlobeCom, 
-IEEE WCNC, 
-IEEE PIMRC, 
+  <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
+  <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
+  <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a>  
+  <a href="https://www.comsoc.org/publications/journals/ieee-comml" target="_blank">IEEE Communications Letters</a>  
+  <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
+  <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications/" target="_blank">Elsevier Journal of Network and Computer Applications</a>  
+  <a href="https://www.springer.com/journal/11276" target="_blank">Springer Wireless Networks</a>  
+  <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>  
+  <a href="https://www.springer.com/journal/11277" target="_blank">Springer Wireless Personal Communications</a>  
+  <a href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">Wiley International Journal of Communication Systems</a>  
+  <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>  
+  <a href="https://digital-library.theiet.org/content/journals/iet-cps" target="_blank">IET Cyber-Physical Systems: Theory & Applications</a>
 
 Awards
 --------
