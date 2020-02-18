@@ -50,6 +50,7 @@ Shanghai, People’s Republic of China. (Accepting Submissions, deadline: 31 Mar
 
 * TPC Member
 
+  <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2020)</a>
   CollaborateCom 2020 workshop
   IEEE INFOCOM 2020 workshop, 
   IEEE ICC 2020/2019
