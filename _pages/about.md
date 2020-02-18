@@ -26,12 +26,12 @@ Call for papers: <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" targe
 Deadline: 10 May, 2020  
 
 --------
-Call for papers: <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT special issue on Integration of Satellite-Aerial-Terrestrial Networks (SCI, IF: 1.258)</a>  
+Call for papers: <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks (SCI, IF: 1.258)</a>  
 Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao  
 Deadline: 01 June, 2020  
 
 --------
-Call for papers: <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT special issue on Advances in Social Internet of Things</a>  
+Call for papers: <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a>  
 Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny  
 Deadline: 30 June, 2020 
   
