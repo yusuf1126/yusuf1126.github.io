@@ -100,6 +100,8 @@ Reviewing Services
   <a href="https://journals.sagepub.com/home/dsn" target="_blank">SAGE International Journal of Distributed Sensor Networks</a>  
   <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>  
   <a href="https://eudl.eu/journal/cc" target="_blank">EAI Endorsed Transactions on Collaborative Computing</a>  
+  <a href="https://www.igi-global.com/gateway/journal/1102" target="_blank">IGI Global International Journal of Mobile Computing and Multimedia Communications</a>  
+  <a href="https://dl.acm.org/journal/ijhcr-igi" target="_blank">IGI Global International Journal of Handheld Computing Research</a>
 
 Awards
 --------
