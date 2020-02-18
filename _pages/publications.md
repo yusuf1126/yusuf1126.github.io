@@ -1,25 +1,37 @@
 ---
 permalink: /publications/
 title: "Publications"
-excerpt: "Publications"
+excerpt: "Selected publications"
 author_profile: true
 
 ---
 
 Journal Papers
 --------
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery.  Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
 
+--------
+Peng Yang, Liang Gu, **Xuan Liu**. Collaborative Filtering Driven by Fast Semantic Feature Analysis on Spark. Wireless Networks, 2018, accepted. (SCI, IF: 1.981, CCF C)
 
-（1）Liu X，Li Z，Yang P，et al．Information-centric mobile ad hoc networks and content routing: a survey[J]. Ad Hoc Networks，2017(58): 255-268. (CCF C类期刊、中科院二区SCI、IF: 3.49、目前谷歌学术引用113次）
-（2）Liu X，Yang P，Dong Y，et al．Collaborative dual-structural edge networking paradigm: an analysis study in terms of multimedia content delivery[J]. Multimedia Tools and Applications，2019，78(17): 24555–24572. (CCF C类期刊、中科院四区SCI、IF: 2.101)
-（3）Liu X，Yang P，Dong Y，et al．An analysis of content sharing hops for dual-structural network based on general random graph[C]．In：IEEE Global Communications Conference (IEEE GLOBECOM 2018)，Abu Dhabi：IEEE，2018，1-6. (CCF C类会议、EI) 
-（4）Liu X，Yang P，Dong Y，et al．A comparative analysis of content delivery capability for collaborative dual-architecture network[C]．In：International Conference on Collaborative Computing: Networking，Applications and Worksharing (EAI CollaborateCom 2017)，Edinburgh：Springer，2017，63-72. (CCF C类会议、EI)
-（5）刘旋，杨鹏，董永强. 双结构网络内容共享能力研究[J]. 电子学报，2018，46(4): 849-855. (CCF A类中文期刊、EI)
-（6）杨鹏，刘旋，董永强，等. 内容中心移动自组网内容路由研究进展[J]. 电子科技大学学报，2017，46(3): 612-617. (EI)
-（7）Yang P，Gu L，Liu X. Collaborative filtering driven by fast semantic feature analysis on spark[J]. Wireless Networks，2018，accepted. (CCF C类期刊、SCI索引、IF: 1.981)
-（8）扈晓娜，杨鹏，刘旋. 基于播存结构的雾架构内容协同分发机制[J]. 计算机应用与软件，2017，34(10):1-6. (CCF C类中文期刊)
-（9）袁志伟，杨鹏，刘旋. 双结构网络中URL去重机制研究[J]. 太原理工大学学报，2016，47(1):68-74. 
+--------
+**Xuan Liu**, Peng Yang, Yongqiang Dong. Research on Content Sharing Capability for Dual-Architecture Network. Acta Electronica Sinica, 2018, 46(4): 849-855. (EI, CCF A(Chinese version), in Chinese)
+
+--------
+**Xuan Liu**, Zhuo Li, Peng Yang, Yongqiang Dong. Information-Centric Mobile Ad Hoc Networks and Content Routing: A Survey. Ad Hoc Networks, 2017, 58: 255-268. (SCI, IF: 3.49, CCF C)
+
+--------
+Peng Yang, **Xuan Liu**, Yongqiang Dong, Cheng-Cheng Feng. Research Progress on Content Routing in Content-Centric Mobile Ad Hoc Networks. Dianzi Keji Daxue Xuebao/Journal of the University of Electronic Science and Technology of China, 2017, 46(3): 612-617. (EI, in Chinese)
+
+--------
+Xiaona Hu, Peng Yang, **Xuan Liu**. Collaborative Content Distribution Mechanism in Fog Computing Architecture based on Broadcast Storage Structure. Computer Applications and Software, 2017, 34(10): 1-6. (CCF C(Chinese version), in Chinese)
+
+--------
+Zhiwei Yuan, Peng Yang, **Xuan Liu**. Research on Detecting Duplicated URL in Dual-Structural Network. Journal of Taiyuan University of Technology, 2016, 47(1): 68-74 (In Chinese)
+
 
 Conference Papers
 --------
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. An Analysis of Content Sharing Hops for Dual-Structural Network Based on General Random Graph. IEEE GLOBECOM 2018，Abu Dhabi：IEEE，2018，1-6.(EI, CCF C)
 
+--------
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. A Comparative Analysis of Content Delivery Capability for Collaborative Dual-Architecture Network. EAI CollaborateCom 2017，Edinburgh：Springer，2017，63-72. (EI, CCF C)
