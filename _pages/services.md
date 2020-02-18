@@ -8,17 +8,17 @@ author_profile: true
 
 Editorial Services
 --------
+* Advisory Editor
+
+  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October, 2019-Present
+
 * Associate Editor
 
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, September, 2019-Present  
    <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, January, 2020-Present  
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, September, 2019-Present  
    <a href="http://www.keaipublishing.com/en/journals/international-journal-of-intelligent-networks/" target="_blank">KeAi International Journal of Intelligent Networks</a>, December, 2019-Present 
-  
-* Advisory Editor
-
-  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October, 2019-Present
-  
+    
 * Area Editor 
 
   <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of ThingsComputing</a>, June, 2019-Present
@@ -86,7 +86,7 @@ Reviewing Services
   <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
   <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications/" target="_blank">Elsevier Journal of Network and Computer Applications</a>  
   <a href="https://www.journals.elsevier.com/ad-hoc-networks/" target="_blank">Elsevier Ad Hoc Networks</a>  
-  <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" target="_blank">Elsevier Sustainable Cities and Society</a> 
+  <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" target="_blank">Elsevier Sustainable Cities and Society</a>  
   <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces/" target="_blank">Elsevier Computer Standards & Interfaces</a>  
   <a href="https://www.journals.elsevier.com/optics-and-laser-technology/" target="_blank">Elsevier Optics & Laser Technology</a>  
   <a href="https://www.springer.com/journal/11276" target="_blank">Springer Wireless Networks</a>  
@@ -96,7 +96,10 @@ Reviewing Services
   <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>  
   <a href="https://digital-library.theiet.org/content/journals/iet-cps" target="_blank">IET Cyber-Physical Systems: Theory & Applications</a>  
   <a href="https://www.hindawi.com/journals/scn/" target="_blank">Hindawi Security and Communication Networks</a>  
-  <a href="https://www.hindawi.com/journals/js/" target="_blank">Hindawi Journal of Sensors</a>
+  <a href="https://www.hindawi.com/journals/js/" target="_blank">Hindawi Journal of Sensors</a>  
+  <a href="https://journals.sagepub.com/home/dsn" target="_blank">SAGE International Journal of Distributed Sensor Networks</a>  
+  <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>  
+  <a href="https://eudl.eu/journal/cc" target="_blank">EAI Endorsed Transactions on Collaborative Computing</a>  
 
 Awards
 --------
