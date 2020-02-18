@@ -13,18 +13,35 @@ Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019
 
 Editorial Services
 --------
-Associate Editor of Springer Telecommunication Systems, IET Smart Cities, Taylor & Francis International Journal of Computers and Applications and KeAi International Journal of Intelligent Networks, 
-Advisory Editor of Wiley Engineering Reports, 
-Area Editor of EAI Endorsed Transactions on Internet of Things, 
+* Associate Editor
+
+  Springer Telecommunication Systems
+  IET Smart Cities
+  Taylor & Francis International Journal of Computers and Applications
+  KeAi International Journal of Intelligent Networks
+  
+* Advisory Editor
+
+  Wiley Engineering Reports
+  
+* Area Editor 
+
+  EAI Endorsed Transactions on Internet of Things, 
+  
+* Editorial Board Members
+
+   <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a> 
 
 Guest Editorial Services
 --------
-* Ongoing / Accepting Submissions (Click links for deadline information)
+* Ongoing / Accepting Submissions (Click links for deadline information)  
+
  Elsevier Internet of Things, 
  Wiley Transactions on Emerging Telecommunications Technologies 
  Wiley Internet Technology Letters,
  
 * Closed for Submissions
+
   Wiley Transactions on Emerging Telecommunications Technologies 
 
 Organizational Activities:
@@ -47,7 +64,7 @@ EAI ChinaCom 2019,
 
 Reviewing Services
 --------
-* Conferences:
+* Conferences  
 
 IEEE INFOCOM Workshop 2020 DrogCom), 
 IEEE ICC, 
@@ -55,7 +72,8 @@ IEEE GlobeCom,
 IEEE WCNC, 
 IEEE PIMRC, 
 
-* Journals:
+* Journals
+
 IEEE COMMAG, 
 IEEE TII, 
 IEEE IoT, 
