@@ -54,18 +54,32 @@ Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 Mar
 
 * TPC Member
 
-  <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2020)</a>
-  <a href="https://infocom2020.ieee-infocom.org/workshop-drone-assisted-smart-backhaul-solutions-5g-and-beyond" target="_blank">IEEE International Conference on Computer Communications (IEEE INFOCOM 2020) workshop: DroneCom</a>
-  IEEE INFOCOM 2020 workshop, 
-  IEEE ICC 2020/2019
-  IEEE GlobeCom 2019, IEEE PIMRC 2020/2019, 
-  IEEE VTC 2020/2019/2018, IEEE ICIN 2020, 
-  IEEE GIIS 2020, 
-  IEEE DASC 2019, 
-  APNOMS 2020/2019, 
-  AdHoc-Now 2020, 
-  FNC 2020/2019, 
-  EAI CollaborateCom 2020/2019, 
+  <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2020)</a>  
+  <a href="https://infocom2020.ieee-infocom.org/workshop-drone-assisted-smart-backhaul-solutions-5g-and-beyond" target="_blank">IEEE International Conference on Computer Communications (IEEE INFOCOM 2020) workshop: DroneCom</a>  
+  <a href="https://icc2020.ieee-icc.org" target="_blank">IEEE International Conference on Communications (IEEE ICC 2020)</a>  
+  <a href="https://pimrc2020.ieee-pimrc.org/" target="_blank">IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC 2020)</a>  
+   <a href="https://vtc2020spring.trackchair.com/track/1814" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2020-Spring)</a>  
+   <a href="https://www.icin-conference.org/" target="_blank">23rd Conference on Innovation in Clouds, Internet and Networks (IEEE ICIN 2020)</a>  
+   <a href="http://www.adhocnow2020.it/index.php/" target="_blank">The 19th International Conference on Ad Hoc Networks and Wireless (AdHoc-Now 2020)</a>  
+   <a href="http://cs-conferences.acadiau.ca/fnc-20/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2020)</a>  
+   <a href="http://dione-conference.org/" target="_blank">EAI International Conference on Data and Information in Online Environments (EAI DIONE 2020)</a>  
+   <a href="https://globecom2019.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE GLOBECOM 2019)</a>  
+   <a href="https://pimrc2019.ieee-pimrc.org/" target="_blank">IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC 2019)</a>  
+   <a href="https://vtc2019s-rr-wks.trackchair.com/track/1744" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2019-Spring)</a>  
+   <a href="https://www.ieice.org/~icm/apnoms/2019/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2019)</a>
+   <a href="http://cyber-science.org/2019/dasc/" target="_blank">The 17th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2019)</a>  
+   <a href="https://giis-2019.dnac.org/" target="_blank">The Global Information Infrastructure Symposium (GIIS 2019)</a>  
+    <a href="http://collaboratecom2019.eai-conferences.org/" target="_blank">EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (EAI CollaborateCom 2019)</a>  
+    <a href="http://cs-conferences.acadiau.ca/fnc-19/" target="_blank">The 15th International Conference on Future Networks and Communications (FNC 2019)</a>  
+     
+   
+   
+
+   
+
+   <a href="https://vtc2018f-rr-wks.trackchair.com/track/1696/" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2018-fall workshop)</a>
+ 
+ 
   EAI ChinaCom 2019, 
 
 
