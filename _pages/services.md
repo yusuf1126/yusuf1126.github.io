@@ -14,7 +14,6 @@ Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019
 Editorial Services
 --------
 * Associate Editor
-
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, September 2019-Present  
    <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, January 2020-Present  
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, September 2019-Present  
