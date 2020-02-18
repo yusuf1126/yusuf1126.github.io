@@ -69,20 +69,13 @@ Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" targe
     <a href="http://chinacom2019.eai-conferences.org/" target="_blank">The 14th EAI International Conference on Communications and Networking in China(EAI Chinacom 2019)</a>  
     <a href="http://mobicase2019.eai-conferences.org/" target="_blank">The 10th EAI International Conference on Mobile Computing, Applications and Services(EAI MobiCASE 2019)</a>    
     <a href="http://broadnets2019.eai-conferences.org/" target="_blank">The 10th EAI International Conference on Broadband Communications, Networks, and Systems (EAI BROADNETS 2019)</a>
-    <a href="http://cs-conferences.acadiau.ca/fnc-19/" target="_blank">The 14th International Conference on Future Networks and Communications (FNC 2019)</a>, August 19-21, 2019, Halifax, Canada  
+    <a href="http://cs-conferences.acadiau.ca/fnc-19/" target="_blank">The 14th International Conference on Future Networks and Communications (FNC 2019)</a>    
     <a href="http://iwcmc.org/2018/" target="_blank">The 14th International Wireless Communications and Mobile Computing Conference (IWCMC 2018)</a>  
    <a href="https://vtc2018f-rr-wks.trackchair.com/track/1696/" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2018-fall workshop)</a>  
 
 
 Reviewing Services
 --------
-* Conferences  
-
-IEEE INFOCOM Workshop 2020 DrogCom), 
-IEEE ICC, 
-IEEE GlobeCom, 
-IEEE WCNC, 
-IEEE PIMRC, 
 
 * Journals
 
@@ -98,6 +91,15 @@ IET SMC,
 IET CPS
 EAI CollaborateCom 
 Wiley IJCS,
+
+* Conferences  
+
+  <a href="https://infocom2020.ieee-infocom.org/workshop-drone-assisted-smart-backhaul-solutions-5g-and-beyond" target="_blank">IEEE International Conference on Computer Communications (IEEE INFOCOM 2020) workshop: DroneCom</a>
+  
+IEEE ICC, 
+IEEE GlobeCom, 
+IEEE WCNC, 
+IEEE PIMRC, 
 
 Awards
 --------
