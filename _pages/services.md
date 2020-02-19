@@ -107,5 +107,5 @@ Reviewing Services
 Awards
 --------
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
-![image](/images/Top-reviewer.png)
+![image](/images/Top-reviewer.png =400x300)
 
