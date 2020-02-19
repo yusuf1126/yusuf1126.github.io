@@ -4,7 +4,7 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and various web services. This is to make it easy for finding me. 
+Contact information is below, including email and various web services. 
 
 --------
 * Email: yusuf[at]seu.edu.cn; xuan1126a[at]gmail.com
@@ -14,4 +14,9 @@ Contact information is below, including email and various web services. This is
 * ORCID: [0000-0002-7966-4488](https://orcid.org/0000-0002-7966-4488)
 * Facebook: [xuan liu](https://www.facebook.com/profile.php?id=100013576692140)
 * Twitter: [xuanliu_yusuf](https://twitter.com/xuanliu_yusuf)
+
+
+Motto
+--------
+Never, never, never give up!!!
 
