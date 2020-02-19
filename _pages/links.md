@@ -12,3 +12,4 @@ Below are some important links and tools.
 * wikicfp: <a href="https://https://www.wikicfp.com/cfp/home/" target="_blank">https://www.wikicfp.com/cfp/home</a>
 * Networking Conferences Statistics: <a href="https://sites.cs.ucsb.edu/~almeroth/conf/stats/" target="_blank">https://sites.cs.ucsb.edu/~almeroth/conf/stats</a>
 * IEEE ComSoc: <a href="https://www.comsoc.org/" target="_blank">https://www.comsoc.org</a>
+* Guide2research: <a href="http://www.guide2research.com//" target="_blank">http://www.guide2research.com/g</a>
