@@ -104,9 +104,9 @@ Reviewing Services
   <a href="https://www.igi-global.com/gateway/journal/1102" target="_blank">IGI Global International Journal of Mobile Computing and Multimedia Communications</a>  
   <a href="https://dl.acm.org/journal/ijhcr-igi" target="_blank">IGI Global International Journal of Handheld Computing Research</a>
 
-<font color=red>Awards</font>
+Awards
 --------
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
-
+<font color=red>Awards</font>
    <img src="/images/Top-reviewer.png" height="430" width="595" div align=center />
 
