@@ -108,6 +108,6 @@ Awards
 --------
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
 
-<div align=center> 
+ <div align=center> 
    <img src="/images/Top-reviewer.png" height="430" width="595">
-</div>
+ </div>
