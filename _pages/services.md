@@ -38,7 +38,7 @@ Guest Editorial Services
  
 * Guest Editor
   
-  <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends </a> (Accepting submissions,deadline: 31 December, 2020) 
+  <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends </a> (Accepting submissions, deadline: 31 December, 2020) 
 
   <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Recent Advances in Multimedia Security and Information Hiding</a> (Accepting submissions, deadline: 30 June, 2020)  
   
