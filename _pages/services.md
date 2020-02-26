@@ -37,8 +37,11 @@ Guest Editorial Services
   <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a> (Accepting submissions, deadline: 30 November, 2020)
  
 * Guest Editor
+  
+  <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends (SCI, IF: 1.614)</a> (Accepting submissions,deadline: 31 December, 2020) 
 
   <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Recent Advances in Multimedia Security and Information Hiding</a> (Accepting submissions, deadline: 30 June, 2020)  
+  
   <a href="https://digital-library.theiet.org/content/journals/iet-smc/info/special-Issues/" target="_blank">IET SMC Special Issue on Security and Privacy for Smart Cities</a>
 
 Organizational Activities:
