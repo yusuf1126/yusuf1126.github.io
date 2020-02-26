@@ -12,7 +12,7 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-\[Call for papers\]: <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on Advances in AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends (SCI, IF: 1.614)</a>  
+\[Call for papers\]: <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends (SCI, IF: 1.614)</a>  
 Guest Editors: Farhan Ahmad, Geetanjali Rathee, Xuan Liu, Ali Kashif Bashir, Moayad Aloqaily  
 Deadline: 31 December, 2020  
 
