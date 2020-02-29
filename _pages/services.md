@@ -112,4 +112,9 @@ Awards
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
 
    <img src="/images/Top-reviewer.png" height="430" width="595">
+   
+Verified Editor and Review Records
+--------
+* <a href="https://publons.com/researcher/1280129" target="_blank">Publons, part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact.</a>
+   
 
