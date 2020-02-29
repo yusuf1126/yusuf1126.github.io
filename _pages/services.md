@@ -115,6 +115,6 @@ Awards
    
 Verified Editor and Review Records
 --------
-* <a href="https://publons.com/researcher/1280129" target="_blank">Publons, part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact.</a>
+* <a href="https://publons.com/researcher/1280129" target="_blank">Publons,</a> part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact.
    
 
