@@ -5,7 +5,6 @@ excerpt: "Current Research Interests"
 author_profile: true
 ---
 
-* Collaborative networking
 * Future network architecture
 * Dual-architecture network
-
+* Collaborative networking
