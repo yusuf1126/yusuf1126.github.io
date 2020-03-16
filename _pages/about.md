@@ -24,7 +24,7 @@ Deadline: 31 December, 2020
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020)</a>  
-Deadline: TBA (extended)
+Deadline: <font color="#dd0000">TBD (extended)</font>
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (In conjunction with IEEE TrustCom 2020)</a>   
