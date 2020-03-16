@@ -18,5 +18,5 @@ Below is contact information including email and various web services.
 
 Motto
 --------
-Never, never, never give up!!!
+<font color="#dd0000">Never, never, never give up!!!</font>
 
