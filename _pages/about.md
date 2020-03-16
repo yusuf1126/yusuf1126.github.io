@@ -14,7 +14,7 @@ Recent News
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends (SCI, IF: 1.614)</a>  
 Guest Editors: Farhan Ahmad, Geetanjali Rathee, Xuan Liu, Ali Kashif Bashir, Moayad Aloqaily  
-Deadline: <font color="green">31 December, 2020</font> 
+Deadline: <font face="黑体">31 December,2020</font> 
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">APNOMS 2020</a> in Feburary, 2020
@@ -24,20 +24,20 @@ Deadline: <font color="green">31 December, 2020</font>
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020)</a>  
-Deadline: <font color="green">TBD (extended)</font>
+Deadline: <font face="黑体">TBD(extended)</font>
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (In conjunction with IEEE TrustCom 2020)</a>   
-Deadline: <font color="green">10 May, 2020</font>   
+Deadline: <font face="黑体">10 May,2020</font>   
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks (SCI, IF: 1.258)</a>  
 Guest Editors: Xuan Liu, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao  
-Deadline: <font color="green">01 June, 2020</font>   
+Deadline: <font face="黑体">01 June,2020</font>   
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a>  
 Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny  
-Deadline: <font color="green">30 June, 2020</font>   
+Deadline: <font face="黑体">30 June,2020</font>   
   
 
