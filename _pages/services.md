@@ -1,10 +1,7 @@
----
-permalink: /services/
-title: "Professional Services and Activities"
-excerpt: "Professional Services and Activities"
-author_profile: true
 
----
+* <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
+
+   <img src="/images/Top-reviewer.png" height="430" width="595">
 
 Editorial Services
 --------
@@ -106,12 +103,6 @@ Reviewing Services
   <a href="https://eudl.eu/journal/cc" target="_blank">EAI Endorsed Transactions on Collaborative Computing</a>  
   <a href="https://www.igi-global.com/gateway/journal/1102" target="_blank">IGI Global International Journal of Mobile Computing and Multimedia Communications</a>  
   <a href="https://dl.acm.org/journal/ijhcr-igi" target="_blank">IGI Global International Journal of Handheld Computing Research</a>
-
-Awards
---------
-* <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
-
-   <img src="/images/Top-reviewer.png" height="430" width="595">
    
 Verified Editor and Review Records
 --------
