@@ -5,7 +5,7 @@ author_profile: true
 
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
 
-   <img src="/images/Top-reviewer.png" height="330" width="495">
+   <img src="/images/Top-reviewer.png" height="430" width="560">
    
 Editorial Services
 --------
@@ -116,7 +116,7 @@ Awards
 --------
 * Elsevier outstanding reviewer
     
-   <img src="/images/FGCS2017.png" height="430" width="595"> 
-   <img src="/images/SCS2017.png" height="430" width="595"> 
-   <img src="/images/JNCA2016.png" height="430" width="595"> 
+   <img src="/images/FGCS2017.png" height="330" width="495"> 
+   <img src="/images/SCS2017.png" height="330" width="495"> 
+   <img src="/images/JNCA2016.png" height="330" width="495">  
 
