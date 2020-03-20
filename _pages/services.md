@@ -27,7 +27,7 @@ Editorial Services
     
 * Editorial Board Members
 
-  <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>, since Feburay, 2019   
+  <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">Inderscience International Journal of Intelligent Internet of Things Computing</a>, since Feburay, 2019   
 
 Guest Editorial Services
 --------
