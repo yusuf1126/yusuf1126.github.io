@@ -12,22 +12,22 @@ Editorial Services
 
 * Associate Editor
 
-   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, September, 2019-Present  
-   <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, January, 2020-Present  
-   <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, September, 2019-Present  
-   <a href="http://www.keaipublishing.com/en/journals/international-journal-of-intelligent-networks/" target="_blank">KeAi International Journal of Intelligent Networks</a>, December, 2019-Present 
+   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, since September, 2019  
+   <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, since January, 2020    
+   <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, since September, 2019  
+   <a href="http://www.keaipublishing.com/en/journals/international-journal-of-intelligent-networks/" target="_blank">KeAi International Journal of Intelligent Networks</a>, since December, 2019   
     
 * Area Editor 
 
-  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of Things Computing</a>, June, 2019-Present
+  <a href="https://eudl.eu/journal/IoT" target="_blank">EAI Endorsed Transactions on Internet of Things Computing</a>, since June, 2019  
   
 * Advisory Editor
 
-  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, October, 2019-Present
+  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, since October, 2019  
     
 * Editorial Board Members
 
-  <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>, Feburay, 2019-Present 
+  <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>, since Feburay, 2019   
 
 Guest Editorial Services
 --------
