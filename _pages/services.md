@@ -33,9 +33,9 @@ Guest Editorial Services
 --------
 * Lead Guest Editor
 
-  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks</a> (Accepting submissions, deadline: 01 June, 2020)  
+  <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a> (Accepting submissions, deadline: 30 November, 2020)    
   <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a> (Accepting submissions, deadline: 30 June, 2020)  
-  <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a> (Accepting submissions, deadline: 30 November, 2020)
+  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks</a> (Accepting submissions, deadline: 01 June, 2020)
  
 * Guest Editor
   
