@@ -49,8 +49,8 @@ Organizational Activities:
 --------
 * Chair
 
-  General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China. (Accepting submissions, deadline: 31 March 2020)  
-Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China. (Accepting submissions, deadline: 10 May 2020) 
+  General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China. (Accepting submissions, deadline: 30 June, 2020)  
+Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China. (Accepting submissions, deadline: 10 May, 2020) 
 
 * TPC Member
 
