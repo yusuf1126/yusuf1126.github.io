@@ -97,6 +97,7 @@ Reviewing Services
   <a href="https://www.springer.com/journal/11276" target="_blank">Springer Wireless Networks</a>  
   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>  
   <a href="https://www.springer.com/journal/11277" target="_blank">Springer Wireless Personal Communications</a>  
+  <a href="https://www.springer.com/journal/11042" target="_blank">Springer Multimedia Tools and Applications</a>  
   <a href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">Wiley International Journal of Communication Systems</a>  
   <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>  
   <a href="https://digital-library.theiet.org/content/journals/iet-cps" target="_blank">IET Cyber-Physical Systems: Theory & Applications</a>  
