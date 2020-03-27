@@ -28,7 +28,7 @@ Deadline: <font face="黑体">31 December,2020</font>
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020, CCF C)</a>  
-Deadline: <font face="黑体">31 March,2020</font>
+Deadline: <font face="黑体">25 May,2020</font>
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (In conjunction with IEEE TrustCom 2020, CCF C)</a>   
