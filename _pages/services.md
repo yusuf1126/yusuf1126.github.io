@@ -54,6 +54,7 @@ Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" targe
 
 * TPC Member
 
+  <a href="https://conference.cs.cityu.edu.hk/msn2020/index.php" target="_blank">The 16th International Conference on Mobility, Sensing and Networking (IEEE MSN 2020)</a>  
   <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2020)</a>  
   <a href="https://infocom2020.ieee-infocom.org/workshop-drone-assisted-smart-backhaul-solutions-5g-and-beyond" target="_blank">IEEE International Conference on Computer Communications (IEEE INFOCOM 2020) workshop: DroneCom</a>  
   <a href="https://icc2020.ieee-icc.org" target="_blank">IEEE International Conference on Communications (IEEE ICC 2020)</a>  
