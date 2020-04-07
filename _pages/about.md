@@ -12,7 +12,7 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://conference.cs.cityu.edu.hk/msn2020/index.php" target="_blank">IEEE MSN 2020</a> in April, 2020  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://conference.cs.cityu.edu.hk/msn2020/index.php" target="_blank">IEEE MSN 2020 (CCF C)</a> in April, 2020  
 
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
 Guest Editors: Xuan Liu, Periklis Chatzimisios, Nadjib AIT SAADI, Syed Hassan Ahmed, Ali Kashif Bashir, Chaker Abdelaziz Kerrache  
@@ -23,7 +23,7 @@ Guest Editors: Farhan Ahmad, Geetanjali Rathee, Xuan Liu, Ali Kashif Bashir, Moa
 Deadline: <font face="黑体">31 December,2020</font> 
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">APNOMS 2020</a> in Feburary, 2020
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">APNOMS 2020 (CCF C)</a> in Feburary, 2020
 
 --------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Associate Editor for <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a> in January, 2020
