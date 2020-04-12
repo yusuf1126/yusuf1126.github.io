@@ -12,7 +12,7 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="http://dronecom.info/" target="_blank">DroneCom 2020 (In conjunction with ACM MobiCom 2020, CCF A) workshop: DroneCom</a> in April, 2020  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="http://dronecom.info/" target="_blank">DroneCom 2020 (In conjunction with ACM MobiCom 2020, CCF A)</a> in April, 2020  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://conference.cs.cityu.edu.hk/msn2020/index.php" target="_blank">IEEE MSN 2020 (CCF C)</a> in April, 2020  
