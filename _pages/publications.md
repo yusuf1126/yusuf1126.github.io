@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2020, accepted.  (SCI, IF：2.382, CCF B)
+
+--------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery. Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
 
 --------
