@@ -34,7 +34,7 @@ Zhiwei Yuan, Peng Yang, **Xuan Liu**. Research on Detecting Duplicated URL in Du
 
 Conference Papers
 --------
-**Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. An Analysis of Content Sharing Hops for Dual-Structural Network Based on General Random Graph. IEEE GLOBECOM 2018，Abu Dhabi：IEEE，2018，1-6.(EI, CCF C)
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. An Analysis of Content Sharing Hops for Dual-Structural Network Based on General Random Graph. IEEE GLOBECOM 2018, Abu Dhabi:IEEE, 2018, 1-6.(EI, CCF C)
 
 --------
-**Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. A Comparative Analysis of Content Delivery Capability for Collaborative Dual-Architecture Network. EAI CollaborateCom 2017，Edinburgh：Springer，2017，63-72. (EI, CCF C)
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. A Comparative Analysis of Content Delivery Capability for Collaborative Dual-Architecture Network. EAI CollaborateCom 2017, Edinburgh: Springer, 2017, 63-72.(EI, CCF C)
