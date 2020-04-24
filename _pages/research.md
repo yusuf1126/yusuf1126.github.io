@@ -5,6 +5,7 @@ excerpt: "Current Research Interests"
 author_profile: true
 ---
 
-* Future network architecture
-* Dual-architecture network
-* Collaborative networking
+* Future content networking
+* Collaborate networking for smart cities
+* Aerial communication systems
+* Internet content governance
