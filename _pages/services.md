@@ -87,8 +87,8 @@ Reviewing Services
 
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
-  <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a> 
-  <a href="https://ieee-sensors.org/sensors-journal/" target="_blank">IEEE Sensors Journal</a>  
+  <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a>   
+  <a href="https://ieee-sensors.org/sensors-journal/" target="_blank">IEEE Sensors Journal</a>    
   <a href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>  
   <a href="https://www.comsoc.org/publications/journals/ieee-comml" target="_blank">IEEE Communications Letters</a>  
   <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
