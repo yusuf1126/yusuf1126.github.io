@@ -53,7 +53,7 @@ Organizational Activities:
 Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China. (Accepting submissions, deadline: 10 May, 2020) 
 
 * TPC Member
-
+  <a href="https://globecom2020.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2020)</a>  
   <a href="http://dronecom.info/" target="_blank">The 26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom 2020) workshop: DroneCom</a>   
   <a href="https://conference.cs.cityu.edu.hk/msn2020/index.php" target="_blank">The 16th International Conference on Mobility, Sensing and Networking (IEEE MSN 2020)</a>  
   <a href="https://nmlab.korea.ac.kr/apnoms2020/" target="_blank">The 21st Asia-Pacific Network Operations and Management Symposium (APNOMS 2020)</a>  
