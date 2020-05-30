@@ -12,6 +12,10 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
+\[<font color="#dd0000">Call for papers</font>\]: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020, CCF C), will be held as a fully-fledged online conference</a>  
+Deadline: <font face="黑体">15 June 2020</font>
+
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://globecom2020.ieee-globecom.org/" target="_blank">IEEE Globecom 2020 (CCF C)</a> in April, 2020  
 
 --------
@@ -35,10 +39,6 @@ Deadline: <font face="黑体">31 December,2020</font>
 
 --------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Associate Editor for <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a> in January, 2020
-
---------
-\[<font color="#dd0000">Call for papers</font>\]: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020, CCF C)</a>  
-Deadline: <font face="黑体">25 May,2020</font>
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (In conjunction with IEEE TrustCom 2020, CCF C)</a>   
