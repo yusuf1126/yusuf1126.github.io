@@ -5,7 +5,6 @@ excerpt: "Current Research Interests"
 author_profile: true
 ---
 
-* Future content networking
-* Collaborate networking for smart cities
-* Aerial communication systems
-* Internet content governance
+* Collaborative networking and content delivery for 6G wireless network
+* Collaborative networking and content delivery for smart cities
+* Collaborative networking and content delivery for aerial communication systems
