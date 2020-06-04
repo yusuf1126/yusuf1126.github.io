@@ -7,11 +7,11 @@ author_profile: true
 
 * Collaborative networking and content delivery for 6G wireless network  
 
-   <img src="/images/Envisioned.png" height="400" width="59>  
+   <img src="/images/Envisioned.PNG" height="400" width="59>  
    
    The envisioned key enabling technologies for 6G and beyond wireless communications systems(cite 1)  
    
-   <img src="/images/Use.png" height="400" width="59>  
+   <img src="/images/Use.PNG" height="400" width="59>  
    
    Use cases best served by 6G systems(cite 1)
 
