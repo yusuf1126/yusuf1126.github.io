@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
+
+--------
 Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2020, accepted.  (SCI, IF：2.382, CCF B)
 
 --------
