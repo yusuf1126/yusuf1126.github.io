@@ -12,10 +12,6 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-\[<font color="#dd0000">Call for papers</font>\]: <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (In conjunction with EAI CollaborateCom 2020, CCF C, a fully-fledged online conference)</a>  
-Deadline: <font face="黑体">15 June 2020</font>
-
---------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://globecom2020.ieee-globecom.org/" target="_blank">IEEE Globecom 2020 (CCF C)</a> in April, 2020  
 
 --------
