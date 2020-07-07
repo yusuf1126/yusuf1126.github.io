@@ -33,15 +33,15 @@ Guest Editorial Services
 --------
 * Lead Guest Editor
 
-  <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a> (Accepting submissions, deadline: 30 November, 2020)    
-  <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a> (Accepting submissions, deadline: 30 June, 2020)  
-  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks</a> (Accepting submissions, deadline: 01 June, 2020)
+  <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a>       
+  <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a> (Accepting submissions, deadline: 30 July, 2020)  
+  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks</a>   
  
 * Guest Editor
   
   <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends </a> (Accepting submissions, deadline: 31 December, 2020) 
 
-  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Recent Advances in Multimedia Security and Information Hiding</a> (Accepting submissions, deadline: 30 June, 2020)  
+  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Recent Advances in Multimedia Security and Information Hiding</a>    
   
   <a href="https://digital-library.theiet.org/content/journals/iet-smc/info/special-Issues/" target="_blank">IET SMC Special Issue on Security and Privacy for Smart Cities</a>
 
@@ -49,9 +49,9 @@ Organizational Activities:
 --------
 * Chair
 
-General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China.  
+  General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China.  
   
-Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China.  
+  Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China.  
 
 * TPC Member
 
