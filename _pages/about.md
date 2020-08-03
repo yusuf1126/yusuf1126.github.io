@@ -12,11 +12,6 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-\[<font color="#dd0000">Call for papers</font>\]: <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a>  
-Guest Editors: Xuan Liu, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao, Mohamed Elhoseny  
-Deadline: <font face="黑体">30 July,2020</font>   
-
---------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
 Guest Editors: Xuan Liu, Periklis Chatzimisios, Nadjib AIT SAADI, Syed Hassan Ahmed, Ali Kashif Bashir, Chaker Abdelaziz Kerrache  
 Deadline: <font face="黑体">30 November,2020</font>  
