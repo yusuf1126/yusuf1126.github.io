@@ -55,6 +55,9 @@ Organizational Activities:
 
 * TPC Member
 
+  <a href="https://wcnc2020.ieee-wcnc.org/" target="_blank">IEEE Wireless Communications and Networking Conference(IEEE WCNC 2021)</a> 
+    <a href="https://www.icin-conference.org/" target="_blank">24th Conference on Innovation in Clouds, Internet and Networks(ICIN 2021)</a>  
+  <a href="https://csnet-conference.org/2020/" target="_blank">Cyber Security in Networking Conference(CSNet 2020)</a>  
   <a href="https://globecom2020.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2020)</a>  
   <a href="http://dronecom.info/" target="_blank">The 26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom 2020) workshop: DroneCom</a>   
   <a href="https://conference.cs.cityu.edu.hk/msn2020/index.php" target="_blank">The 16th International Conference on Mobility, Sensing and Networking (IEEE MSN 2020)</a>  
@@ -89,7 +92,8 @@ Reviewing Services
 
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
-  <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a>   
+  <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a>  
+  <a href="https://cesoc.ieee.org/publications/ce-magazine.html/" target="_blank">IEEE Consumer Electronics Magazine</a>  
   <a href="https://ieee-sensors.org/sensors-journal/" target="_blank">IEEE Sensors Journal</a>    
   <a href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>  
   <a href="https://cesoc.ieee.org/publications/ce-magazine.html" target="_blank">IEEE Consumer Electronics Magazine</a>  
