@@ -12,6 +12,9 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://im2021.ieee-im.org/" target="_blank">IFIP/IEEE IM (CCF C)</a> in 26 August, 2020  
+
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://wcnc2021.ieee-wcnc.org/" target="_blank">IEEE WCNC 2021 (CCF C)</a> in 17 August, 2020  
 
 --------
