@@ -12,13 +12,13 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
-\[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> on 8 September, 2020    
+\[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://im2021.ieee-im.org/" target="_blank">IFIP/IEEE IM 2021 (CCF C)</a> on 26 August, 2020  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://im2021.ieee-im.org/" target="_blank">IFIP/IEEE IM 2021 (CCF C)</a> in August, 2020  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://wcnc2021.ieee-wcnc.org/" target="_blank">IEEE WCNC 2021 (CCF C)</a> on 17 August, 2020  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://wcnc2021.ieee-wcnc.org/" target="_blank">IEEE WCNC 2021 (CCF C)</a> in August, 2020  
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
