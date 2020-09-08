@@ -24,7 +24,7 @@ Editorial Services
 * Advisory Editor
 
   <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, since October, 2019  
-    
+     
 * Editorial Board Members
 
   <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">Inderscience International Journal of Intelligent Internet of Things Computing</a>, since Feburay, 2019   
@@ -36,6 +36,10 @@ Guest Editorial Services
   <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a>       
   <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a> (Accepting submissions, deadline: 30 July, 2020)  
   <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks</a>   
+  
+* Guest Associate Editor
+
+  <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a>, since September, 2020  
  
 * Guest Editor
   
