@@ -12,6 +12,9 @@ Xuan Liu graduated from Shandong University, China, and received M.S. degree fro
 
 Recent News
 --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in 8 September, 2020    
+
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://im2021.ieee-im.org/" target="_blank">IFIP/IEEE IM 2021 (CCF C)</a> in 26 August, 2020  
 
 --------
