@@ -7,8 +7,8 @@ author_profile: true
 ---
 
 Journal Papers
-
 --------
+
 Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)  
 
 --------
