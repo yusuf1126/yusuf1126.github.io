@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-excerpt: "Current Research Interests"
 author_profile: true
 ---
 
