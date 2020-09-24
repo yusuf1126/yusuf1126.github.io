@@ -5,6 +5,6 @@ excerpt: "Collaborative technologies towards future network"
 author_profile: true
 ---
 
-<img src="/images/framework.png" height="300" width="490">
+<img src="/images/framework.png" height="400" width="400">
 
 
