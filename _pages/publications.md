@@ -9,6 +9,9 @@ author_profile: true
 Journal Papers
 --------
 
+Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat. A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2020, accepted.(SCI, IF：1.734)  
+
+--------
 Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)  
 
 --------
