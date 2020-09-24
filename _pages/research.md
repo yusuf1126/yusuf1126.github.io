@@ -5,7 +5,6 @@ excerpt: "Collaborative technologies towards future network"
 author_profile: true
 ---
 
-* Collaborative integrating for satellite-aerial-terrestrial network
-* UAV-assisted collaborative communications, networking and computing
-* Collaborative sensing, processing and applications for smart cities
+<img src="/images/framework.png" height="400" width="590">
+
 
