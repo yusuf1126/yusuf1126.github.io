@@ -5,7 +5,7 @@ excerpt: "Current Research Interests"
 author_profile: true
 ---
 
-* Collaborative networking and content delivery for integrating of satellite-aerial-terrestrial networks
+* Collaborative integrating for satellite-aerial-terrestrial network
 * UAV-assisted collaborative communications, networking and computing
-* Collaborative technologies for smart cities
+* Collaborative sensing, processing and applications for smart cities
 
