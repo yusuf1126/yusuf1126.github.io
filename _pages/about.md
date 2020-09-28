@@ -17,6 +17,9 @@ Recent News
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
 
 --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://icc2021.ieee-icc.org/" target="_blank">IFIP/IEEE ICC 2021 (CCF C)</a> in September, 2020  
+
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://im2021.ieee-im.org/" target="_blank">IFIP/IEEE IM 2021 (CCF C)</a> in August, 2020  
 
 --------
