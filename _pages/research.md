@@ -1,19 +1,20 @@
 ---
 permalink: /research/
-title: "Research Interest"
-excerpt: "Research Interest"
+title: "Collaborative technologies towards future network"
+excerpt: "Collaborative technologies towards future network"
 author_profile: true
 ---
-
-
-* Collaborative technologies towards future network   
 
 <img src="/images/framework.png" height="400" width="400">
 
 
-* Collaborator  
+* Space-Air-Ground Integrated Network  
 
-<a href="http://dcs-en.site.nthu.edu.tw/p/404-1010-36677.php" target="_blank">Prof. Chai K Toh </a>(Member of the Royal Academy of Engineering, IEEE Fellow,  <a href="https://ruvid.org/ri-world/the-roads-of-the-future-will-talk-and-sing-charge-vehicle-and-turn-on-streetlights/" target="_blank">Father of mobile ad hoc networks</a>)
+<img src="/images/stn.png" height="400" width="400">
 
+
+* Smart Cities  
+
+<img src="/images/smc.png" height="400" width="400">
 
 
