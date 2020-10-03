@@ -1,13 +1,13 @@
 # main links links
 main:
 
-  - title: "Research Interests"
+  - title: "Research"
     url: /research/
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Professional Services"
+  - title: "Services"
     url: /services/    
 
   - title: "Teaching"
