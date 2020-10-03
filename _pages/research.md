@@ -10,7 +10,7 @@ author_profile: true
 
 * Space-Air-Ground Integrated Network  
 
-<img src="/images/stn.png" height="400" width="450">
+<img src="/images/stn.png" height="350" width="400">
 
 
 * Smart Cities  
