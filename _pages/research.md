@@ -3,8 +3,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Interest
---------
 Collaborative technologies towards future network  
 
 <img src="/images/framework.png" height="400" width="400">
