@@ -3,8 +3,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Collaborative technologies towards future network  
-
+Collaborative technologies towards future network 
+-------- 
 <img src="/images/framework.png" height="400" width="400">
 
 Research Collaborator 
