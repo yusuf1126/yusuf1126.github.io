@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-***X***-techniques for ***U***nmanned ***A***erial vehicles collaborative ***N***etworking
+***<font color="#dd0000">X</font>***-techniques for ***U***nmanned ***A***erial vehicles collaborative ***N***etworking Group
 
 Biography
 --------
