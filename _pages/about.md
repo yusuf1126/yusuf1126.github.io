@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">X</font>-techniques for <font face="黑体" size="5" color="#dd0000">U</font>avs-enabled coll<font face="黑体" size="5" color="#dd0000">A</font>borative <font face="黑体" size="5" color="#dd0000">N</font>etworking Group </font>
+<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">X</font>-techniques for <font face="黑体" size="5" color="#dd0000">U</font>AVs-enabled coll<font face="黑体" size="5" color="#dd0000">A</font>borative <font face="黑体" size="5" color="#dd0000">N</font>etworking Group </font>
 
 
 Biography
