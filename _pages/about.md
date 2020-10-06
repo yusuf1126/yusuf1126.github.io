@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="5"><br><font face="黑体" size="6" color="#dd0000">X</font>-techniques for <font face="黑体" size="6" color="#dd0000">U</font>nmanned <font face="黑体" size="6" color="#dd0000">A</font>erial vehicles collaborative <font face="黑体" size="6" color="#dd0000">N</font>etworking Group </font>
+<font size="4"><br><font face="黑体" size="5" color="#dd0000">X</font>-techniques for <font face="黑体" size="5" color="#dd0000">U</font>nmanned <font face="黑体" size="5" color="#dd0000">A</font>erial vehicles collaborative <font face="黑体" size="5" color="#dd0000">N</font>etworking Group </font>
 
 
 Biography
