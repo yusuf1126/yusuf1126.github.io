@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font color="#dd0000">X</font>-techniques for f<font color="#dd0000">U</font>ture coll<font color="#dd0000">A</font>borative <font color="#dd0000">N</font>etworking
+<font color="#dd0000">X</font> techniques for f<font color="#dd0000">U</font>ture coll<font color="#dd0000">A</font>borative <font color="#dd0000">N</font>etworking
 
 Biography
 --------
