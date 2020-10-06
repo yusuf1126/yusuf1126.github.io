@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**X**-techniques for f**U**ture coll**A**borative **N**etworking
+***X***-techniques for f**U**ture coll**A**borative **N**etworking
 
 Biography
 --------
