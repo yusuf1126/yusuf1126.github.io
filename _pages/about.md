@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+X-technologies for UAVs collaborative networking
 
-***X***-techniques for f***U***ture coll***A***borative ***N***etworking
+***X***-techniques for ***U***nmanned ***A***erial vehicles collaborative ***N***etworking
 
 Biography
 --------
