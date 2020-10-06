@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-***X***-techniques for <font color="#dd0000" face="黑体" size="5">U</font>nmanned <font color="#dd0000" face="黑体" size="5">A</font>erial vehicles collaborative <font color="#dd0000" face="黑体" size="5">N</font>etworking Group
+<font color="#dd0000" face="黑体" size="4">X</font>\-techniques for <font color="#dd0000" face="黑体" size="4">U</font>nmanned <font color="#dd0000" face="黑体" size="4">A</font>erial vehicles collaborative <font color="#dd0000" face="黑体" size="4">N</font>etworking Group
 
 Biography
 --------
