@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-×××<font color="#dd0000">X</font>×××-techniques for <font color="#dd0000">U</font>nmanned <font color="#dd0000">A</font>erial vehicles collaborative <font color="#dd0000">N</font>etworking Group
+<font color="#dd0000">×××X×××</font>-techniques for <font color="#dd0000">U</font>nmanned <font color="#dd0000">A</font>erial vehicles collaborative <font color="#dd0000">N</font>etworking Group
 
 Biography
 --------
