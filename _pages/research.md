@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Collaborative technologies towards future network"
-excerpt: "Collaborative technologies towards future network"
+title: "UAVs-enabled collaborative networking techniques"
+excerpt: "UAVs-enabled collaborative networking techniques"
 author_profile: true
 ---
 
