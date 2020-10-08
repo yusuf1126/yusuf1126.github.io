@@ -12,6 +12,10 @@ author_profile: true
 
 <img src="/images/stn.png" height="350" width="400">
 
+* UAV-assisted system  
+
+<img src="/images/stn.png" height="350" width="400">
+
 
 * Smart Cities  
 
