@@ -9,7 +9,7 @@ author_profile: true
 Journal Papers
 --------
 
-Syed Ibrahim Imtiaz, Saif urRehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, 2020, accepted.(SCI, IF：6.125)  
+Syed Ibrahim Imtiaz, Saif urRehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, 2020, accepted.(SCI, IF：6.125, CCF C)  
 
 --------
 
