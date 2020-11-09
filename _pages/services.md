@@ -107,6 +107,7 @@ Reviewing Services
   <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications/" target="_blank">Elsevier Journal of Network and Computer Applications</a>  
   <a href="https://www.journals.elsevier.com/ad-hoc-networks/" target="_blank">Elsevier Ad Hoc Networks</a>   
   <a href="https://www.journals.elsevier.com/information-processing-and-management" target="_blank">Elsevier Information Processing & Management</a>   
+  <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing" target="_blank">Elsevier Journal of Parallel and Distributed Computing</a>  
   <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" target="_blank">Elsevier Sustainable Cities and Society</a>  
   <a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces/" target="_blank">Elsevier Computer Standards & Interfaces</a>  
   <a href="https://www.journals.elsevier.com/optics-and-laser-technology/" target="_blank">Elsevier Optics & Laser Technology</a>  
