@@ -9,6 +9,10 @@ author_profile: true
 Journal Papers
 --------
 
+Ajay Kumar, Kumar Abhishek, **Xuan Liu**, Anandakumar Haldorai. An Efficient Privacy-Preserving Identification centric Authentication in IoT based Cloud Servers for Sustainable Smart cities. Wireless Personal Communications, 2020, accepted.(SCI, IF：1.061)  
+
+--------
+
 Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, 2020, accepted.(SCI, IF：6.125, CCF C)  
 
 --------
