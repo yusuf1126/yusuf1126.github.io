@@ -128,7 +128,9 @@ Reviewing Services
    
 Verified Editor and Review Records
 --------
-* <a href="https://publons.com/researcher/1280129" target="_blank">Publons,</a> part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact.
+* <a href="https://publons.com/researcher/1280129" target="_blank">Publons,</a> part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact  
+
+* CollaborateCom 2020 workshop chair
    <img src="/images/CollaborateCom2020.png" height="330" width="495"> 
 
 Awards
