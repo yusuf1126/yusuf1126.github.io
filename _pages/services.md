@@ -55,6 +55,8 @@ Organizational Activities:
 
   General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China.  
   
+  <img src="/images/CollaborateCom2020.png" height="330" width="495">   
+  
   Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China.  
 
 * TPC Member
@@ -129,9 +131,6 @@ Reviewing Services
 Verified Editor and Review Records
 --------
 * <a href="https://publons.com/researcher/1280129" target="_blank">Publons,</a> part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact  
-
-* CollaborateCom 2020 workshop chair
-   <img src="/images/CollaborateCom2020.png" height="330" width="495"> 
 
 Awards
 --------
