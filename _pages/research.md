@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "UAVs-enabled collaborative networking techniques"
+title: "UAVs-enabled collaborative networking techniques for Smart Cities"
 excerpt: "UAVs-enabled collaborative networking techniques"
 author_profile: true
 ---
