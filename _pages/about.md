@@ -20,7 +20,7 @@ Research Collaborator
 
 Recent News
 --------
-\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on UAVs collaborative communications, networking and computing. If you are interested, please feel free to drop me an email.  
+\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing. If you are interested, please feel free to drop me an email.  
 
 --------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
