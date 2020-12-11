@@ -17,8 +17,6 @@ author_profile: true
 <img src="/images/uav.png" height="350" width="400">
 
 
-* Smart Cities  
 
-<img src="/images/smc.png" height="350" width="350"> 
 
 
