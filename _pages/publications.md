@@ -8,7 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
 
+--------
 Ajay Kumar, Kumar Abhishek, **Xuan Liu**, Anandakumar Haldorai. An Efficient Privacy-Preserving Identification centric Authentication in IoT based Cloud Servers for Sustainable Smart cities. Wireless Personal Communications, 2020, accepted.(SCI, IF：1.061)  
 
 --------
