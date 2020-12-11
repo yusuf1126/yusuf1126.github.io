@@ -23,6 +23,11 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing. If you are interested, please feel free to drop me an email.  
 
 --------
+\[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
+Guest Editors: Xuan Liu, Periklis Chatzimisios, Nadjib AIT SAADI, Syed Hassan Ahmed, Ali Kashif Bashir, Chaker Abdelaziz Kerrache  
+Deadline: <font face="黑体">31 March,2020</font>  
+
+--------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
 
 --------
@@ -33,11 +38,6 @@ Recent News
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://wcnc2021.ieee-wcnc.org/" target="_blank">IEEE WCNC 2021 (CCF C)</a> in August, 2020  
-
---------
-\[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
-Guest Editors: Xuan Liu, Periklis Chatzimisios, Nadjib AIT SAADI, Syed Hassan Ahmed, Ali Kashif Bashir, Chaker Abdelaziz Kerrache  
-Deadline: <font face="黑体">31 March,2020</font>  
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends (SCI, IF: 1.614)</a>  
