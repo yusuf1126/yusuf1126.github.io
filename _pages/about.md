@@ -25,7 +25,7 @@ Recent News
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
 Guest Editors: Xuan Liu, Periklis Chatzimisios, Nadjib AIT SAADI, Syed Hassan Ahmed, Ali Kashif Bashir, Chaker Abdelaziz Kerrache  
-Deadline: <font face="黑体">31 March,2020</font>  
+Deadline: <font face="黑体">31 March,2021</font>  
 
 --------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
