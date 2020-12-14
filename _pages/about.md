@@ -28,7 +28,7 @@ Guest Editors: Xuan Liu, Periklis Chatzimisios, Nadjib AIT SAADI, Syed Hassan Ah
 Deadline: <font face="黑体">31 March,2021</font>  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://pimrc2021.ieee-pimrc.org/" target="_blank">IEEE PIMRC  2021 (CCF C)</a> in December, 2021  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as a TPC member for <a href="https://pimrc2021.ieee-pimrc.org/" target="_blank">IEEE PIMRC 2021</a> in December, 2021  
 
 --------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
