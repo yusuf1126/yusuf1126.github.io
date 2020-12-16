@@ -12,7 +12,7 @@ author_profile: true
 
 <img src="/images/stn.png" height="350" width="400">
 
-* Unmanned Vehicle-enabled Network 
+* Unmanned Vehicles-enabled Network 
 
 <img src="/images/uav.png" height="350" width="400">
 
