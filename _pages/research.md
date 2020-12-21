@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Ubiquitous collaborative networking for Smart Cities"
-excerpt: "Ubiquitous collaborative networking for Smart Cities"
+title: "Ubiquitous collaborative networking"
+excerpt: "Ubiquitous collaborative networking"
 author_profile: true
 ---
 
