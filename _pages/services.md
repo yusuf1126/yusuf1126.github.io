@@ -138,7 +138,7 @@ Awards
 
 * IET Smart Cities Associate Editor Award 2020  
 
-   <img src="/images/smcae.png" height="330" width="495"> 
+   <img src="/images/smcae.png" height="200" width="495"> 
 
 * Elsevier outstanding reviewer
     
