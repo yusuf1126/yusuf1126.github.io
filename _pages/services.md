@@ -135,9 +135,15 @@ Verified Editor and Review Records
 
 Awards
 --------
+
+* IET Smart Cities Associate Editor Award 2020  
+
+   <img src="/images/smcae.png" height="330" width="495"> 
+
 * Elsevier outstanding reviewer
     
    <img src="/images/FGCS2017.png" height="330" width="495"> 
    <img src="/images/SCS2017.png" height="330" width="495"> 
    <img src="/images/JNCA2016.png" height="330" width="495">  
+
 
