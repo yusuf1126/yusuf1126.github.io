@@ -10,11 +10,11 @@ author_profile: true
 
 * Space-Air-Ground Network   
 
-<img src="/images/stn.png" height="350" width="400">
+<img src="/images/stn.png" height="350" width="500">
 
 * Unmanned Vehicles-enabled Network 
 
-<img src="/images/uav.png" height="350" width="400">
+<img src="/images/uav.png" height="350" width="500">
 
 * Smart Transport
 
