@@ -23,7 +23,7 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing. If you are interested, please feel free to drop me an email.  
 
 --------
-\[<font color="#dd0000">Award</font>\]: Awarded as the best Associate Editor for UK <font face="黑体">IET Smart Cities</font> Journal in 2020.
+\[<font color="#dd0000">Award</font>\]: Awarded as the best Associate Editor for UK <font color="#dd0000">IET Smart Cities</font> Journal in 2020.
 
 --------
 \[<font color="#dd0000">Call for papers</font>\]: <a href="https://pericles.pericles-prod.literatumonline.com/pb-assets/assets/24761508/Special%20Issue%20on%20Collaborative%20Networking%20Technologies%20for%20Content-oriented%20Future%20Networks-20200214-1584634013460.pdf" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks (ESCI)</a>  
