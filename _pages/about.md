@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to XUAN Group"
+title: "Welcome to XUAN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">X</font>-techniques for <font face="黑体" size="5" color="#dd0000">U</font>biquitous coll<font face="黑体" size="5" color="#dd0000">A</font>borative <font face="黑体" size="5" color="#dd0000">N</font>etworking Group </font>
+<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">X</font>-techniques for <font face="黑体" size="5" color="#dd0000">U</font>biquitous coll<font face="黑体" size="5" color="#dd0000">A</font>borative <font face="黑体" size="5" color="#dd0000">N</font>etworking</font>
 
 
 Biography
