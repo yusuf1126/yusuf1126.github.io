@@ -16,9 +16,9 @@ author_profile: true
 
 <img src="/images/uav.png" height="350" width="500">
 
-* Smart Transport
+* Smart Cities
 
-<img src="/images/smarttransport.png" height="350" width="500">
+<img src="/images/smc.png" height="350" width="500">
 
 
 
