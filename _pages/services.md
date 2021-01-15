@@ -27,7 +27,7 @@ Editorial Services
      
 * Editorial Board Member
   
-  <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications</a>, since January, 2021 
+  <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Elsevier Computer Communications</a>, since January, 2021  
   <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">Inderscience International Journal of Intelligent Internet of Things Computing</a>, since Feburay, 2019   
 
 Guest Editorial Services
