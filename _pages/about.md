@@ -23,6 +23,9 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing. If you are interested, please feel free to drop me an email.  
 
 --------
+\[<font color="#dd0000">Editorial service</font>\]: Appointed as a Technical Committee Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications</a> in January, 2021  
+
+--------
 \[<font color="#dd0000">Award</font>\]: Awarded as the best Associate Editor for UK <font color="#dd0000">IET Smart Cities</font> Journal in 2020.
 
 --------
