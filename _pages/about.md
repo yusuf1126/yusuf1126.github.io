@@ -12,7 +12,7 @@ redirect_from:
 
 Biography
 --------
-*Xuan Liu* (MIEEE’17) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctor with School of Computer Science and Engineering, Southeast University, China. He is also serving as a Technical Committee Member of Computer Communicationsan, an Advisory Editor of Wiley Engineering Reports, an Associate Editor of TELS, IET Smart Cities, IJCA and IJIN, an Area Editor of EAI TIoT, the Lead Guest Editor of Elsevier IoT, ETT and ITL, and the Chair of CollaborateCom 2020 workshop. Furthermore, he served(s) as a TPC Member of ACM MobiCom workshop, IEEE INFOCOM workshop, IEEE ICC, IEEE GlobeCom, IEEE WCNC, IFIP/IEEE IM, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, AdHoc-Now, FNC, CollaborateCom, and ChinaCom, etc. Besides, he served as a Reviewer for 190+ reputable conferences/journal papers. His main research interests focus on ubiquitous collaborative networking. <font face="黑体" size="3">(Last updated on 14 Dec, 2020)</font>  
+*Xuan Liu* (MIEEE’17) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctor with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communicationsan, an Advisory Editor of Wiley Engineering Reports, an Associate Editor of TELS, IET Smart Cities, IJCA and IJIN, an Area Editor of EAI TIoT, the Lead Guest Editor of Elsevier IoT, ETT and ITL, and the Chair of CollaborateCom 2020 workshop. Furthermore, he served(s) as a TPC Member of ACM MobiCom workshop, IEEE INFOCOM workshop, IEEE ICC, IEEE GlobeCom, IEEE WCNC, IFIP/IEEE IM, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, AdHoc-Now, FNC, CollaborateCom, and ChinaCom, etc. Besides, he served as a Reviewer for 190+ reputable conferences/journal papers. His main research interests focus on ubiquitous collaborative networking. <font face="黑体" size="3">(Last updated on 14 Dec, 2020)</font>  
 
 Research Collaborator
 --------
@@ -23,7 +23,7 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing. If you are interested, please feel free to drop me an email.  
 
 --------
-\[<font color="#dd0000">Editorial service</font>\]: Appointed as a Technical Committee Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications</a> in January, 2021  
+\[<font color="#dd0000">Editorial service</font>\]: Appointed as an Editorial Board Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications</a> in January, 2021  
 
 --------
 \[<font color="#dd0000">Award</font>\]: Awarded as the best Associate Editor for UK <font color="#dd0000">IET Smart Cities</font> Journal in 2020.
