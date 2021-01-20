@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to XUAN"
+title: "Welcome to UAN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
