@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Ubiquitous collaborative networking"
-excerpt: "Ubiquitous collaborative networking"
+title: "Ubiquitous collaborative networking for future cities signs governance"
+excerpt: "Ubiquitous collaborative networking for future cities signs governance"
 author_profile: true
 ---
 
