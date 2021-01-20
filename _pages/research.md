@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "UAN for future cities signs governance"
-excerpt: "UAN for future cities signs governance"
+title: "UAN for signs governance towards future cities"
+excerpt: "UAN for signs governance towards future cities"
 author_profile: true
 ---
 
