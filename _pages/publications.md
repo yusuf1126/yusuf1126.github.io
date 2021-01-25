@@ -8,18 +8,16 @@ author_profile: true
 
 Journal Papers
 --------
+Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(SCI, IF：6.125, CCF C)  
+
+--------
+Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat.  A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.(SCI, IF：1.734)  
+
+--------
 Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
 
 --------
 Ajay Kumar, Kumar Abhishek, **Xuan Liu**, Anandakumar Haldorai. An Efficient Privacy-Preserving Identification centric Authentication in IoT based Cloud Servers for Sustainable Smart cities. Wireless Personal Communications, 2020, accepted.(SCI, IF：1.061)  
-
---------
-
-Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, 2020, accepted.(SCI, IF：6.125, CCF C)  
-
---------
-
-Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat. A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2020, accepted.(SCI, IF：1.734)  
 
 --------
 Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)  
