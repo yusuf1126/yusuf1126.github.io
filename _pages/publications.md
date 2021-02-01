@@ -8,10 +8,7 @@ author_profile: true
 
 Journal Papers
 --------
-Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(SCI, IF：6.125, CCF C)  
-
---------
-Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat.  A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.(SCI, IF：1.734)  
+S. H. Alsamhi1, B. Lee1, Mohsen Guizani, Neeraj Kumar, Y. Qiao, **Xuan Liu**. Blockchain for Decentralized Multi-Drone to Fight COVID-19 and Future Pandemics: Framework and Proposed Solutions. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594)  
 
 --------
 Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
@@ -26,7 +23,13 @@ Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A 
 Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
 
 --------
-Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2020, accepted.  (SCI, IF：2.382, CCF B)
+Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2020, accepted.  (SCI, IF：2.382, CCF B)  
+
+--------
+Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(SCI, IF：6.125, CCF C)  
+
+--------
+Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat.  A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.(SCI, IF：1.734)  
 
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery. Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
