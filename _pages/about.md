@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----------------------------------------------<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>biquitous <font face="黑体" size="5" color="#dd0000">C</font>ollaborative <font face="黑体" size="5" color="#dd0000">N</font>etworking for <font face="黑体" size="5" color="#dd0000">s</font>mart cities</font>
+---------------------------------------------<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>biquitous <font face="黑体" size="5" color="#dd0000">C</font>ollaborative <font face="黑体" size="5" color="#dd0000">N</font>etworking 
 
 
 Biography
