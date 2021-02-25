@@ -26,7 +26,7 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing for smart cities. If you are interested, please feel free to drop me an email.  
 
 --------
-\[<font color="#dd0000">News</font>\]Elevated as IEEE Senior Member in February, 2021  
+\[<font color="#dd0000">Organizational activity</font>\]Elevated as IEEE Senior Member in February, 2021  
 
 --------
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as an Editorial Board Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications</a> in January, 2021  
