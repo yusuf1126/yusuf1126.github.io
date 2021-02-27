@@ -5,7 +5,7 @@ author_profile: true
 
 * IEEE Senior Member
     
-   <img src="/images/ism.png" height="330" width="495">   
+   <img src="/images/ism.png" height="400" width="590">   
    
    
 Editorial Services
@@ -141,7 +141,7 @@ Awards
 
 * <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
 
-   <img src="/images/Top-reviewer.png" height="400" width="590">  
+   <img src="/images/Top-reviewer.png" height="330" width="495">  
    
 * IET Smart Cities Associate Editor Award 2020  
 
