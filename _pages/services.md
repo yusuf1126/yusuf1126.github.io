@@ -3,9 +3,10 @@ permalink: /services/
 author_profile: true
 ---
 
-* <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
-
-   <img src="/images/Top-reviewer.png" height="400" width="590">
+* IEEE Senior Member
+    
+   <img src="/images/ism.png" height="330" width="495">   
+   
    
 Editorial Services
 --------
@@ -138,6 +139,10 @@ Verified Editor and Review Records
 Awards
 --------
 
+* <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
+
+   <img src="/images/Top-reviewer.png" height="400" width="590">  
+   
 * IET Smart Cities Associate Editor Award 2020  
 
    <img src="/images/smcae.png" height="200" width="495"> 
