@@ -16,11 +16,6 @@ Biography
 
 <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Chinese Personal Website</a>
 
-Research Collaborator
---------
-<a href="https://cse.seu.edu.cn/2019/0102/c23024a257040/page.htm" target="_blank">Prof. Youping Li </a>(Academician of Chinese Academy of Engineering)  
-<a href="https://ethw.org/Chai_K._Toh" target="_blank">Prof. Chai K Toh </a>(Academician of the Royal Academy of Engineering, IEEE Fellow,  <a href="https://ruvid.org/ri-world/the-roads-of-the-future-will-talk-and-sing-charge-vehicle-and-turn-on-streetlights/" target="_blank">Father of mobile ad hoc networks</a>)
-
 Recent News
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing for smart cities. If you are interested, please feel free to drop me an email.  
