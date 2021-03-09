@@ -27,7 +27,7 @@ Recent News
 \[<font color="#dd0000">Organizational activity</font>\]: Elevated as <font color="#dd0000">IIEEE Senior Member</font> in February, 2021  
 
 --------
-\[<font color="#dd0000">Editorial service</font>\]: Appointed as Editorial Board Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications</a> in January, 2021  
+\[<font color="#dd0000">Editorial service</font>\]: Appointed as Editorial Board Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications (CCF C)</a> in January, 2021  
 
 --------
 \[<font color="#dd0000">Award</font>\]: Awarded as the best Associate Editor for <font color="#dd0000">IET Smart Cities</font> in 2020.
