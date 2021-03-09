@@ -21,6 +21,9 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on collaborative communications, networking and computing for smart cities. If you are interested, please feel free to drop me an email.  
 
 --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://people.cs.nctu.edu.tw/~apnoms2021/index.html" target="_blank">APNOMS 2021(CCF C)</a> in March, 2021  
+
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Elevated as IEEE Senior Member in February, 2021  
 
 --------
