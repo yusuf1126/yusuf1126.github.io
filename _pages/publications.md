@@ -8,7 +8,7 @@ author_profile: true
 
 Journal Papers
 --------
-S. H. Alsamhi, B. Lee, Mohsen Guizani, Neeraj Kumar, Y. Qiao, **Xuan Liu**. Blockchain for Decentralized Multi-Drone to Combat COVID-19. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594)  
+Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594)  
 
 --------
 Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
