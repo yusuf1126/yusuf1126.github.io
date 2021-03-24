@@ -10,6 +10,10 @@ Membership
     
    <img src="/images/ism.png" height="400" width="590">   
    
+* IEEE Broadcast Technology Society Senior Member
+    
+   <img src="/images/MEMBT002.png" height="400" width="590">   
+   
 * ACM Professional Member
     
    <img src="/images/acm.png" height="400" width="590">   
