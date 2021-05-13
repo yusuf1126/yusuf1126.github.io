@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+ **Xuan Liu**, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao. Integration of satellite‐aerial‐terrestrial networks. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594) 
+
+--------
 Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594)  
 
 --------
