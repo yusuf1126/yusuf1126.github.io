@@ -14,25 +14,25 @@ Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei 
  **Xuan Liu**, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao. Integration of satellite‐aerial‐terrestrial networks. Wiley Transactions on Emerging Telecommunications Technologies, 10 May 2021, ett.4297.(SCI, IF：1.594) 
 
 --------
-Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594)  
-
---------
-Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
+Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 17 March 2021, ett.4255.(SCI, IF：1.594)  
 
 --------
 Ajay Kumar, Kumar Abhishek, **Xuan Liu**, Anandakumar Haldorai. An Efficient Privacy-Preserving Identification centric Authentication in IoT based Cloud Servers for Sustainable Smart cities. Wireless Personal Communications, 2020, accepted.(SCI, IF：1.061)  
 
 --------
-Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)  
-
---------
-Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
-
---------
 Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(SCI, IF：6.125, CCF C)  
 
 --------
-Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat.  A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.(SCI, IF：1.734)  
+Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat.  A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.(SCI, IF：1.734)
+
+--------
+Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 10 December 2020, ett.4193.(SCI, IF：1.594)
+
+--------
+Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 07 October 2020, ett.4133.(SCI, IF：1.594)  
+
+--------
+Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 13 August 2020, ett.4088.(SCI, IF：1.594)
 
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery. Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.101, CCF C)
