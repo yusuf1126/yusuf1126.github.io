@@ -19,6 +19,9 @@ Biography
 Recent News
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on ubiquitous collaborative networking. If you are interested, please feel free to drop me an email.  
+
+ --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2022.ieee-wcnc.org/" target="_blank">IEEE WCNC 2022 (CCF C)</a> in June, 2021  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2021.ieee-globecom.org/" target="_blank">IEEE Globecom 2021(CCF C)</a> in May, 2021  
