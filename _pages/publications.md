@@ -8,7 +8,10 @@ author_profile: true
 
 Journal Papers
 --------
- **Xuan Liu**, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao. Integration of satellite‐aerial‐terrestrial networks. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594) 
+Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2021:21(2), 1–23.(SCI, IF：2.382, CCF B)  
+
+--------
+ **Xuan Liu**, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao. Integration of satellite‐aerial‐terrestrial networks. Wiley Transactions on Emerging Telecommunications Technologies, 10 May 2021, ett.4297.(SCI, IF：1.594) 
 
 --------
 Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 2021, accepted.(SCI, IF：1.594)  
@@ -24,9 +27,6 @@ Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A 
 
 --------
 Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 2020, accepted.(SCI, IF：1.594)
-
---------
-Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2020, accepted.  (SCI, IF：2.382, CCF B)  
 
 --------
 Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(SCI, IF：6.125, CCF C)  
