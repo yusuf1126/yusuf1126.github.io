@@ -59,7 +59,7 @@ Zhiwei Yuan, Peng Yang, **Xuan Liu**. Research on Detecting Duplicated URL in Du
 Conference Papers
 --------
 
-Youbing	Zhong, Zhou	Zhou, **Xuan Liu**, Da Li, Meijun	Guo, Shuai	Zhang, Qingyun	Liu, Li	Guo. BPA:The Optimal Placement of Interdependent VNFs in Many-core System. EAI CollaborateCom 2020, accepted.(EI, CCF C)  
+Youbing	Zhong, Zhou	Zhou, **Xuan Liu**, Da Li, Meijun	Guo, Shuai	Zhang, Qingyun	Liu, Li	Guo. BPA:The Optimal Placement of Interdependent VNFs in Many-core System. EAI CollaborateCom 2020, Shanghai: Springer, 2020, 305-319.(EI, CCF C)  
 
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. An Analysis of Content Sharing Hops for Dual-Structural Network Based on General Random Graph. IEEE GLOBECOM 2018, Abu Dhabi:IEEE, 2018, 1-6.(EI, CCF C)  
