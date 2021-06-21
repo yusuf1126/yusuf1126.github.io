@@ -21,7 +21,7 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to cutting-edge research on ubiquitous collaborative networking. If you are interested, please feel free to drop me an email.  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IFIP/IEEE ICC 2022 (CCF C)</a> in June, 2021  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE ICC 2022 (CCF C)</a> in June, 2021  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2022.ieee-wcnc.org/" target="_blank">IEEE WCNC 2022 (CCF C)</a> in June, 2021  
@@ -53,7 +53,7 @@ Deadline: <font face="黑体">31 March,2021</font>
 \[<font color="#dd0000">Editorial service</font>\]: Appointed as Guest Associate Editor for <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> in September, 2020    
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2021.ieee-icc.org/" target="_blank">IFIP/IEEE ICC 2021 (CCF C)</a> in September, 2020  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2021.ieee-icc.org/" target="_blank">IEEE ICC 2021 (CCF C)</a> in September, 2020  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://im2021.ieee-im.org/" target="_blank">IFIP/IEEE IM 2021 (CCF C)</a> in August, 2020  
