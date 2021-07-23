@@ -41,17 +41,6 @@ Recent News
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2022.ieee-wcnc.org/" target="_blank">IEEE WCNC 2022 (CCF C)</a> in June, 2021  
   
---------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2021.ieee-globecom.org/" target="_blank">IEEE Globecom 2021(CCF C)</a> in May, 2021  
-
---------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://people.cs.nctu.edu.tw/~apnoms2021/index.html" target="_blank">APNOMS 2021(CCF C)</a> in March, 2021  
-
---------
-\[<font color="#dd0000">Organizational activity</font>\]: Elevated as <font color="#dd0000">IEEE Senior Member</font> in February, 2021  
-
---------
-\[<font color="#dd0000">Editorial service</font>\]: Appointed as Editorial Board Member for <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Computer Communications (CCF C)</a> in January, 2021  
 
 
 
