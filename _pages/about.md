@@ -31,6 +31,9 @@ Recent News
   
 --------
 \[<font color="#dd0000">CFP</font>\]: Special Issue on Big Data Optimization Methods Challenges, Issues And Applications, <a href="https://www.opte-journal.com/index.php?page=sis" target="_blank">Optimization and Engineering </a> (Deadline: 20 January, 2022)  
+ 
+--------
+\[<font color="#dd0000">CFP</font>\]: Special Issue on Edge Computing for Smart City, <a href="https://onlinelibrary.wiley.com/page/journal/24761508/homepage/special_issues.htm" target="_blank">Internet Technology Letters </a> (Deadline: 20 January, 2022)  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE ICC 2022 (CCF C)</a> in June, 2021  
