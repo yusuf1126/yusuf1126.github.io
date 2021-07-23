@@ -22,6 +22,9 @@ Recent News
   
 --------
 \[<font color="#dd0000">CFPs</font>\]: Special Issue on Deep Learning for Unmanned Vehicle Systems, <a href="https://think.taylorandfrancis.com/special_issues/deep-learning-unmanned-vehicle-systems/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank"> Journal of Control and Decision </a> (Deadline: 20 January, 2022)  
+
+--------
+\[<font color="#dd0000">CFPs</font>\]: Special Issue on Blockchain Assisted Cyber Physical System for Cyber Security, <a href="https://www.worldscientific.com/page/join/callforpapers01" target="_blank"> Journal of Interconnection Networks </a> (Deadline: 20 January, 2022)  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE ICC 2022 (CCF C)</a> in June, 2021  
