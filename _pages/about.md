@@ -21,7 +21,7 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to vehicle-road-network collaborative technology. If you are interested, please feel free to drop me an email.  
   
 --------
-\[<font color="#dd0000">CFP</font>\]: Special Issue on Big Data Intelligence in Clinical Information Systems, <a href="https://www.igi-global.com/calls-for-papers-special/journal-database-management/1072" target="_blank">Journal of Database Management</a>(CCF C, SCI, IF: 1.233, Deadline: 20 January, 2022)  
+\[<font color="#dd0000">CFP</font>\]: Special Issue on Big Data Intelligence in Clinical Information Systems, <a href="https://www.igi-global.com/calls-for-papers-special/journal-database-management/1072" target="_blank">Journal of Database Management</a> (CCF C, SCI, IF: 1.233, Deadline: 20 January, 2022)  
   
 --------
 \[<font color="#dd0000">CFP</font>\]: Special Issue on Big Data Optimization Methods Challenges, Issues And Applications, <a href="https://www.opte-journal.com/index.php?page=sis" target="_blank">Optimization and Engineering </a>(SCI, IF: 2.760, Deadline: 20 January, 2022)  
