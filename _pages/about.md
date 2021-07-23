@@ -27,7 +27,7 @@ Recent News
 \[<font color="#dd0000">CFP</font>\]: Special Issue on Blockchain Assisted Cyber Physical System for Cyber Security, <a href="https://www.worldscientific.com/page/join/callforpapers01" target="_blank"> Journal of Interconnection Networks </a> (Deadline: 20 January, 2022)  
   
 --------
-\[<font color="#dd0000">CFP</font>\]: Special Issue on BIG DATA OPTIMIZATION METHODS CHALLENGES, ISSUES AND APPLICATIONS, <a href="https://www.opte-journal.com/index.php?page=sis" target="_blank"> Optimization and Engineering </a> (Deadline: 20 January, 2022)  
+\[<font color="#dd0000">CFP</font>\]: Special Issue on Big Data Optimization Methods Challenges, Issues And Applications, <a href="https://www.opte-journal.com/index.php?page=sis" target="_blank"> Optimization and Engineering </a> (Deadline: 20 January, 2022)  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE ICC 2022 (CCF C)</a> in June, 2021  
