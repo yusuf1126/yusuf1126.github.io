@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Ikram Ul Haq, Tamim Ahmed Khan, Adnan Akhunzada, **Xuan Liu**. MalDroid: Secure DL-enabled intelligent malware detection framework. IET Communications, 2021, 1–12.(SCI, IF：1.542, CCF C)  
+
+--------
 Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2021:21(2), 1–23.(SCI, IF：2.382, CCF B)  
 
 --------
