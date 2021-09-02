@@ -83,6 +83,7 @@ Organizational Activities:
 
 * TPC Member
 
+  <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE/IFIP Network Operations and Management Symposium (IEEE NOMS 2022)</a>   
   <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2022)</a>   
   <a href="https://wcnc2022.ieee-wcnc.org/" target="_blank">IEEE Wireless Communications and Networking Conference (IEEE WCNC 2022)</a>  
   <a href="https://globecom2021.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2021)</a>  
