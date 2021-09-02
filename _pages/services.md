@@ -34,7 +34,7 @@ Editorial Services
   
 * Advisory Editor
 
-  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, since October, 2019  
+  <a href="https://onlinelibrary.wiley.com/journal/25778196" target="_blank">Wiley Engineering Reports</a>, (Oct.2019-Aug.2021)
      
 * Editorial Board Member
   
