@@ -18,7 +18,7 @@ Biography
 
 Recent News
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022 (CCF C)</a> in September, 2021  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022</a> in September, 2021  
   
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
