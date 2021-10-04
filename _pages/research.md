@@ -9,13 +9,6 @@ author_profile: true
 
 
 
-* Unmanned Vehicles-enabled Network 
-
-<img src="/images/uav.png" height="350" width="500">
-
-* Smart Transportation
-* VLC Network
-
 
 
 
