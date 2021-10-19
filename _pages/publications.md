@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Gerhard P. Hancke，Mohammad Reza Salehizadeh，**Xuan Liu**，Jie Hu，Adnan M. Abu‐Mahfouz, Nikolaos Thomos, Susumu Ishihara, Claudio Savaglio. IoT sensing, applications, and technologies for smart sustainable cities. IET Smart Cities, 2021:3(3), 121–124.  
+
+--------
 Ikram Ul Haq, Tamim Ahmed Khan, Adnan Akhunzada, **Xuan Liu**. MalDroid: Secure DL-enabled intelligent malware detection framework. IET Communications, 2021, 1–12.(SCI, IF：1.542, CCF C)  
 
 --------
