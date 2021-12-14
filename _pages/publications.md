@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Pronaya Bhattacharya，Umesh Bodkhe，Mohd Zuhair，Mamoon Rashid，**Xuan Liu**，Ashwin Verma，Ram Kishan Dewangan. Amalgamation of blockchain and sixth-generation-envisioned responsive edge orchestration in future cellular vehicle-to-anything ecosystems: Opportunities and challenges. Wiley Transactions on Emerging Telecommunications Technologies, 12 December 2021, ett.4410.(SCI, IF：2.638)  
+ 
+--------
 Gerhard P. Hancke，Mohammad Reza Salehizadeh，**Xuan Liu**，Jie Hu，Adnan M. Abu‐Mahfouz, Nikolaos Thomos, Susumu Ishihara, Claudio Savaglio. IoT sensing, applications, and technologies for smart sustainable cities. IET Smart Cities, 2021:3(3), 121–124.  
 
 --------
