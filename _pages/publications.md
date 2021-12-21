@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Renjie Li，Zhou Zhou，**Xuan Liu**，Da Li，Wei Yang，Shu Li，Qingyun Liu，Ashwin Verma，Ram Kishan Dewangan. GTF:An Adaptive Network Anomaly Detection Method at the Network Edge. Security and Communication Networks, 20 December 2021.(CCF C, SCI, IF：1.791)  
+
+--------
 Pronaya Bhattacharya，Umesh Bodkhe，Mohd Zuhair，Mamoon Rashid，**Xuan Liu**，Ashwin Verma，Ram Kishan Dewangan. Amalgamation of blockchain and sixth-generation-envisioned responsive edge orchestration in future cellular vehicle-to-anything ecosystems: Opportunities and challenges. Wiley Transactions on Emerging Telecommunications Technologies, 12 December 2021, ett.4410.(SCI, IF：2.638)  
  
 --------
