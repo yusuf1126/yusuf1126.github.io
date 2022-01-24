@@ -18,13 +18,13 @@ Biography
 
 Recent News
 --------
+\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
+  
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2022 (CCF C)</a> in December, 2021  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022</a> in September, 2021  
-  
---------
-\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
   
 --------
 \[<font color="#dd0000">CFP</font>\]: Special Issue on Big Data Intelligence in Clinical Information Systems, <a href="https://www.igi-global.com/calls-for-papers-special/journal-database-management/1072" target="_blank">Journal of Database Management</a> (CCF C, SCI, IF: 1.233, Deadline: 20 January, 2022)  
