@@ -12,11 +12,14 @@ redirect_from:
 
 Biography
 --------
-*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctor with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communications, an Associate Editor of TELS, IET Smart Cities, IJCA and IJIN, an Area Editor of EAI TIoT, the Lead Guest Editor of Elsevier IoT, ETT and ITL, and the Chair of CollaborateCom 2020 workshop. Furthermore, he served(s) as a TPC Member of ACM MobiCom workshop, IEEE INFOCOM workshop, IEEE ICC, IEEE GlobeCom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, AdHoc-Now, FNC, CollaborateCom, and ChinaCom, etc. Besides, he served as a Reviewer for 200+ reputable conferences/journal papers. His main research interests focus on ubiquitous collaborative networking. <font face="黑体" size="3">(Last updated on 2 September, 2021)</font>
+*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctor with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communications, an Associate Editor of TELS, IET Smart Cities, IJCA and IJIN. Furthermore, he served(s) as a TPC Member of ACM MobiCom workshop, IEEE INFOCOM workshop, IEEE ICC, IEEE GlobeCom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, AdHoc-Now, FNC, CollaborateCom, and ChinaCom, etc. Besides, he served as a Reviewer for 200+ reputable conferences/journal papers. His main research interests focus on ubiquitous collaborative networking. <font face="黑体" size="3">(Last updated on 2 September, 2021)</font>
 
 <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Chinese Personal Website</a>
 
 Recent News
+--------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE ICC 2022 (CCF C)</a> in December, 2021  
+  
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022</a> in September, 2021  
   
