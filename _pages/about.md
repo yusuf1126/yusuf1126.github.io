@@ -21,7 +21,7 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2022 (CCF C)</a> in December, 2021  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2022  NGNI/MWN (CCF C)</a> in December, 2021  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022</a> in September, 2021  
@@ -42,7 +42,7 @@ Recent News
 \[<font color="#dd0000">CFP</font>\]: Special Issue on Deep Learning for Unmanned Vehicle Systems, <a href="https://think.taylorandfrancis.com/special_issues/deep-learning-unmanned-vehicle-systems/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Journal of Control and Decision </a>(Ei, Deadline: 20 January, 2022)  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE ICC 2022 (CCF C)</a> in June, 2021  
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE ICC 2022 NGNI(CCF C)</a> in June, 2021  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2022.ieee-wcnc.org/" target="_blank">IEEE WCNC 2022 (CCF C)</a> in June, 2021  
