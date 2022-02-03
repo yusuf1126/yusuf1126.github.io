@@ -19,7 +19,10 @@ Biography
 Recent News
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
-  
+
+--------
+\[<font color="#dd0000">Editorial Services</font>\]: Appointed as Associate Editor for <a href="https://digital-library.theiet.org/content/journals/iet-net" target="_blank">IET Networks</a> in Feburary, 2022  
+
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2022  NGNI/MWN (CCF C)</a> in December, 2021  
   
