@@ -11,6 +11,9 @@ Journal Papers
 Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2022, accepted. (CCF C, SCI, IF：5.938)  
 
 --------
+Minghua Xia，Edmund Lai，Jie Hu，**Xuan Liu**，Nikolaos Thomos，Zilong Liu，Tao Han，Vivek A Bohara，ADUWATI SALI. 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications. Frontiers in Communications and Networks，2022，3:841742. 
+
+--------
 Renjie Li，Zhou Zhou，**Xuan Liu**，Da Li，Wei Yang，Shu Li，Qingyun Liu. GTF:An Adaptive Network Anomaly Detection Method at the Network Edge. Security and Communication Networks, 20 December 2021.(CCF C, SCI, IF：1.791)  
 
 --------
