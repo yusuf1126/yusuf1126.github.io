@@ -26,7 +26,7 @@ Editorial Services
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, since September, 2019  
    <a href="https://ietresearch.onlinelibrary.wiley.com/journal/20474962" target="_blank">IET Networks</a>, since Feburary, 2022  
    <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, since January, 2020    
-   <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, since September, 2019  
+   <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, (Sep.2019-Feb.2022)
    <a href="http://www.keaipublishing.com/en/journals/international-journal-of-intelligent-networks/" target="_blank">KeAi International Journal of Intelligent Networks</a>, since December, 2019   
 
 * Area Editor 
