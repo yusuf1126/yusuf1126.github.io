@@ -19,6 +19,9 @@ Biography
 Recent News
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
+ 
+--------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://www.ieice.org/cs/icm/apnoms/2022/index.html" target="_blank">APNOMS 2022(CCF C)</a> in March, 2022  
 
 --------
 \[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://ietresearch.onlinelibrary.wiley.com/journal/20474962" target="_blank">IET Networks</a> in Feburary, 2022  
