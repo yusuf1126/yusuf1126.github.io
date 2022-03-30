@@ -52,7 +52,7 @@ Guest Editorial Services
   
 * Guest Associate Editor
 
-  <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> 
+  <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks Research Topic on 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications</a> 
  
 * Guest Editor
 
