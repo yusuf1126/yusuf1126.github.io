@@ -52,10 +52,12 @@ Guest Editorial Services
   
 * Guest Associate Editor
 
-  <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a>, since September, 2020  
+  <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks</a> 
  
 * Guest Editor
-  
+
+   <a href="https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/20474962/Special%20Issues/IET_NET_CfP_ET6GFN-1648230828407.pdf" target="_blank">IET Networks </a>  
+ 
   <a href="https://www.igi-global.com/calls-for-papers-special/journal-database-management/1072" target="_blank">Journal of Database Management Special Issue on Big Data Intelligence in Clinical Information Systems</a>  
 
   <a href="https://www.opte-journal.com/index.php?page=sis" target="_blank">Optimization and Engineering Special Issue on Big Data Optimization Methods Challenges, Issues And Applications</a>  
