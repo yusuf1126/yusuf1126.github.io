@@ -57,14 +57,6 @@ Guest Editorial Services
 * Guest Editor
 
    <a href="https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/20474962/Special%20Issues/IET_NET_CfP_ET6GFN-1648230828407.pdf" target="_blank">IET Networks Special Issue on Enabling Technologies for 6G and Future Networks</a>  
- 
-  <a href="https://www.igi-global.com/calls-for-papers-special/journal-database-management/1072" target="_blank">Journal of Database Management Special Issue on Big Data Intelligence in Clinical Information Systems</a>  
-
-  <a href="https://www.opte-journal.com/index.php?page=sis" target="_blank">Optimization and Engineering Special Issue on Big Data Optimization Methods Challenges, Issues And Applications</a>  
-  
-  <a href="https://www.worldscientific.com/page/join/callforpapers01" target="_blank">Journal of Interconnection Networks Special Issue on Blockchain Assisted Cyber Physical System for Cyber Security</a>  
-
-  <a href="https://onlinelibrary.wiley.com/page/journal/24761508/homepage/special_issues.htm" target="_blank">Internet Technology Letters Special Issue on Edge Computing for Smart City</a>  
 
   <a href="https://think.taylorandfrancis.com/special_issues/deep-learning-unmanned-vehicle-systems/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Journal of Control and Decision Special Issue on Deep Learning for Unmanned Vehicle Systems</a>  
 
