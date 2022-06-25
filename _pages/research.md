@@ -1,11 +1,11 @@
 ---
 permalink: /research/
-title: "Ubiquitous Communication and Networking"
-excerpt: "Ubiquitous Communication and Networking"
+title: "Ubiquitous Content Networking"
+excerpt: "Ubiquitous Content Networking"
 author_profile: true
 ---
 
-<img src="/images/framework.png" height="400" width="400">
+<img src="/images/f.png" height="400" width="400">
 
 
 
