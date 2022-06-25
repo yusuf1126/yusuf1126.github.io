@@ -7,18 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
----------------------------------------------<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>biquitous <font face="黑体" size="5" color="#dd0000">C</font>ommunication and <font face="黑体" size="5" color="#dd0000">N</font>etworking 
+---------------------------------------------<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>biquitous <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking 
 
 
 Biography
 --------
-*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer and master supervisor with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctoral researcher with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communications, an Associate Editor of TELS, IET Networks and IET Smart Cities. Furthermore, he served(s) as a TPC Member of ACM MobiCom, IEEE INFOCOM, IEEE ICC, IEEE Globecom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, CollaborateCom, etc. Besides, he served as a Reviewer for 200+ reputable conferences/journal papers. His main research interests focus on ubiquitous communication and networking (Future Internet architecture, DAN, ICN, VLC, V2R).
+*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer and master supervisor with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctoral researcher with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communications, an Associate Editor of TELS, IET Networks and IET Smart Cities. Furthermore, he served(s) as a TPC Member of ACM MobiCom, IEEE INFOCOM, IEEE ICC, IEEE Globecom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, CollaborateCom, etc. Besides, he served as a Reviewer for 200+ reputable conferences/journal papers. His main research interests focus on ubiquitous content networking (Future Internet architecture, DAN, ICN, VLC, V2R).
 
 <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Chinese Personal Website</a>
 
 Recent News
 --------
-\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light communication and networking technology. If you are interested, please feel free to drop me an email.  
+\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to visible light  networking technology. If you are interested, please feel free to drop me an email.  
  
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://www.ieice.org/cs/icm/apnoms/2022/index.html" target="_blank">APNOMS 2022(CCF C)</a> in March, 2022  
