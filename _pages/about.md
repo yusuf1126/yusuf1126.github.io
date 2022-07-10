@@ -19,12 +19,12 @@ Biography
 Recent News
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to content-oriented networking technology. If you are interested, please feel free to drop me an email.  
-  
---------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="http://giis2022.org/" target="_blank">GIIS 2022</a> in July, 2022  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2023.ieee-icc.org" target="_blank">IEEE ICC 2023(CCF C)</a> in July, 2022  
+  
+--------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="http://giis2022.org/" target="_blank">GIIS 2022</a> in July, 2022  
   
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://www.ieice.org/cs/icm/apnoms/2022/index.html" target="_blank">APNOMS 2022(CCF C)</a> in March, 2022  
