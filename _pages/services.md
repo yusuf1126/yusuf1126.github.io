@@ -78,6 +78,8 @@ Organizational Activities:
 
 * TPC Member
 
+  <a href="https://icc2023.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2023)</a>  
+  <a href="http://giis2022.org/" target="_blank">Global Information Infrastructure Symposium (GIIS 2022)</a>  
   <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2022)</a>   
   <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE/IFIP Network Operations and Management Symposium (IEEE NOMS 2022)</a>   
   <a href="https://icc2022.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2022)</a>   
@@ -107,7 +109,7 @@ Organizational Activities:
    <a href="https://vtc2019s-rr-wks.trackchair.com/track/1744" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2019-Spring)</a>  
    <a href="https://www.ieice.org/~icm/apnoms/2019/" target="_blank">The 20st Asia-Pacific Network Operations and Management Symposium (APNOMS 2019)</a>  
    <a href="http://cyber-science.org/2019/dasc/" target="_blank">The 17th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2019)</a>  
-   <a href="https://giis-2019.dnac.org/" target="_blank">The Global Information Infrastructure Symposium (GIIS 2019)</a>  
+   <a href="https://giis-2019.dnac.org/" target="_blank">Global Information Infrastructure Symposium (GIIS 2019)</a>  
     <a href="http://collaboratecom2019.eai-conferences.org/" target="_blank">The EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (EAI CollaborateCom 2019)</a>  
     <a href="http://chinacom2019.eai-conferences.org/" target="_blank">The 14th EAI International Conference on Communications and Networking in China(EAI Chinacom 2019)</a>  
     <a href="http://mobicase2019.eai-conferences.org/" target="_blank">The 10th EAI International Conference on Mobile Computing, Applications and Services(EAI MobiCASE 2019)</a>    
