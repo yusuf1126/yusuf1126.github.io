@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---------------------------------------------  
-f<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>ture <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking 
+f<font size="4.5"><font face="黑体" size="5" color="#dd0000">U</font>ture <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking 
 
 
 Biography
