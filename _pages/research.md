@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Ubiquitous Content Networking"
-excerpt: "Ubiquitous Content Networking"
+title: "Future Content Networking"
+excerpt: "Future Content Networking"
 author_profile: true
 ---
 
