@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----------------------------------------------<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>biquitous <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking 
+---------------------------------------------f<font size="4.5"><br><font face="黑体" size="5" color="#dd0000">U</font>ture <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking 
 
 
 Biography
