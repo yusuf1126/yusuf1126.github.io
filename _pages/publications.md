@@ -76,7 +76,9 @@ Zhiwei Yuan, Peng Yang, **Xuan Liu**. Research on Detecting Duplicated URL in Du
 
 Conference Papers
 --------
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022. (EI, CCF B)  
 
+--------
 Youbing	Zhong, Zhou	Zhou, **Xuan Liu**, Da Li, Meijun	Guo, Shuai	Zhang, Qingyun	Liu, Li	Guo. BPA:The Optimal Placement of Interdependent VNFs in Many-core System. EAI CollaborateCom 2020, Shanghai: Springer, 2020, 305-319.(EI, CCF C)  
 
 --------
