@@ -22,6 +22,9 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to future networking technology. If you are interested, please feel free to drop me an email.  
 
 --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2023.ieee-wcnc.org" target="_blank">IEEE WCNC 2023(CCF C)</a> in August, 2022  
+  
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2023.ieee-icc.org" target="_blank">IEEE ICC 2023(CCF C)</a> in July, 2022  
   
 --------
