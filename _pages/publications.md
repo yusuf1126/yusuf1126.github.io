@@ -8,10 +8,10 @@ author_profile: true
 
 Journal Papers
 --------
-Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，January 2022，PP(99):1-16. (CCF A, SCI, IF：5.938)  
+Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，January 2022，PP(99):1-16. (CCF A, SCI, IF：3.796)  
 
 --------
-Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5)(EI). 
+Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)
 
 --------
 Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2022, accepted. (CCF C, SCI, IF：5.938)  
