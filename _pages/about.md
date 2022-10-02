@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UCN"
+title: "FCNS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 ---------------------------------------------  
-f<font size="4.5"><font face="黑体" size="5" color="#dd0000">U</font>ture <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking 
+<font size="4.5"><font face="黑体" size="5" color="#dd0000">F</font>uture <font face="黑体" size="5" color="#dd0000">C</font>ontent <font face="黑体" size="5" color="#dd0000">N</font>etworking and <font size="4.5"><font face="黑体" size="5" color="#dd0000">S</font>ecurity
 
 
 Biography
 --------
-*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer and master supervisor with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctoral researcher with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communications, an Associate Editor of TELS, IET Networks and IET Smart Cities. Furthermore, he served(s) as a TPC Member of ACM MobiCom, IEEE INFOCOM, IEEE ICC, IEEE Globecom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, CollaborateCom, etc. His main research interests focus on future content networking (Future Internet architecture, DAN, ICN, CDN, VLC, V2R).
+*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer and master supervisor with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctoral researcher with School of Computer Science and Engineering, Southeast University, China. He is also serving as an Editorial Board Member of Computer Communications, an Associate Editor of TELS, IET Networks and IET Smart Cities. Furthermore, he served(s) as a TPC Member of ACM MobiCom, IEEE INFOCOM, IEEE ICC, IEEE Globecom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, CollaborateCom, etc. His main research interests focus on future content networking ans security (Future Internet architecture, DAN, ICN, CDN, VLC, V2R).
 
 <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Chinese Personal Website</a>
 
