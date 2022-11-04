@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (EI, in Chinese)  
+
+--------
 Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，October 2022. (CCF A, SCI, IF：3.796, accepted)  
 
 --------
