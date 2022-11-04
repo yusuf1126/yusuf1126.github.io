@@ -8,6 +8,9 @@ author_profile: true
 
 Journal Papers
 --------
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，October 2022. (CCF A, SCI, IF：3.796, accepted)  
+
+--------
 Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，January 2022，PP(99):1-16. (CCF A, SCI, IF：3.796)  
 
 --------
