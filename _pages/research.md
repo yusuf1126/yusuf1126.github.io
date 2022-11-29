@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Future Content Networking and Security"
-excerpt: "Future Content Networking and Security"
+title: "Future Networking and Content Security"
+excerpt: "Future Networking and Content Security"
 author_profile: true
 ---
 
