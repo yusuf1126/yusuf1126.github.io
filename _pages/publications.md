@@ -88,6 +88,9 @@ Zhiwei Yuan, Peng Yang, **Xuan Liu**. Research on Detecting Duplicated URL in Du
 
 Conference Papers
 --------
+Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, **Xuan Liu**, Chunming Wu. Melody: Toward Resource-Efficient Packet Header Vector Encoding on Programmable Switches. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)
+
+--------
 Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
