@@ -14,16 +14,16 @@ Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, 
 Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022. (EI, CCF B, AR: 114/573=19.9%)  
-
---------
-Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (EI, in Chinese)  
-
---------
 Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，October 2022. (CCF A, SCI, IF：3.796, accepted)  
 
 --------
 Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，January 2022，PP(99):1-16. (CCF A, SCI, IF：3.796)  
+
+--------
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022. (EI, CCF B, AR: 114/573=19.9%)  
+
+--------
+Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (EI, in Chinese)  
 
 --------
 Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)
