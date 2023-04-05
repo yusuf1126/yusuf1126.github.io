@@ -8,6 +8,10 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
+
+Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, accepted.  
+
+--------  
 Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, **Xuan Liu**, Chunming Wu. Melody: Toward Resource-Efficient Packet Header Vector Encoding on Programmable Switches. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
