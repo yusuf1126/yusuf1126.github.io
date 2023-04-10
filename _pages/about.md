@@ -22,6 +22,9 @@ Recent News
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to future networking technology. If you are interested, please feel free to drop me an email.  
 
 --------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2023.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2023 MWN (CCF C)</a> in April, 2023  
+
+--------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="http://dnslab.jnu.ac.kr/conf/apnoms2023/index.html" target="_blank">APNOMS 2023(CCF C)</a> in March, 2023  
 
 --------
