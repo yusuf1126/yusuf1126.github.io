@@ -14,7 +14,8 @@ Editorial Services
 --------
 * Editor  
 
-   <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Elsevier Computer Communications</a>, since January, 2021  
+   <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">IEEE Networking Letters</a>, since May, 2023  
+  <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Elsevier Computer Communications</a>, since January, 2021  
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, since September, 2019  
    <a href="https://ietresearch.onlinelibrary.wiley.com/journal/20474962" target="_blank">IET Networks</a>, since Feburary, 2022  
    <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>, since January, 2020  
