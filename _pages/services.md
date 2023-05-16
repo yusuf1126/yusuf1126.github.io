@@ -38,12 +38,6 @@ Guest Editorial Services
 * Guest Editor
 
    <a href="https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/20474962/Special%20Issues/IET_NET_CfP_ET6GFN-1648230828407.pdf" target="_blank">IET Networks Special Issue on Enabling Technologies for 6G and Future Networks</a>  
-
-  <a href="https://think.taylorandfrancis.com/special_issues/deep-learning-unmanned-vehicle-systems/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743" target="_blank">Journal of Control and Decision Special Issue on Deep Learning for Unmanned Vehicle Systems</a>  
-
-  <a href="https://journals.sagepub.com/page/dsn/collections/special-issues/advances-in-ai-enabled-internet-of-things-security" target="_blank">SAGE IJDSN Special Collection on AI-Enabled Internet-of-Things Security: Challenges, Opportunities, and Trends </a> 
-
-  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Recent Advances in Multimedia Security and Information Hiding</a>    
   
   <a href="https://digital-library.theiet.org/content/journals/iet-smc/info/special-Issues/" target="_blank">IET SMC Special Issue on Security and Privacy for Smart Cities</a>
 
