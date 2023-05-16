@@ -13,13 +13,16 @@ redirect_from:
 
 Biography
 --------
-*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer and master supervisor with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctoral researcher with School of Computer Science and Engineering, Southeast University, China. He is serving as an Editor for Computer Communications, TELS, IET Networks and IET Smart Cities. Furthermore, he served(s) as a TPC Member of ACM MobiCom, IEEE INFOCOM, IEEE ICC, IEEE Globecom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, CollaborateCom, etc. His main research interests focus on future networking and content security.  
+*Xuan Liu* (S'11-M'17-SM'21) received Ph.D. degree in Computer Science and Engineering at Southeast University, China, and is currently a lecturer and master supervisor with College of Information Engineering (College of Artificial Intelligence) at Yangzhou University, China, and on-the-job postdoctoral researcher with School of Computer Science and Engineering, Southeast University, China. He is serving as an Editor for IEEE Networking Letters, Computer Communications, TELS, IET Networks and IET Smart Cities. Furthermore, he served(s) as a TPC Member of ACM MobiCom, IEEE INFOCOM, IEEE ICC, IEEE Globecom, IEEE WCNC, IFIP/IEEE IM, IEEE NOMS, IEEE PIMRC, IEEE MSN, IEEE VTC, IEEE ICIN, IEEE GIIS, IEEE DASC, APNOMS, CollaborateCom, etc. His main research interests focus on future networking and content security.  
 
 <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Chinese Personal Website</a>
 
 Recent News
 --------
 \[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to future networking technology. If you are interested, please feel free to drop me an email.  
+
+--------
+\[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a> in May, 2023  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2023.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2023 MWN (CCF C)</a> in April, 2023  
