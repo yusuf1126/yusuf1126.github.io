@@ -54,6 +54,8 @@ Organizational Activities:
 
 * TPC Member  
 
+  <a href="https://icc2024.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2024)</a>
+  <a href="https://globecom2023.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2023)</a>   
   <a href="https://wcnc2023.ieee-wcnc.org/" target="_blank">IEEE Wireless Communications and Networking Conference (IEEE WCNC 2023)</a>  
   <a href="https://icc2023.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2023)</a>  
   <a href="http://giis2022.org/" target="_blank">Global Information Infrastructure and Networking Symposium (GIIS 2022)</a>  
