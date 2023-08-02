@@ -19,7 +19,10 @@ Biography
 
 Recent News
 --------
-\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to future networking technology. If you are interested, please feel free to drop me an email.  
+\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to Intelligent Network Data Plane. If you are interested, please feel free to drop me an email.  
+
+--------
+\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2024.ieee-icc.org" target="_blank">IEEE ICC 2024(CCF C)</a> in July, 2023  
 
 --------
 \[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a> in May, 2023  
