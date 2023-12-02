@@ -8,6 +8,9 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
+Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2024. (EI, CCF A, AR: 256/1307=19.6%) 
+
+--------  
 Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847. (CCF A, SCI, IF：6.8)  
 
 --------  
