@@ -20,6 +20,9 @@ Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, 
 Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2023, accepted. (CCF A, SCI, IF：3.7)  
+
+--------
 Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415. (CCF A, SCI, IF：3.7)  
 
 --------
