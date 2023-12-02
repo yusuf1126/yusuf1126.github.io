@@ -20,10 +20,10 @@ Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, 
 Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，October 2022. (CCF A, SCI, IF：3.796, accepted)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415. (CCF A, SCI, IF：3.7)  
 
 --------
-Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，January 2022，PP(99):1-16. (CCF A, SCI, IF：3.796)  
+Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919. (CCF A, SCI, IF：3.7)  
 
 --------
 Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022. (EI, CCF B, AR: 114/573=19.9%)  
