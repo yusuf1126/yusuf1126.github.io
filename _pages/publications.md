@@ -40,6 +40,7 @@ Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Co
 --------
 Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)  
 
+--------
 Aftab Ahmed Khan, Muhammad Zakarya*, **Xuan Liu**, Rahim Khan, Ahmad Ali, Ayaz Ali Khan. TELECOMMUNICATION SYSTEMS, 2022, Volume 80 Issue 2, Page 169-187. (SCI, IF：2.5)  
 
 --------
