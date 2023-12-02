@@ -40,11 +40,13 @@ Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Co
 --------
 Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)  
 
+Aftab Ahmed Khan, Muhammad Zakarya*, **Xuan Liu**, Rahim Khan, Ahmad Ali, Ayaz Ali Khan. TELECOMMUNICATION SYSTEMS, 2022, Volume 80 Issue 2, Page 169-187. (SCI, IF：2.5)  
+
 --------
 Minghua Xia，Edmund Lai，Jie Hu，**Xuan Liu**，Nikolaos Thomos，Zilong Liu，Tao Han，Vivek A Bohara，ADUWATI SALI. 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications. Frontiers in Communications and Networks，2022，3:841742. 
 
 --------
-Renjie Li，Zhou Zhou，**Xuan Liu**，Da Li，Wei Yang，Shu Li，Qingyun Liu. GTF:An Adaptive Network Anomaly Detection Method at the Network Edge. Security and Communication Networks, 20 December 2021.(CCF C, SCI, IF：1.791)  
+Renjie Li，Zhou Zhou，**Xuan Liu**，Da Li，Wei Yang，Shu Li，Qingyun Liu. GTF:An Adaptive Network Anomaly Detection Method at the Network Edge. Security and Communication Networks, 20 December 2021.(CCF C, SCI, IF：1.791) 
 
 --------
 Pronaya Bhattacharya，Umesh Bodkhe，Mohd Zuhair，Mamoon Rashid，**Xuan Liu**，Ashwin Verma，Ram Kishan Dewangan. Amalgamation of blockchain and sixth-generation-envisioned responsive edge orchestration in future cellular vehicle-to-anything ecosystems: Opportunities and challenges. Wiley Transactions on Emerging Telecommunications Technologies, 12 December 2021, ett.4410.(SCI, IF：2.638)  
