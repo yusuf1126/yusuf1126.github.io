@@ -29,16 +29,16 @@ Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, *
 Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919. (CCF A, SCI, IF：3.7)  
 
 --------
+Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2023, Volume 11 Issue 2, Page 1591-1607. (CCF C, SCI, IF：6.5)  
+
+--------
 Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022. (EI, CCF B, AR: 114/573=19.9%)  
 
 --------
 Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (EI, in Chinese)  
 
 --------
-Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)
-
---------
-Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2022, accepted. (CCF C, SCI, IF：5.938)  
+Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)  
 
 --------
 Minghua Xia，Edmund Lai，Jie Hu，**Xuan Liu**，Nikolaos Thomos，Zilong Liu，Tao Han，Vivek A Bohara，ADUWATI SALI. 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications. Frontiers in Communications and Networks，2022，3:841742. 
