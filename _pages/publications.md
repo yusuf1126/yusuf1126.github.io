@@ -8,10 +8,10 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
-Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847(CCF A).  
+Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847. (CCF A, SCI, IF：6.8)  
 
 --------  
-Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, accepted.  
+Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, Volume 25 Issue 3, Page 1653-1704. (SCI, IF:35.6)
 
 --------  
 Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, **Xuan Liu**, Chunming Wu. Melody: Toward Resource-Efficient Packet Header Vector Encoding on Programmable Switches. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
