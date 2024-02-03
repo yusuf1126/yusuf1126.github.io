@@ -8,7 +8,7 @@ author_profile: true
 
 Journal/Conference Papers
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu,**Xuan Liu**,Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, accepted. (CCF A, SCI, IF：3.7)  
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, accepted. (CCF A, SCI, IF：3.7)  
 
 --------  
 Xiang Chen, Xi Sun, Wenbin Zhang, Zizheng Wang, Xin Yao, Hongyan Liu, Gaoning Pan, Qun Huang, **Xuan Liu**, Haifeng Zhou, Chunming Wu. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2024. (EI, CCF A, AR: 256/1307=19.6%) 
