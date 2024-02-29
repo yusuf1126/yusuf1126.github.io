@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 ------
-Programmable Data Plane Security  
+Network architecture
 
 ------
-AL/ML for Cybersecurity   
+In-network computing
+
 
 ------
-Network Attack and Defense Technology  
+Endogenous security in cyberspace
 
 
 
