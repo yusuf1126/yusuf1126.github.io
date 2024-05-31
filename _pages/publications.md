@@ -8,6 +8,10 @@ author_profile: true
 
 Journal/Conference Papers
 --------
+Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chunming Wu，Xuan Liu，Muhammad Khurram Khan. Terra: Low-latency and reliable event collection in network measurement. Journal of Network and Computer Applications，2024，
+103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C, SCI, IF：8.7)  
+
+--------
 Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, accepted. (CCF A, SCI, IF：3.7)  
 
 --------  
