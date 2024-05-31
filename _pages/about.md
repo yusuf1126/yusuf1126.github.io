@@ -22,7 +22,7 @@ Recent News
 \[<font color="#dd0000">Exciting news!</font>\]: Our paper "Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement" has been accepted by SIGCOMM 2024.  
 
 --------
-\[<h5>Organizational activity</h5>\]: Appointed as TPC member for <a href="https://globecom2024.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2024 NGNI (CCF C)</a> in March, 2024  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2024.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2024 NGNI (CCF C)</a> in March, 2024  
 
 --------
 \[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2024.ieee-icc.org" target="_blank">IEEE ICC 2024(CCF C)</a> in July, 2023  
