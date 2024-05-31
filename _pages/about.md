@@ -19,9 +19,6 @@ Biography
 
 Recent News
 --------
-\[<font color="#dd0000">Openings</font>\]: I am looking for highly self-motivated and self-disciplined M.S.students who are strongly committed to Intelligent Network Data Plane. If you are interested, please feel free to drop me an email.  
-
---------
 \[<font color="#dd0000">Exciting news!</font>\]: Our paper "Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement" has been accepted by SIGCOMM 2024.  
 
 --------
