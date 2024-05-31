@@ -25,37 +25,37 @@ Recent News
 \[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2024.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2024 NGNI (CCF C)</a> in March, 2024  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2024.ieee-icc.org" target="_blank">IEEE ICC 2024(CCF C)</a> in July, 2023  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2024.ieee-icc.org" target="_blank">IEEE ICC 2024(CCF C)</a> in July, 2023  
 
 --------
-\[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a> in May, 2023  
+\[<font color=blue>Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a> in May, 2023  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2023.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2023 MWN (CCF C)</a> in April, 2023  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2023.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2023 MWN (CCF C)</a> in April, 2023  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="http://dnslab.jnu.ac.kr/conf/apnoms2023/index.html" target="_blank">APNOMS 2023(CCF C)</a> in March, 2023  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="http://dnslab.jnu.ac.kr/conf/apnoms2023/index.html" target="_blank">APNOMS 2023(CCF C)</a> in March, 2023  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2023.ieee-wcnc.org" target="_blank">IEEE WCNC 2023(CCF C)</a> in August, 2022  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://wcnc2023.ieee-wcnc.org" target="_blank">IEEE WCNC 2023(CCF C)</a> in August, 2022  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2023.ieee-icc.org" target="_blank">IEEE ICC 2023(CCF C)</a> in July, 2022  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://icc2023.ieee-icc.org" target="_blank">IEEE ICC 2023(CCF C)</a> in July, 2022  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="http://giis2022.org/" target="_blank">GIIS 2022</a> in July, 2022  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="http://giis2022.org/" target="_blank">GIIS 2022</a> in July, 2022  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://www.ieice.org/cs/icm/apnoms/2022/index.html" target="_blank">APNOMS 2022(CCF C)</a> in March, 2022  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://www.ieice.org/cs/icm/apnoms/2022/index.html" target="_blank">APNOMS 2022(CCF C)</a> in March, 2022  
 
 --------
-\[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://ietresearch.onlinelibrary.wiley.com/journal/20474962" target="_blank">IET Networks</a> in Feburary, 2022  
+\[<font color=blue>Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://ietresearch.onlinelibrary.wiley.com/journal/20474962" target="_blank">IET Networks</a> in Feburary, 2022  
 
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2022  NGNI/MWN (CCF C)</a> in December, 2021  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2022.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2022  NGNI/MWN (CCF C)</a> in December, 2021  
   
 --------
-\[<font color="#dd0000">Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022</a> in September, 2021  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://noms2022.ieee-noms.org/" target="_blank">IEEE NOMS 2022</a> in September, 2021  
   
   
 
