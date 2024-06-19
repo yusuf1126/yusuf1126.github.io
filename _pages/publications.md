@@ -8,7 +8,7 @@ author_profile: true
 
 Journal/Conference Papers
 --------
-Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, https://ieeexplore.ieee.org/document/10558795. (CCF A, SCI, IF：3.7)  
+Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A, SCI, IF：3.7)  
 
 --------
 Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chunming Wu，Xuan Liu，Muhammad Khurram Khan. Terra: Low-latency and reliable event collection in network measurement. Journal of Network and Computer Applications，2024，
