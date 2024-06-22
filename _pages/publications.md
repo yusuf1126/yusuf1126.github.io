@@ -8,7 +8,7 @@ author_profile: true
 
 Journal/Conference Papers
 --------
-Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，Chunming Wu，**Xuan Liu**，Qiang Yang. Toward Resource-Efficient and High-Performance Program Deployment in Programmable Networks. IEEE/ACM Transactions on Networking，2024, Early Access, <a href="http://dx.doi.org/10.1109/TNET.2024.3413388" target="_blank">http://dx.doi.org/10.1109/TNET.2024.3413388</a>. (CCF A, SCI, IF：3)  
+Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，Chunming Wu，**Xuan Liu**，Qiang Yang. Toward Resource-Efficient and High-Performance Program Deployment in Programmable Networks. IEEE/ACM Transactions on Networking，2024, <a href="http://dx.doi.org/10.1109/TNET.2024.3413388" target="_blank">Access</a>. (CCF A, SCI, IF：3)  
 
 --------
 Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A, SCI, IF：3)  
