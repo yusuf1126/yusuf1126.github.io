@@ -8,17 +8,17 @@ author_profile: true
 
 Journal/Conference Papers
 --------
-Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，Chunming Wu，**Xuan Liu**，Qiang Yang. Toward Resource-Efficient and High-Performance Program Deployment in Programmable Networks. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413388. (CCF A, SCI, IF：3.7)  
+Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，Chunming Wu，**Xuan Liu**，Qiang Yang. Toward Resource-Efficient and High-Performance Program Deployment in Programmable Networks. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413388. (CCF A, SCI, IF：3)  
 
 --------
-Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A, SCI, IF：3.7)  
+Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A, SCI, IF：3)  
 
 --------
 Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chunming Wu，Xuan Liu，Muhammad Khurram Khan. Terra: Low-latency and reliable event collection in network measurement. Journal of Network and Computer Applications，2024，
 103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C, SCI, IF：8.7)  
 
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, accepted. (CCF A, SCI, IF：3.7)  
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, accepted. (CCF A, SCI, IF：3)  
 
 --------  
 Xiang Chen, Xi Sun, Wenbin Zhang, Zizheng Wang, Xin Yao, Hongyan Liu, Gaoning Pan, Qun Huang, **Xuan Liu**, Haifeng Zhou, Chunming Wu. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2024. (EI, CCF A, AR: 256/1307=19.6%) 
@@ -36,13 +36,13 @@ Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, 
 Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2023, accepted. (CCF A, SCI, IF：3.7)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2023, accepted. (CCF A, SCI, IF：3)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415. (CCF A, SCI, IF：3.7)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415. (CCF A, SCI, IF：3)  
 
 --------
-Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919. (CCF A, SCI, IF：3.7)  
+Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919. (CCF A, SCI, IF：3)  
 
 --------
 Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2023, Volume 11 Issue 2, Page 1591-1607. (CCF C, SCI, IF：6.5)  
