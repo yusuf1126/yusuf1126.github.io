@@ -18,16 +18,16 @@ Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chun
 103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C, SCI, IF：8.7)  
 
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, accepted. (CCF A, SCI, IF：3)  
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2024.3361324. (CCF A, SCI, IF：3)  
 
 --------  
 Xiang Chen, Xi Sun, Wenbin Zhang, Zizheng Wang, Xin Yao, Hongyan Liu, Gaoning Pan, Qun Huang, **Xuan Liu**, Haifeng Zhou, Chunming Wu. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2024. (EI, CCF A, AR: 256/1307=19.6%) 
 
 --------  
-Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847. (CCF A, SCI, IF：6.8)  
+Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847, https://doi.org/10.1109/TIFS.2023.3315128. (CCF A, SCI, IF：6.3)  
 
 --------  
-Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, Volume 25 Issue 3, Page 1653-1704. (SCI, IF:35.6)
+Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, Volume 25 Issue 3, Page 1653-1704, https://doi.org/10.1109/COMST.2023.3265984. (SCI, IF:34.4)
 
 --------  
 Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, **Xuan Liu**, Chunming Wu. Melody: Toward Resource-Efficient Packet Header Vector Encoding on Programmable Switches. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
@@ -36,19 +36,19 @@ Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, 
 Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2023, accepted. (CCF A, SCI, IF：3)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2023.3281449. (CCF A, SCI, IF：3)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415. (CCF A, SCI, IF：3)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415, https://doi.org/10.1109/TNET.2022.3218446. (CCF A, SCI, IF：3)  
 
 --------
-Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919. (CCF A, SCI, IF：3)  
+Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919, https://doi.org/10.1109/TNET.2022.3203561. (CCF A, SCI, IF：3)  
 
 --------
 Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2023, Volume 11 Issue 2, Page 1591-1607，http://dx.doi.org/10.1109/TCC.2022.3149817. (CCF C, SCI, IF：5.3)  
 
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022. (EI, CCF B, AR: 114/573=19.9%)  
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022, http://dx.doi.org/10.1109/ICDCS54860.2022.00043. (EI, CCF B, AR: 114/573=19.9%)  
 
 --------
 Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (EI, in Chinese)  
