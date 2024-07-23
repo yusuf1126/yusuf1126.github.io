@@ -7,6 +7,9 @@ author_profile: true
 ---
 
 Journal/Conference Papers
+--------  
+Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE SIGCOMM 2024. (EI, CCF A)  
+
 --------
 Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，Chunming Wu，**Xuan Liu**，Qiang Yang. Toward Resource-Efficient and High-Performance Program Deployment in Programmable Networks. IEEE/ACM Transactions on Networking，2024, http://dx.doi.org/10.1109/TNET.2024.3413388. (CCF A, SCI, IF：3)  
 
