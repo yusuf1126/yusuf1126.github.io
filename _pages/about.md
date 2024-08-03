@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "FNCS"
+title: "ANCS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 --------------------------------------------  
-<br><font face="黑体" size="5" color="#dd0000">F</font>uture <font face="黑体" size="5" color="#dd0000">N</font>etworking and <font face="黑体" size="5" color="#dd0000">C</font>yber <font face="黑体" size="5" color="#dd0000">S</font>ecurity  
+<br><font face="黑体" size="5" color="#dd0000">A</font>rchitectures for <font face="黑体" size="5" color="#dd0000">N</font>etworking, <font face="黑体" size="5" color="#dd0000">C</font>omputing and <font face="黑体" size="5" color="#dd0000">S</font>ecurity  
 
 
 Biography
