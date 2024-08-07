@@ -9,7 +9,7 @@ author_profile: true
 Novel Networking Architectures
 
 ------
-In-network computing
+In-Network Computing
 
 
 ------
