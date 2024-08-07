@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-Network architecture
+Novel Networking Architectures
 
 ------
 In-network computing
