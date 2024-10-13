@@ -8,7 +8,7 @@ author_profile: true
 
 Journal/Conference Papers
 --------   
-Dezhang Kong, Xiang Chen, Chunming Wu, Yi Shen, Zhengyan Zhou, Qiumei Cheng, **Xuan Liu**, Mingliang Yang, Yubing Qiu, Dong Zhang, Muhammad Khurram Khan. rDefender: A Lightweight and Robust Defense Against Flow Table Overflow Attacks in SDN. IEEE Transactions on Information Forensics and Security, 2024, Early Access, https://ieeexplore.ieee.org/document/10703102. (CCF A, SCI, IF：6.3)  
+Dezhang Kong, Xiang Chen, Chunming Wu, Yi Shen, Zhengyan Zhou, Qiumei Cheng, **Xuan Liu**, Mingliang Yang, Yubing Qiu, Dong Zhang, Muhammad Khurram Khan. rDefender: A Lightweight and Robust Defense Against Flow Table Overflow Attacks in SDN. IEEE Transactions on Information Forensics and Security, 03 October 2024, 9436 - 9451.https://10.1109/TIFS.2024.3472477. (CCF A, SCI, IF：6.3)  
 
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (EI, CCF A)  
