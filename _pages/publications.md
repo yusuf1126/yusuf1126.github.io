@@ -8,7 +8,7 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
-Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (EI, CCF A)  
+Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
 
 --------
 Xiang Chen, Hongyan Liu, Qun Huang, Wenbin Zhang, Qun Huang, Dong Zhang, Haifeng Zhou, **Xuan Liu**, hunming Wu. Toward Full-Coverage and Low-Overhead Profiling of Network-Stack Latency. IEEE/ACM Transactions on Networking. VOL. 32, NO. 5, OCTOBER 2024, http://dx.doi.org/10.1109/TNET.2024.3421327. (CCF A, SCI, IF：3)  
