@@ -1,19 +1,21 @@
 ---
 permalink: /research/
-title: "Future Networking and Cyber Security"
-excerpt: "Future Networking and Cyber Security"
+title: "Architectures for Networking, Computing and Security"
+excerpt: "Architectures for Networking, Computing and Security"
 author_profile: true
 ---
 
 ------
-Novel Networking Architectures
+Network Architecture  
 
 ------
-In-Network Computing
-
+In-Network Computing  
 
 ------
-Cyberspace Endogenous Safety and Security
+Edge Intelligence  
+
+------
+Endogenous Security
 
 
 
