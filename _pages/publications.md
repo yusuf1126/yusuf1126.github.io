@@ -13,6 +13,9 @@ Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Lo
 --------
 Hongyan Liu，Xiang Chen，Qun Huang，Dezhang Kong, Dong Zhang，Chunming Wu，**Xuan Liu**. Elastically Scaling Control Channels in Network Measurement With Escala. IEEE/ACM Transactions on Networking，03 December 2024, http://dx.doi.org/10.1109/TNET.2024.3504578. (CCF A, SCI, IF：3)  
 
+--------   
+Dezhang Kong, Xiang Chen, Hang Lin, Zhengyan Zhou, Yi Shen, Hongyan Liu, Qiumei Cheng, **Xuan Liu**, Dong Zhang, Chunming Wu，Muhammad Khurram Khan. Toward Security-Enhanced In-band Network Telemetry in Programmable Networks. IEEE Transactions on Network and Service Management, 22 November 2024. https://dx.doi.org/10.1109/TNSM.2024.3504563. (CCF C, SCI, IF：4.7)   
+
 --------
 Xiang Chen, Hongyan Liu, Qun Huang, Wenbin Zhang, Qun Huang, Dong Zhang, Haifeng Zhou, **Xuan Liu**, hunming Wu. Toward Full-Coverage and Low-Overhead Profiling of Network-Stack Latency. IEEE/ACM Transactions on Networking. VOL. 32, NO. 5, OCTOBER 2024, http://dx.doi.org/10.1109/TNET.2024.3421327. (CCF A, SCI, IF：3)  
 
