@@ -10,6 +10,9 @@ Journal/Conference Papers
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
 
+--------  
+Xiang Chen, Hongyang Du, Wenjing Liu, Hongyan Liu, Jianshan Zhang, Xu Yang, Dong Zhang, Chunming Wu, **Xuan Liu**, Dusit Niyato. Virtualizing Next-generation Programmable Networks: Techniques, Use Cases, and Promising Future Directions. IEEE Network, 18 December 2024. https://ieeexplore.ieee.org/document/10806884.(SCI, IF：6.8 ) 
+
 --------
 Hongyan Liu，Xiang Chen，Qun Huang，Dezhang Kong, Dong Zhang，Chunming Wu，**Xuan Liu**. Elastically Scaling Control Channels in Network Measurement With Escala. IEEE/ACM Transactions on Networking，03 December 2024, http://dx.doi.org/10.1109/TNET.2024.3504578. (CCF A, SCI, IF：3)  
 
