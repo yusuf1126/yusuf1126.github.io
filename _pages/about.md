@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ANCS"
+title: "OSDS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 --------------------------------------------  
-<br><font face="黑体" size="5" color="#dd0000">A</font>rchitectures for <font face="黑体" size="5" color="#dd0000">N</font>etworking, <font face="黑体" size="5" color="#dd0000">C</font>omputing and <font face="黑体" size="5" color="#dd0000">S</font>ecurity  
+<br><font face="黑体" size="5" color="#dd0000">O</font>bservability and <font face="黑体" size="5" color="#dd0000">S</font>Security in <font face="黑体" size="5" color="#dd0000">D</font>istributed <font face="黑体" size="5" color="#dd0000">S</font>ystems  
 
 
 Biography
