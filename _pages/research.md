@@ -9,7 +9,7 @@ author_profile: true
 Network Architecture  
 
 ------
-In-Network Computing  
+Distributed Systems Observability 
 
 ------
 Edge Intelligence  
