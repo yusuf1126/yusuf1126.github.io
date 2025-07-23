@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Architectures for Networking, Computing and Security"
-excerpt: "Architectures for Networking, Computing and Security"
+title: "Observability and Security within Distributed Systems"
+excerpt: "Observability and Security within Distributed Systems"
 author_profile: true
 ---
 
