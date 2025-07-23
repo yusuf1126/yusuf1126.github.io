@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 --------------------------------------------  
-<br><font face="黑体" size="5" color="#dd0000">O</font>bservability and <font face="黑体" size="5" color="#dd0000">S</font>ecurity in <font face="黑体" size="5" color="#dd0000">D</font>istributed <font face="黑体" size="5" color="#dd0000">S</font>ystems  
+<br><font face="黑体" size="5" color="#dd0000">O</font>bservability and <font face="黑体" size="5" color="#dd0000">S</font>ecurity within <font face="黑体" size="5" color="#dd0000">D</font>istributed <font face="黑体" size="5" color="#dd0000">S</font>ystems  
 
 
 Biography
