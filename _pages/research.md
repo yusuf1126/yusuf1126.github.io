@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Observability and Security within Distributed Systems"
-excerpt: "Observability and Security within Distributed Systems"
+title: "Distributed Systems Observability and Security"
+excerpt: "Distributed Systems Observability and Security"
 author_profile: true
 ---
 
