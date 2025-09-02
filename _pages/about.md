@@ -13,11 +13,14 @@ redirect_from:
 
 Biography
 --------
-*Xuan Liu* (S'11-M'17-SM'21) received his PhD degree from the School of Computer Science and Engineering at Southeast University, China. He is currently a lecturer and master's supervisor at the College of Information Engineering (also known as the College of Artificial Intelligence) at Yangzhou University, China. Additionally, he serves as an editor for several publications, namely IEEE Networking Letters, Computer Communications, Telecommunication Systems, IET Networks, and IET Smart Cities. His current research focuses on the intersection of observability and security within distributed systems. 
+*Xuan Liu* (S'11-M'17-SM'21) received his PhD degree from the School of Computer Science and Engineering at Southeast University, China. He is currently a lecturer and master's supervisor at the College of Information Engineering (also known as the College of Artificial Intelligence) at Yangzhou University, China. Additionally, he serves as an editor for several publications, namely IEEE Transactions on Dependable and Secure Computing, IEEE Networking Letters, Computer Communications, Telecommunication Systems, etc. His current research focuses on the intersection of observability and security within distributed systems. 
 
 <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Chinese Personal Website</a>
 
 Recent News
+--------
+\[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a> in September, 2025  
+
 --------
 \[<font color="#dd0000">Exciting news!</font>\]: Our paper "Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement" has been accepted by SIGCOMM 2024.  
 
