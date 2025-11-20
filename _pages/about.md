@@ -19,6 +19,9 @@ Biography
 
 Recent News
 --------
+\[<font color=blue>Organizational activity</font>\]: Appointed as Student Support Committee member for the <a href="https://www.ndss-symposium.org/ndss2026/" target="_blank"> 2026 Network and Distributed System Security (NDSS) Symposium</a> in November, 2025  
+
+--------
 \[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a> in September, 2025  
 
 --------
