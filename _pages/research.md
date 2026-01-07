@@ -1,21 +1,21 @@
 ---
 permalink: /research/
-title: "Distributed Systems Observability and Security"
-excerpt: "Distributed Systems Observability and Security"
+title: "Systems Observability and Security"
+excerpt: "Systems Observability and Security"
 author_profile: true
 ---
 
 ------
-Network Architecture  
+Networked Systems 
 
 ------
-Distributed Systems Observability 
+Agentic Systems
 
 ------
-Edge Intelligence  
+Observability  
 
 ------
-Endogenous Security
+Security
 
 
 
