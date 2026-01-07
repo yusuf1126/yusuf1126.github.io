@@ -12,10 +12,10 @@ Networked Systems
 Agentic Systems
 
 ------
-Observability  
+Observability and Security
 
-------
-Security
+
+
 
 
 
