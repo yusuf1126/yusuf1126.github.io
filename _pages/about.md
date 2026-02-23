@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "nSOS"
+title: "NSOS"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 --------------------------------------------  
-<br><font face="黑体" size="5" color="#dd0000">n</font>etworked <font face="黑体" size="5" color="#dd0000">S</font>ystems <font face="黑体" size="5" color="#dd0000">O</font>bservability and <font face="黑体" size="5" color="#dd0000">S</font>ecurity
+<br><font face="黑体" size="5" color="#dd0000">N</font>etworked <font face="黑体" size="5" color="#dd0000">S</font>ystems <font face="黑体" size="5" color="#dd0000">O</font>bservability and <font face="黑体" size="5" color="#dd0000">S</font>ecurity
 
 
 Biography
