@@ -37,7 +37,7 @@ Recent News
 \[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2025.ieee-icc.org" target="_blank">IEEE ICC 2025(CCF C)</a> in October, 2024  
 
 --------
-\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2024.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2024 NGNI (CCF C)</a> in March, 2024  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2024 NGNI (CCF C)</a> in March, 2024  
 
 
 --------
