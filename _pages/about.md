@@ -28,13 +28,13 @@ Recent News
 \[<font color="#dd0000">Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a> in September, 2025  
 
 --------
-\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2026.ieee-icc.org" target="_blank">IEEE ICC 2026 NGNI (CCF C)</a> in September, 2025 
-
---------
-\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2025 NGNI (CCF C)</a> in March, 2025  
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2026.ieee-icc.org" target="_blank">IEEE ICC 2026 NGNI (CCF C)</a> in September, 2025   
 
 --------
 \[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for  <a href="https://icc2025.ieee-icc.org" target="_blank">IEEE ICC 2025(CCF C)</a> in July, 2025  
+
+--------
+\[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2025 NGNI (CCF C)</a> in March, 2025  
 
 --------
 \[<font color="#dd0000">Exciting news!</font>\]: Our paper "Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement" has been accepted by SIGCOMM 2024.  
@@ -44,7 +44,6 @@ Recent News
 
 --------
 \[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2024 NGNI (CCF C)</a> in March, 2024  
-
 
 --------
 \[<font color=blue>Editorial Service</font>\]: Appointed as Associate Editor for <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a> in May, 2023  
