@@ -8,6 +8,9 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
+Dezhang Kong, Zhuxi Wu, Shiqi Liu, Zhicheng Tan, Kuichen Lu, Minghao Li, Qichen Liu, Shengyu Chu, Zhenhua Xu, **Xuan Liu**, Meng Han MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs. ACL 2026, https://doi.org/10.48550/arXiv.2601.18113 (CCF A, Accepted)  
+
+--------  
 Xiaodong Zang, Fangbo Hou, **Xuan Liu**, Muhammad Khurram Khan, Daohua Liu. Mitigating the Lateral Movement of APT in IIoT with an Efficient Moving Target Defense and Cyber Deception Approach.IEEE Transactions on Reliability, 2026, http://dx.doi.org/10.1109/TR.2026.3685261.  
 
 --------  
