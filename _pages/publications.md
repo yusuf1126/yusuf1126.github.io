@@ -14,7 +14,7 @@ Xiang Chen, Longlong Zhu, Linying Zheng, Hongyang Du, Dong Zhang, Jianshan Zhang
 Dezhang Kong, Minghao Li, Shi Lin, Zhenhua Xu, Longlong Zhu, Linying Zheng, Xiang Chen, Changting Lin, **Xuan Liu**, Dong Zhang, Chunming Wu, Meng Han. LTD: Low-Overhead Topology Discovery using Programmable Data Planes. IEEE INFOCOM 2026 (Accepted). (CCF A)   
 
 --------  
-Xiang Chen, Xi Sun, Wenbin Zhang, Zizheng Wang, Xin Yao, Hongyan Liu, Gaoning Pan, Qun Huang, **Xuan Liu**, Haifeng Zhou, Chunming Wu. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2026 (Accepted). (CCF A)   
+Xiang Chen, Linying Zheng, Longlong Zhu, Zedi Chen, Qing Shu, Jialu Tian, Siqi Dong, Qun Huang, Jianshan Zhang, **Xuan Liu**, Haifeng Zhou, Hongyan Liu, Dong Zhang, Chunming Wu. MonPlan: Taming Network Measurement with Accurate and Resource-Efficient Sketch-INT Co-Design. IEEE INFOCOM 2026 (Accepted). (CCF A)   
 
 --------  
 Dezhang Kong, Zhuxi Wu, Shiqi Liu, Zhicheng Tan, Kuichen Lu, Minghao Li, Qichen Liu, Shengyu Chu, Zhenhua Xu, **Xuan Liu**, Meng Han. MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs. ACL 2026 (Accepted), https://doi.org/10.48550/arXiv.2601.18113 (CCF A)  
