@@ -38,7 +38,7 @@ Longlong Zhu, Jiashuo Yu, Xiang Chen, Zhifan Jiang, **Xuan Liu**, Jianshan Zhang
 Xiang Chen, Xin Yao, Jiayu Li, Longlong Zhu, Linying Zheng, Hongyan Liu, Jianshan Zhang, Dong Zhang, **Xuan Liu**, Qun Huang, Haifeng Zhou, Chunming Wu. Carrera: Enabling High-Performance eBPF-based Sketches in Network Measurement. ICNP 2025, https://doi.org/10.1109/ICNP65844.2025.11192430 (CCF B)  
 
 --------  
-Jiang Xinyue, Chunming Wu, Zhengyan Zhou, Di Wang, Dezhang Kong, Muhammad Khurram Khan, **Xuan Liu**. FlowTracker: A refined and versatile data plane measurement approach. Journal of Network and Computer Applications, Volume 244, December 2025, 104334.(CCF C)   
+Jiang Xinyue, Chunming Wu, Zhengyan Zhou, Di Wang, Dezhang Kong, Muhammad Khurram Khan, **Xuan Liu**. FlowTracker: A refined and versatile data plane measurement approach. Journal of Network and Computer Applications, Volume 244, December 2025, 104334. https://doi.org/10.1016/j.jnca.2025.104334 (CCF C)   
 
 
 --------  
