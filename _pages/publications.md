@@ -45,16 +45,16 @@ Jiang Xinyue, Chunming Wu, Zhengyan Zhou, Di Wang, Dezhang Kong, Muhammad Khurra
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
 
 --------  
-Xiang Chen, Hongyang Du, Wenjing Liu, Hongyan Liu, Jianshan Zhang, Xu Yang, Dong Zhang, Chunming Wu, **Xuan Liu**, Dusit Niyato. Virtualizing Next-generation Programmable Networks: Techniques, Use Cases, and Promising Future Directions. IEEE Network, 18 December 2024. https://ieeexplore.ieee.org/document/10806884. (SCI, IF：6.8 ) 
+Xiang Chen, Hongyang Du, Wenjing Liu, Hongyan Liu, Jianshan Zhang, Xu Yang, Dong Zhang, Chunming Wu, **Xuan Liu**, Dusit Niyato. Virtualizing Next-generation Programmable Networks: Techniques, Use Cases, and Promising Future Directions. IEEE Network, 18 December 2024. https://ieeexplore.ieee.org/document/10806884. 
 
 --------
-Hongyan Liu，Xiang Chen，Qun Huang，Dezhang Kong, Dong Zhang，Chunming Wu，**Xuan Liu**. Elastically Scaling Control Channels in Network Measurement With Escala. IEEE/ACM Transactions on Networking，03 December 2024, http://dx.doi.org/10.1109/TNET.2024.3504578. (CCF A, SCI, IF：3)  
+Hongyan Liu，Xiang Chen，Qun Huang，Dezhang Kong, Dong Zhang，Chunming Wu，**Xuan Liu**. Elastically Scaling Control Channels in Network Measurement With Escala. IEEE/ACM Transactions on Networking，03 December 2024, http://dx.doi.org/10.1109/TNET.2024.3504578. (CCF A)  
 
 --------   
-Dezhang Kong, Xiang Chen, Hang Lin, Zhengyan Zhou, Yi Shen, Hongyan Liu, Qiumei Cheng, **Xuan Liu**, Dong Zhang, Chunming Wu，Muhammad Khurram Khan. Toward Security-Enhanced In-band Network Telemetry in Programmable Networks. IEEE Transactions on Network and Service Management, 22 November 2024. https://dx.doi.org/10.1109/TNSM.2024.3504563. (CCF C, SCI, IF：4.7)   
+Dezhang Kong, Xiang Chen, Hang Lin, Zhengyan Zhou, Yi Shen, Hongyan Liu, Qiumei Cheng, **Xuan Liu**, Dong Zhang, Chunming Wu，Muhammad Khurram Khan. Toward Security-Enhanced In-band Network Telemetry in Programmable Networks. IEEE Transactions on Network and Service Management, 22 November 2024. https://dx.doi.org/10.1109/TNSM.2024.3504563. (CCF C)   
 
 --------
-Xiang Chen, Hongyan Liu, Qun Huang, Wenbin Zhang, Qun Huang, Dong Zhang, Haifeng Zhou, **Xuan Liu**, hunming Wu. Toward Full-Coverage and Low-Overhead Profiling of Network-Stack Latency. IEEE/ACM Transactions on Networking. VOL. 32, NO. 5, OCTOBER 2024, http://dx.doi.org/10.1109/TNET.2024.3421327. (CCF A, SCI, IF：3)  
+Xiang Chen, Hongyan Liu, Qun Huang, Wenbin Zhang, Qun Huang, Dong Zhang, Haifeng Zhou, **Xuan Liu**, hunming Wu. Toward Full-Coverage and Low-Overhead Profiling of Network-Stack Latency. IEEE/ACM Transactions on Networking. VOL. 32, NO. 5, OCTOBER 2024, http://dx.doi.org/10.1109/TNET.2024.3421327. (CCF A)  
 
 --------   
 Dezhang Kong, Xiang Chen, Chunming Wu, Yi Shen, Zhengyan Zhou, Qiumei Cheng, **Xuan Liu**, Mingliang Yang, Yubing Qiu, Dong Zhang, Muhammad Khurram Khan. rDefender: A Lightweight and Robust Defense Against Flow Table Overflow Attacks in SDN. IEEE Transactions on Information Forensics and Security, 03 October 2024, 9436 - 9451.https://dx.doi.org/10.1109/TIFS.2024.3472477. (CCF A, SCI, IF：6.3)  
@@ -63,101 +63,101 @@ Dezhang Kong, Xiang Chen, Chunming Wu, Yi Shen, Zhengyan Zhou, Qiumei Cheng, **X
 Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，Chunming Wu，**Xuan Liu**，Qiang Yang. Toward Resource-Efficient and High-Performance Program Deployment in Programmable Networks. IEEE/ACM Transactions on Networking，2024, http://dx.doi.org/10.1109/TNET.2024.3413388. (CCF A, SCI, IF：3)  
 
 --------
-Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A, SCI, IF：3)  
+Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A)  
 
 --------
 Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Muhammad Khurram Khan. Terra: Low-latency and reliable event collection in network measurement. Journal of Network and Computer Applications，2024，
-103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C, SCI, IF：8.7)  
+103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C)  
 
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2024.3361324. (CCF A, SCI, IF：3)  
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2024.3361324. (CCF A)  
 
 --------  
-Xiang Chen, Xi Sun, Wenbin Zhang, Zizheng Wang, Xin Yao, Hongyan Liu, Gaoning Pan, Qun Huang, **Xuan Liu**, Haifeng Zhou, Chunming Wu. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2024. (EI, CCF A, AR: 256/1307=19.6%) 
+Xiang Chen, Xi Sun, Wenbin Zhang, Zizheng Wang, Xin Yao, Hongyan Liu, Gaoning Pan, Qun Huang, **Xuan Liu**, Haifeng Zhou, Chunming Wu. Accelerating Sketch-based End-Host Traffic Measurement with Automatic DPU Offloading. IEEE INFOCOM 2024. (CCF A) 
 
 --------  
-Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847, https://doi.org/10.1109/TIFS.2023.3315128. (CCF A, SCI, IF：6.3)  
+Xiang Chen, Hongyan Liu, Qun Huang, Dong Zhang, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. Stalker Attacks: Imperceptibly Dropping Sketch Measurement Accuracy on Programmable Switches. IEEE Transactions on Information Forensics and Security, 2023, Volume 18, Page 5832-5847, https://doi.org/10.1109/TIFS.2023.3315128. (CCF A)  
 
 --------  
-Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, Volume 25 Issue 3, Page 1653-1704, https://doi.org/10.1109/COMST.2023.3265984. (SCI, IF:34.4)
+Xiang Chen, Chunming Wu, **Xuan Liu**, Qun Huang, Dong Zhang, Haifeng Zhou, Qiang Yang, Muhammad Khurram Khan. Empowering Network Security with Programmable Switches: A Comprehensive Survey. IEEE Communications Surveys & Tutorials, 2023, Volume 25 Issue 3, Page 1653-1704, https://doi.org/10.1109/COMST.2023.3265984. 
 
 --------  
-Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, **Xuan Liu**, Chunming Wu. Melody: Toward Resource-Efficient Packet Header Vector Encoding on Programmable Switches. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
+Xiang Chen, Hongyan Liu, Qingjiang Xiao, Jianshan Zhang, Qun Huang, Dong Zhang, **Xuan Liu**, Chunming Wu. Melody: Toward Resource-Efficient Packet Header Vector Encoding on Programmable Switches. IEEE INFOCOM 2023. (CCF A)  
 
 --------
-Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (EI, CCF A, AR: 252/1312=19.2%)  
+Xiang Chen, Hongyan Liu, Tingxin Sun, Qun Huang, Dong Zhang, **Xuan Liu**, Boyang Zhou, Haifeng Zhou, Chunming Wu. Excalibur: A Scalable and Low-Cost Traffic Testing Framework for Evaluating DDoS Defense Solutions. IEEE INFOCOM 2023. (CCF A)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2023.3281449. (CCF A, SCI, IF：3)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**. Toward Scalable and Low-Cost Traffic Testing for Evaluating DDoS Defense Solutions. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2023.3281449. (CCF A)  
 
 --------
-Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415, https://doi.org/10.1109/TNET.2022.3218446. (CCF A, SCI, IF：3)  
+Xiang Chen，Hongyan Liu，Qun Huang，Dong Zhang, Haifeng Zhou，Chunming Wu, **Xuan Liu**，Qiang Yang. Toward Low-Latency and Accurate State Synchronization for Programmable Networks. IEEE/ACM Transactions on Networking，2023, Volume 31 Issue 3, Page 1400-1415, https://doi.org/10.1109/TNET.2022.3218446. (CCF A)  
 
 --------
-Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919, https://doi.org/10.1109/TNET.2022.3203561. (CCF A, SCI, IF：3)  
+Dezhang Kong，Yi Shen，Xiang Chen，Qiumei Cheng，Hongyan Liu，Dong Zhang，**Xuan Liu**，Shuangxi Chen，Chunming Wu. Combination Attacks and Defenses on SDN Topology Discovery. IEEE/ACM Transactions on Networking，2023，Volume 31 Issue 2, Page 904-919, https://doi.org/10.1109/TNET.2022.3203561. (CCF A)  
 
 --------
-Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2023, Volume 11 Issue 2, Page 1591-1607，http://dx.doi.org/10.1109/TCC.2022.3149817. (CCF C, SCI, IF：5.3)  
+Xiang Chen，Hongyan Liu，Dong Zhang，Zili Meng，Qun Huang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Automatic Performance-Optimal Offloading of Network Functions on Programmable Switches. IEEE Transactions on Cloud Computing, 2023, Volume 11 Issue 2, Page 1591-1607，http://dx.doi.org/10.1109/TCC.2022.3149817. (CCF C)  
 
 --------
-Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022, http://dx.doi.org/10.1109/ICDCS54860.2022.00043. (EI, CCF B, AR: 114/573=19.9%)  
+Xiang Chen，Hongyan Liu，Qingjiang Xiao，Kaiwei Guo，Tingxin Sun，Xiang Ling，**Xuan Liu**，Qun Huang，Dong Zhang，Haifeng Zhou，Fan Zhang and Chunming Wu. Toward Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE ICDCS 2022, http://dx.doi.org/10.1109/ICDCS54860.2022.00043. (CCF B)  
 
 --------
-Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (EI, in Chinese)  
+Peng Yang, **Xuan Liu**, Youping Li. Dual-Meta Network Architecture Driven by Content and Address. Strategic Study of Chinese Academy of Engineering, 2022, 24(4): 22-31. (In Chinese)  
 
 --------
-Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5). (EI)  
+Dong Zhang，Kaiwei Guo，Xiang Chen，**Xuan Liu**. Enabling low‐latency service function chains by merging duplicate match operations. IET Networks，2022，11(5).   
 
 --------
-Aftab Ahmed Khan, Muhammad Zakarya*, **Xuan Liu**, Rahim Khan, Ahmad Ali, Ayaz Ali Khan. Quality Enhancement In A mm-Wave Multi-hop, Multi-Tier Heterogeneous 5G Network Architecture. TELECOMMUNICATION SYSTEMS, 2022, Volume 80 Issue 2, Page 169-187. (SCI, IF：2.5)  
+Aftab Ahmed Khan, Muhammad Zakarya*, **Xuan Liu**, Rahim Khan, Ahmad Ali, Ayaz Ali Khan. Quality Enhancement In A mm-Wave Multi-hop, Multi-Tier Heterogeneous 5G Network Architecture. TELECOMMUNICATION SYSTEMS, 2022, Volume 80 Issue 2, Page 169-187.   
 
 --------
-Minghua Xia，Edmund Lai，Jie Hu，**Xuan Liu**，Nikolaos Thomos，Zilong Liu，Tao Han，Vivek A Bohara，ADUWATI SALI. 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications. Frontiers in Communications and Networks，2022，3:841742. 
+Minghua Xia，Edmund Lai，Jie Hu，**Xuan Liu**，Nikolaos Thomos，Zilong Liu，Tao Han，Vivek A Bohara，ADUWATI SALI. 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications. Frontiers in Communications and Networks，2022，3:841742.   
 
 --------
 Renjie Li，Zhou Zhou，**Xuan Liu**，Da Li，Wei Yang，Shu Li，Qingyun Liu. GTF:An Adaptive Network Anomaly Detection Method at the Network Edge. Security and Communication Networks, 20 December 2021.(CCF C, SCI, IF：1.791) 
 
 --------
-Pronaya Bhattacharya，Umesh Bodkhe，Mohd Zuhair，Mamoon Rashid，**Xuan Liu**，Ashwin Verma，Ram Kishan Dewangan. Amalgamation of blockchain and sixth-generation-envisioned responsive edge orchestration in future cellular vehicle-to-anything ecosystems: Opportunities and challenges. Wiley Transactions on Emerging Telecommunications Technologies, 12 December 2021, ett.4410.(SCI, IF：2.638)  
+Pronaya Bhattacharya，Umesh Bodkhe，Mohd Zuhair，Mamoon Rashid，**Xuan Liu**，Ashwin Verma，Ram Kishan Dewangan. Amalgamation of blockchain and sixth-generation-envisioned responsive edge orchestration in future cellular vehicle-to-anything ecosystems: Opportunities and challenges. Wiley Transactions on Emerging Telecommunications Technologies, 12 December 2021, ett.4410.   
  
 --------
 Gerhard P. Hancke，Mohammad Reza Salehizadeh，**Xuan Liu**，Jie Hu，Adnan M. Abu‐Mahfouz, Nikolaos Thomos, Susumu Ishihara, Claudio Savaglio. IoT sensing, applications, and technologies for smart sustainable cities. IET Smart Cities, 2021:3(3), 121–124.  
 
 --------
-Ikram Ul Haq, Tamim Ahmed Khan, Adnan Akhunzada, **Xuan Liu**. MalDroid: Secure DL-enabled intelligent malware detection framework. IET Communications, 2021, 1–12.(SCI, IF：1.542, CCF C)  
+Ikram Ul Haq, Tamim Ahmed Khan, Adnan Akhunzada, **Xuan Liu**. MalDroid: Secure DL-enabled intelligent malware detection framework. IET Communications, 2021, 1–12.(CCF C)  
 
 --------
-Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2021:21(2), 1–23.(SCI, IF：3.135, CCF B)  
+Bin Cao, Jiawei Wu, Sichao Wang, Jing Fan, Honghao Gao, Shuiguang Deng, Jianwei Yin, **Xuan Liu**. Unsupervised Derivation of Keyword Summary for Short Texts. ACM Transactions on Internet Technology, 2021:21(2), 1–23.(CCF B)  
 
 --------
- **Xuan Liu**, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao. Integration of satellite‐aerial‐terrestrial networks. Wiley Transactions on Emerging Telecommunications Technologies, 10 May 2021, ett.4297.(SCI, IF：2.638) 
+ **Xuan Liu**, Pascal Lorenz, Periklis Chatzimisios, Syed Hassan Ahmed, Safdar Hussain Bouk, Honghao Gao. Integration of satellite‐aerial‐terrestrial networks. Wiley Transactions on Emerging Telecommunications Technologies, 10 May 2021, ett.4297.   
 
 --------
-Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 17 March 2021, ett.4255.(SCI, IF：2.638)  
+Saeed Hamood Alsamhi, Brian Lee, Mohsen Guizani, Neeraj Kumar, Yuansong Qiao, **Xuan Liu**. Blockchain for decentralized multi‐drone to combat COVID‐19 and future pandemics: Framework and proposed solutions. Wiley Transactions on Emerging Telecommunications Technologies, 17 March 2021, ett.4255.     
 
 --------
-Ajay Kumar, Kumar Abhishek, **Xuan Liu**, Anandakumar Haldorai. An Efficient Privacy-Preserving Identification centric Authentication in IoT based Cloud Servers for Sustainable Smart cities. Wireless Personal Communications, 2021:117, 3229–3253.(SCI, IF：1.671)  
+Ajay Kumar, Kumar Abhishek, **Xuan Liu**, Anandakumar Haldorai. An Efficient Privacy-Preserving Identification centric Authentication in IoT based Cloud Servers for Sustainable Smart cities. Wireless Personal Communications, 2021:117, 3229–3253.    
 
 --------
-Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(SCI, IF：7.187, CCF C)  
+Syed Ibrahim Imtiaz, Saif ur Rehman, Abdul Rehman Javed, Zunera Jalil, **Xuan Liu**, Waleed S.Alnumay. DeepAMD: Detection and identification of Android malware using high-efficient Deep Artificial Neural Network. Future Generation Computer Systems, Volume 115, February 2021, Pages 844-856.(CCF C)  
 
 --------
-Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat. A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.(SCI, IF：2.314)  
+Abdul Basit, Maham Zafar, **Xuan Liu**, Abdul Rehman Javed, Zunera Jalil, Kashif Kifayat. A comprehensive survey of AI-enabled phishing attacks detection techniques. Telecommunication Systems, 2021(76), 139–154.  
 
 --------
-Youbing	Zhong, Zhou	Zhou, **Xuan Liu**, Da Li, Meijun	Guo, Shuai	Zhang, Qingyun	Liu, Li	Guo. BPA:The Optimal Placement of Interdependent VNFs in Many-core System. EAI CollaborateCom 2020, Shanghai: Springer, 2020, 305-319.(EI, CCF C)  
+Youbing	Zhong, Zhou	Zhou, **Xuan Liu**, Da Li, Meijun	Guo, Shuai	Zhang, Qingyun	Liu, Li	Guo. BPA:The Optimal Placement of Interdependent VNFs in Many-core System. EAI CollaborateCom 2020, Shanghai: Springer, 2020, 305-319.(CCF C)  
 
 --------
-Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 10 December 2020, ett.4193.(SCI, IF：2.638)
+Amit Kumar Singh, **Xuan Liu**, Haoxiang Wang, Hoon Ko. Guest Editorial: Recent advances in multimedia security and information hiding. Wiley Transactions on Emerging Telecommunications Technologies, 10 December 2020, ett.4193.  
 
 --------
-Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 07 October 2020, ett.4133.(SCI, IF：2.638)  
+Farheen Syed, Sachin Kumar Gupta, S. H. Alsamhi, Mamoon Rashid, **Xuan Liu**. A Survey on Recent Optimal Techniques for Securing UAVs Applications. Wiley Transactions on Emerging Telecommunications Technologies, 07 October 2020, ett.4133.    
 
 --------
-Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 13 August 2020, ett.4088.(SCI, IF：2.638)
+Abdul Rehman Javed, Zunera Jalil, Syed Atif Moqurrab, Sidra Abbas, **Xuan Liu**. Ensemble Adaboost Classifier for Accurate and Fast detection of Botnet Attacks in Connected Vehicles. Wiley Transactions on Emerging Telecommunications Technologies, 13 August 2020, ett.4088.   
 
 --------
-**Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery. Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (SCI, IF：2.757, CCF C)  
+**Xuan Liu**, Peng Yang, Yongqiang Dong, Sayed Chhattan Shah. Collaborative Dual-structural Edge Networking Paradigm: An Analysis Study in Terms of Multimedia Content Delivery. Multimedia Tools and Applications, 2019, 78(17): 24555–24572.  (CCF C)   
 
 --------
 **Xuan Liu**, Peng Yang, Yongqiang Dong, Syed Hassan Ahmed. An Analysis of Content Sharing Hops for Dual-Structural Network Based on General Random Graph. IEEE GLOBECOM 2018, Abu Dhabi:IEEE, 2018, 1-6.(EI, CCF C)  
