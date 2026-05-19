@@ -8,7 +8,7 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
-Xiang Chen, Longlong Zhu, Linying Zheng, Hongyang Du, Dong Zhang, Jianshan Zhang, **Xuan Liu**, Qun Huang, Dusit Niyato, Haifeng Zhou, Chunming Wu, Hongyan Liu, Kui Ren. SketchPipe: Toward Accurate Sketch-Based Network Measurement on Multi-Pipeline Switches with Splitless Sketch Placement. 2026 NSDI(Accepted), https://www.usenix.org/system/files/nsdi26-chen-xiang.pdf (CCF A) 
+Xiang Chen, Longlong Zhu, Linying Zheng, Hongyang Du, Dong Zhang, Jianshan Zhang, **Xuan Liu**, Qun Huang, Dusit Niyato, Haifeng Zhou, Chunming Wu, Hongyan Liu, Kui Ren. SketchPipe: Toward Accurate Sketch-Based Network Measurement on Multi-Pipeline Switches with Splitless Sketch Placement. NSDI 2026(Accepted), https://www.usenix.org/system/files/nsdi26-chen-xiang.pdf (CCF A) 
 
 --------  
 Dezhang Kong, Yilun Zhang, Zekun Xie, Ningpeng Zheng, Shi Lin, Zhenhua Xu, Minghao Li, Zhebo Wang, Xiang Chen, Changting Lin, Dong Zhang, **Xuan Liu**, Chunming Wu, Meng Han. When Address Learning Goes Wrong: Inducing Forwarding Loops and DoS Amplification in SDN. USENIX Security 2026 (Accepted). (CCF A)   
