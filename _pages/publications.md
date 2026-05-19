@@ -20,7 +20,15 @@ Xiaodong Zang, Fangbo Hou, **Xuan Liu**, Muhammad Khurram Khan, Daohua Liu. Miti
 Xiaodong Zang, Haosheng Zheng, Zilong Zheng, **Xuan Liu**, Muhammad Khurram Khan. A Cost-effective Proactive Defense Method against Reconnaissance Attack for Industry 5.0.IEEE Transactions on Consumer Electronics, Volume: 72, Issue: 1, February 2026, http://dx.doi.org/10.1109/TCE.2026.3655669.  
 
 --------  
-Longlong Zhu, Jiashuo Yu, Xiang Chen, Zhifan Jiang, **Xuan Liu**, Jianshan Zhang, Xu Yang, Ruichen Zhang, Dusit Niyato, Xun Yi, Ibrahim Khalil, Dong Zhang, Chunming Wu. Leveraging Large Language Models for Multi-Objective and Adaptive SFC Deployment: Techniques, Case Study, and Promising Directions. IEEE Communications Magazine, Volume: 64, Issue: 1, January 2026. http://dx.doi.org/10.1109/MCOM.001.2500254
+Longlong Zhu, Jiashuo Yu, Xiang Chen, Zhifan Jiang, **Xuan Liu**, Jianshan Zhang, Xu Yang, Ruichen Zhang, Dusit Niyato, Xun Yi, Ibrahim Khalil, Dong Zhang, Chunming Wu. Leveraging Large Language Models for Multi-Objective and Adaptive SFC Deployment: Techniques, Case Study, and Promising Directions. IEEE Communications Magazine, Volume: 64, Issue: 1, January 2026. http://dx.doi.org/10.1109/MCOM.001.2500254  
+
+--------  
+Xiang Chen, Xin Yao, Jiayu Li, Longlong Zhu, Linying Zheng, Hongyan Liu, Jianshan Zhang, Dong Zhang, **Xuan Liu**, Qun Huang, Haifeng Zhou, Chunming Wu. Carrera: Enabling High-Performance eBPF-based Sketches in Network Measurement. 2025 IEEE 33rd International Conference on Network Protocols (ICNP), https://doi.org/10.1109/ICNP65844.2025.11192430 (CCF B)  
+
+
+
+
+
 
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
