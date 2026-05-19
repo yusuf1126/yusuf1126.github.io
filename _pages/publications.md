@@ -32,7 +32,7 @@ Xiaodong Zang, Haosheng Zheng, Zilong Zheng, **Xuan Liu**, Muhammad Khurram Khan
 Longlong Zhu, Jiashuo Yu, Xiang Chen, Zhifan Jiang, **Xuan Liu**, Jianshan Zhang, Xu Yang, Ruichen Zhang, Dusit Niyato, Xun Yi, Ibrahim Khalil, Dong Zhang, Chunming Wu. Leveraging Large Language Models for Multi-Objective and Adaptive SFC Deployment: Techniques, Case Study, and Promising Directions. IEEE Communications Magazine, Volume: 64, Issue: 1, January 2026. http://dx.doi.org/10.1109/MCOM.001.2500254  
 
 --------  
-Xiang Chen, Xin Yao, Jiayu Li, Longlong Zhu, Linying Zheng, Hongyan Liu, Jianshan Zhang, Dong Zhang, **Xuan Liu**, Qun Huang, Haifeng Zhou, Chunming Wu. Carrera: Enabling High-Performance eBPF-based Sketches in Network Measurement. 2025 IEEE 33rd International Conference on Network Protocols (ICNP), https://doi.org/10.1109/ICNP65844.2025.11192430 (CCF B)  
+Xiang Chen, Xin Yao, Jiayu Li, Longlong Zhu, Linying Zheng, Hongyan Liu, Jianshan Zhang, Dong Zhang, **Xuan Liu**, Qun Huang, Haifeng Zhou, Chunming Wu. Carrera: Enabling High-Performance eBPF-based Sketches in Network Measurement. ICNP 2025, https://doi.org/10.1109/ICNP65844.2025.11192430 (CCF B)  
 
 
 
