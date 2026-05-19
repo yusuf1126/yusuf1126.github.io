@@ -8,7 +8,10 @@ author_profile: true
 
 Journal/Conference Papers
 --------  
-Xiang Chen, Longlong Zhu, Linying Zheng, Hongyang Du, Dong Zhang, Jianshan Zhang, **Xuan Liu**, Qun Huang, Dusit Niyato, Haifeng Zhou, Chunming Wu, Hongyan Liu, Kui Ren. SketchPipe: Toward Accurate Sketch-Based Network Measurement on Multi-Pipeline Switches with Splitless Sketch Placement. 23rd USENIX Symposium on Networked Systems Design and Implementation (Accepted), https://www.usenix.org/system/files/nsdi26-chen-xiang.pdf (CCF A)  
+Xiang Chen, Longlong Zhu, Linying Zheng, Hongyang Du, Dong Zhang, Jianshan Zhang, **Xuan Liu**, Qun Huang, Dusit Niyato, Haifeng Zhou, Chunming Wu, Hongyan Liu, Kui Ren. SketchPipe: Toward Accurate Sketch-Based Network Measurement on Multi-Pipeline Switches with Splitless Sketch Placement. 2026 NSDI(Accepted), https://www.usenix.org/system/files/nsdi26-chen-xiang.pdf (CCF A) 
+
+--------  
+Dezhang Kong, Yilun Zhang, Zekun Xie, Ningpeng Zheng, Shi Lin, Zhenhua Xu, Minghao Li, Zhebo Wang, Xiang Chen, Changting Lin, Dong Zhang, **Xuan Liu**, Chunming Wu, Meng Han. When Address Learning Goes Wrong: Inducing Forwarding Loops and DoS Amplification in SDN. USENIX Sec '26 (Accepted). (CCF A)   
 
 --------  
 Dezhang Kong, Minghao Li, Shi Lin, Zhenhua Xu, Longlong Zhu, Linying Zheng, Xiang Chen, Changting Lin, **Xuan Liu**, Dong Zhang, Chunming Wu, Meng Han. LTD: Low-Overhead Topology Discovery using Programmable Data Planes. IEEE INFOCOM 2026 (Accepted). (CCF A)   
