@@ -17,6 +17,9 @@ Dezhang Kong, Yilun Zhang, Zekun Xie, Ningpeng Zheng, Shi Lin, Zhenhua Xu, Mingh
 Dezhang Kong, Minghao Li, Shi Lin, Zhenhua Xu, Longlong Zhu, Linying Zheng, Xiang Chen, Changting Lin, **Xuan Liu**, Dong Zhang, Chunming Wu, Meng Han. LTD: Low-Overhead Topology Discovery using Programmable Data Planes. IEEE INFOCOM 2026 (Accepted). (CCF A)   
 
 --------  
+Longlong Zhu, Jiashuo Yu, Zedi Chen, Yuhan Wu, Zhifan Jiang, Yuchen Xian, Yimeng Liu, Jiajie Su, Shaopeng Zhou, Xingyuan Li, Hongyan Liu, **Xuan Liu**, Dong Zhang, Chunming Wu, Xiang Chen. OmniPlan: An Adaptive Framework for Timely and Near-Optimal Network Planning Optimization. KDD 2026 (Accepted). (CCF A)  
+
+--------  
 Xiang Chen, Linying Zheng, Longlong Zhu, Zedi Chen, Qing Shu, Jialu Tian, Siqi Dong, Qun Huang, Jianshan Zhang, **Xuan Liu**, Haifeng Zhou, Hongyan Liu, Dong Zhang, Chunming Wu. MonPlan: Taming Network Measurement with Accurate and Resource-Efficient Sketch-INT Co-Design. IEEE INFOCOM 2026 (Accepted). (CCF A)   
 
 --------  
