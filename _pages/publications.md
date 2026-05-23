@@ -64,10 +64,11 @@ Xiaodong Zang, Zilong Zheng, Haosheng Zheng, **Xuan Liu**, Muhammad Khurram Khan
 --------  
 Xinyue Jiang, Dezhang Kong, Xiang Chen, Shuangxi Chen, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Wei Ruan. An Adaptive AQM based on the Consecutive Change Detection in the Programmable Queue.IEEE Transactions on Network Science and Engineering, Volume: 12, Issue: 4, July-Aug. 2025, http://dx.doi.org/10.1109/TNSE.2025.3557164.  
 
+-------- 
 Xiang Chen, Hongyan Liu, Zhengyan Zhou, Xi Sun, Wenbin Zhang, Hongyang Du, Dong Zhang, **Xuan Liu**, Haifeng Zhou, Dusit Niyato, Qun Huang, Chunming Wu, Kui Ren. Phantom: Virtualizing Switch Register Resources for Accurate Sketch-based Network Measurement. EuroSys 2025.(CCF A)   
 
-
-
+-------- 
+Yiwen Fan, **Xuan Liu**, Rong Yan, Haoran Yin, Yaxin Zhang. SWGCNN-BiLSTM: A Method for Detecting Unknown Attack Traffic Within Imbalanced Samples. EAI CollaborateCom 2024.(CCF C)  
 
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
