@@ -43,7 +43,11 @@ Jiang Xinyue, Chunming Wu, Zhengyan Zhou, Di Wang, Dezhang Kong, Muhammad Khurra
 --------  
 Guolong Zheng, Changgui Xu, Jianshan Zhang, Chen Hou, Xu Yang, Tao Huang, **Xuan Liu**, Muhammad Khurram Khan. Hierarchical Graph Neural Networks for Resilient Intrusion Detection in Consumer IoT With Limited Labeled Data. IEEE Transactions on Consumer Electronics, Volume: 72, Issue: 1, February 2026, http://dx.doi.org/10.1109/TCE.2025.3604228.  
 
-Shengrui Lin, Shaowei Xu, Binjie He, Hongyan Liu, Dezhang Kong, Xiang Chen, Dong Zhang, Chunming Wu, Ming Li, Xuan Liu, Yuqin Wu, Muhammad Khurram Khan. NDIF: A distributed framework for efficient in-network neural network inference. Computers & Security, Volume 157, October 2025, 104593. https://doi.org/10.1016/j.cose.2025.104593 (CCF B)  
+--------  
+Shengrui Lin, Shaowei Xu, Binjie He, Hongyan Liu, Dezhang Kong, Xiang Chen, Dong Zhang, Chunming Wu, Ming Li, **Xuan Liu**, Yuqin Wu, Muhammad Khurram Khan. NDIF: A distributed framework for efficient in-network neural network inference. Computers & Security, Volume 157, October 2025, 104593. https://doi.org/10.1016/j.cose.2025.104593 (CCF B)  
+
+--------
+Hongyan Liu, Xiang Chen, Di Wang, Qun Huang, Dong Zhang, Chunming Wu, **Xuan Liu**. Toward Secure Inter-Device Coordination in Programmable Networks. IEEE Transactions on Networking，Volume: 33, Issue: 6, December 2025, http://dx.doi.org/10.1109/TON.2025.3580638. (CCF A) 
 
 
 --------  
