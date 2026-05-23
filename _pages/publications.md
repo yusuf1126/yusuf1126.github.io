@@ -58,6 +58,8 @@ Dezhang Kong, Shi Lin, Zhenhua Xu, Zhebo Wang, Minghao Li, Yufeng Li, Yilun Zhan
 --------  
 Dezhang Kong, Minghao Li, Shi Lin, Zhenhua Xu, Longlong Zhu, Linying Zheng, Xiang Chen, Changting Lin, **Xuan Liu**, Dong Zhang, Chunming Wu, Meng Han. TurboCache: Empowering Switch-Accelerated Key-Value Caches with Accurate and Fast Cache Updates. IEEE INFOCOM 2025, http://dx.doi.org/10.1109/INFOCOM55648.2025.11044585.(CCF A)   
 
+--------  
+Xiaodong Zang, Zilong Zheng, Haosheng Zheng, **Xuan Liu**, Muhammad Khurram Khan, Weiwei Jiang. HyperEye: A lightweight features fusion model for unknown encrypted malware traffic detection.IEEE Transactions on Consumer Electronics, Volume: 71, Issue: 2, May 2025, http://dx.doi.org/10.1109/TCE.2025.3558353.  
 
 
 
