@@ -43,6 +43,8 @@ Jiang Xinyue, Chunming Wu, Zhengyan Zhou, Di Wang, Dezhang Kong, Muhammad Khurra
 --------  
 Guolong Zheng, Changgui Xu, Jianshan Zhang, Chen Hou, Xu Yang, Tao Huang, **Xuan Liu**, Muhammad Khurram Khan. Hierarchical Graph Neural Networks for Resilient Intrusion Detection in Consumer IoT With Limited Labeled Data. IEEE Transactions on Consumer Electronics, Volume: 72, Issue: 1, February 2026, http://dx.doi.org/10.1109/TCE.2025.3604228.  
 
+Shengrui Lin, Shaowei Xu, Binjie He, Hongyan Liu, Dezhang Kong, Xiang Chen, Dong Zhang, Chunming Wu, Ming Li, Xuan Liu, Yuqin Wu, Muhammad Khurram Khan. NDIF: A distributed framework for efficient in-network neural network inference. Computers & Security, Volume 157, October 2025, 104593. https://doi.org/10.1016/j.cose.2025.104593 (CCF B)  
+
 
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
@@ -69,8 +71,7 @@ Hongyan Liu，Xiang Chen，Qun Huang，Guoqiang Sun, Peiqiao Wang, Dong Zhang，
 Xiang Chen，Wenbin Zhang，Xi Sun，Hongyan Liu，Jianshan Zhang，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，**Xuan Liu**，Chunming Wu. Resource-Efficient and Timely Packet Header Vector (PHV) Encoding on Programmable Switches. IEEE/ACM Transactions on Networking，2024, Early Access, http://dx.doi.org/10.1109/TNET.2024.3413530. (CCF A)  
 
 --------
-Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Muhammad Khurram Khan. Terra: Low-latency and reliable event collection in network measurement. Journal of Network and Computer Applications，2024，
-103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C)  
+Hongyan Liu，Xi Sun，Xiang Chen，Qun Huang，Dong Zhang，Haifeng Zhou，Chunming Wu，**Xuan Liu**，Muhammad Khurram Khan. Terra: Low-latency and reliable event collection in network measurement. Journal of Network and Computer Applications，2024，103904，ISSN 1084-8045，https://doi.org/10.1016/j.jnca.2024.103904. (CCF C)  
 
 --------
 Xiang Chen，Hongyan Liu，Qingjiang Xiao，Qun Huang，Dong Zhang，Haifeng Zhou，Boyang Zhou，Chunming Wu，**Xuan Liu**，Qiang Yang. Hermes: Low-Overhead Inter-Switch Coordination in Network-Wide Data Plane Program Deployment. IEEE/ACM Transactions on Networking，2024, https://doi.org/10.1109/TNET.2024.3361324. (CCF A)  
