@@ -40,6 +40,9 @@ Xiang Chen, Xin Yao, Jiayu Li, Longlong Zhu, Linying Zheng, Hongyan Liu, Jiansha
 --------  
 Jiang Xinyue, Chunming Wu, Zhengyan Zhou, Di Wang, Dezhang Kong, Muhammad Khurram Khan, **Xuan Liu**. FlowTracker: A refined and versatile data plane measurement approach. Journal of Network and Computer Applications, Volume 244, December 2025, 104334. https://doi.org/10.1016/j.jnca.2025.104334 (CCF C)   
 
+--------  
+Guolong Zheng, Changgui Xu, Jianshan Zhang, Chen Hou, Xu Yang, Tao Huang, **Xuan Liu**, Muhammad Khurram Khan. Hierarchical Graph Neural Networks for Resilient Intrusion Detection in Consumer IoT With Limited Labeled Data. IEEE Transactions on Consumer Electronics, Volume: 72, Issue: 1, February 2026, http://dx.doi.org/10.1109/TCE.2025.3604228.  
+
 
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
