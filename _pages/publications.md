@@ -50,7 +50,13 @@ Shengrui Lin, Shaowei Xu, Binjie He, Hongyan Liu, Dezhang Kong, Xiang Chen, Dong
 Hongyan Liu, Xiang Chen, Di Wang, Qun Huang, Dong Zhang, Chunming Wu, **Xuan Liu**. Toward Secure Inter-Device Coordination in Programmable Networks. IEEE Transactions on Networking，Volume: 33, Issue: 6, December 2025, http://dx.doi.org/10.1109/TON.2025.3580638. (CCF A)  
 
 --------
-Longlong Zhu, Jiashuo Yu, Xiang Chen, Qing Shu, Zedi Chen, Zhifan Jiang, Qun Huang, **Xuan Liu**, Dong Zhang, Chunming Wu. Handling Data Plane Program Deployment Dynamics with High-Quality Generative Diffusion Models. 2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS), http://dx.doi.org/10.1109/IWQoS65803.2025.11143248. (CCF B) 
+Longlong Zhu, Jiashuo Yu, Xiang Chen, Qing Shu, Zedi Chen, Zhifan Jiang, Qun Huang, **Xuan Liu**, Dong Zhang, Chunming Wu. Handling Data Plane Program Deployment Dynamics with High-Quality Generative Diffusion Models. 2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS), http://dx.doi.org/10.1109/IWQoS65803.2025.11143248. (CCF B)  
+
+--------
+Dezhang Kong, Shi Lin, Zhenhua Xu, Zhebo Wang, Minghao Li, Yufeng Li, Yilun Zhang, Hujin Peng, Xiang Chen, Zeyang Sha, Yuyuan Li, Changting Lin, Xun Wang, **Xuan Liu**, Ningyu Zhang, Chaochao Chen, Chunming Wu, Muhammad Khurram Khan, Meng Han. A survey of llm-driven ai agent communication: Protocols, security risks, and defense countermeasures. arXiv preprint arXiv:2506.19676. https://doi.org/10.48550/arXiv.2506.19676.   
+
+
+
 
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
