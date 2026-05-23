@@ -61,6 +61,9 @@ Dezhang Kong, Minghao Li, Shi Lin, Zhenhua Xu, Longlong Zhu, Linying Zheng, Xian
 --------  
 Xiaodong Zang, Zilong Zheng, Haosheng Zheng, **Xuan Liu**, Muhammad Khurram Khan, Weiwei Jiang. HyperEye: A lightweight features fusion model for unknown encrypted malware traffic detection.IEEE Transactions on Consumer Electronics, Volume: 71, Issue: 2, May 2025, http://dx.doi.org/10.1109/TCE.2025.3558353.  
 
+--------  
+Xinyue Jiang, Dezhang Kong, Xiang Chen, Shuangxi Chen, Haifeng Zhou, Chunming Wu, **Xuan Liu**, Wei Ruan. An Adaptive AQM based on the Consecutive Change Detection in the Programmable Queue.IEEE Transactions on Network Science and Engineering, Volume: 12, Issue: 4, July-Aug. 2025, http://dx.doi.org/10.1109/TNSE.2025.3557164.  
+
 
 
 --------  
