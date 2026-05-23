@@ -55,6 +55,9 @@ Longlong Zhu, Jiashuo Yu, Xiang Chen, Qing Shu, Zedi Chen, Zhifan Jiang, Qun Hua
 --------
 Dezhang Kong, Shi Lin, Zhenhua Xu, Zhebo Wang, Minghao Li, Yufeng Li, Yilun Zhang, Hujin Peng, Xiang Chen, Zeyang Sha, Yuyuan Li, Changting Lin, Xun Wang, **Xuan Liu**, Ningyu Zhang, Chaochao Chen, Chunming Wu, Muhammad Khurram Khan, Meng Han. A survey of llm-driven ai agent communication: Protocols, security risks, and defense countermeasures. arXiv preprint arXiv:2506.19676. https://doi.org/10.48550/arXiv.2506.19676.   
 
+--------  
+Dezhang Kong, Minghao Li, Shi Lin, Zhenhua Xu, Longlong Zhu, Linying Zheng, Xiang Chen, Changting Lin, **Xuan Liu**, Dong Zhang, Chunming Wu, Meng Han. TurboCache: Empowering Switch-Accelerated Key-Value Caches with Accurate and Fast Cache Updates. IEEE INFOCOM 2025, http://dx.doi.org/10.1109/INFOCOM55648.2025.11044585.(CCF A)   
+
 
 
 
