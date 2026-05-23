@@ -74,7 +74,6 @@ Yiwen Fan, **Xuan Liu**, Rong Yan, Haoran Yin, Yaxin Zhang. SWGCNN-BiLSTM: A Met
 Zhengyan Zhou, Hanze Chen, Lingfei Chen, Dong Zhang, Chunming Wu, **Xuan Liu**, Muhammad Khurram Khan. NetDP: In-network differential privacy for large-scale data processing. IEEE Transactions on Green Communications and Networking, Volume: 8, Issue: 3, September 2024, https://doi.org/10.1109/TGCN.2024.3432781.  
 
 
-
 --------  
 Xiang Chen, Qingjiang Xiao, Hongyan Liu, Qun Huang, Dong Zhang, **Xuan Liu**, Longbing Hu, Haifeng Zhou, Chunming Wu, Kui Ren. Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement. SIGCOMM 2024, https://dl.acm.org/doi/10.1145/3651890.3672244. (TOP, CCF A)  
 
