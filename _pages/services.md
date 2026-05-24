@@ -98,6 +98,7 @@ Reviewing Services
   <a href="https://ieee-sensors.org/sensors-journal/" target="_blank">IEEE Sensors Journal</a>    
   <a href="https://cesoc.ieee.org/publications/ce-magazine.html" target="_blank">IEEE Consumer Electronics Magazine</a>  
   <a href="https://www.comsoc.org/publications/journals/ieee-comml" target="_blank">IEEE Communications Letters</a>  
+   <a href="https://dl.acm.org/journal/toit" target="_blank">ACM Transactions on Internet Technology</a>  
   <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Elsevier Computer Communications</a>  
   <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
   <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications/" target="_blank">Elsevier Journal of Network and Computer Applications</a>  
