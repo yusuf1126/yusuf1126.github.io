@@ -35,10 +35,10 @@ Organizational Activities:
 
 
 * TPC Member
-   <a href="https://icc2026.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2026)</a> 
-  <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2026)</a>  
-  <a href="https://icc2025.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2025)</a> 
-  <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2025)</a>  
+   <a href="https://icc2026.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2026)</a>   
+  <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2026)</a>    
+  <a href="https://icc2025.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2025)</a>   
+  <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2025)</a>    
   <a href="https://icc2024.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2024)</a>  
   <a href="https://globecom2024.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2024)</a>  
   <a href="https://icc2024.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2024)</a>  
