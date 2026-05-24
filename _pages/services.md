@@ -10,6 +10,8 @@ Membership
     
    <img src="/images/ism2.png" height="400" width="590">   
    
+* CCF Senior Member  
+   
 Editorial Services
 --------
 * Editor
