@@ -92,7 +92,7 @@ Reviewing Services
 * Journals
   
   <a href="https://www.comsoc.org/publications/journals/ieee-tnet" target="_blank">IEEE Transactions on Networking</a>  
-  <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a>
+  <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a>  
   <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/ieee-transactions" target="_blank">Transactions on Information Forensics & Security</a>       
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.ieee-itss.org/its-transactions" target="_blank">IEEE Transactions on Intelligent Transportation Systems</a>  
