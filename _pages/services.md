@@ -12,8 +12,9 @@ Membership
    
 Editorial Services
 --------
-* Editor  
+* Editor
 
+   <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a>, since September, 2025
    <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a>, since May, 2023  
    <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Elsevier Computer Communications</a>, since January, 2021  
    <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>, since September, 2019  
