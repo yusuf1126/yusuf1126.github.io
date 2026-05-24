@@ -27,14 +27,8 @@ Editorial Services
 
 Organizational Activities:
 --------
-* Chair
 
-  General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China.  
-  
-  <img src="/images/CollaborateCom2020.png" height="330" width="495">   
-
-
-* TPC Member
+* TPC Member 
    
    <a href="https://icc2026.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2026)</a>   
   <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2026)</a>    
