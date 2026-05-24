@@ -25,24 +25,6 @@ Editorial Services
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, (Sep.2019-Feb.2022)  
 
 
-Guest Editorial Services
---------
-* Lead Guest Editor
-
-  <a href="https://pericles.pericles-prod.literatumonline.com/page/journal/24761508/homepage/special_issues.htm/" target="_blank">Wiley ITL Special Issue on Collaborative Networking Technologies for Content-oriented Future Networks</a>          
-  <a href="https://www.journals.elsevier.com/internet-of-things/call-for-papers/special-issue-on-advances-in-social-internet-of-things/" target="_blank">Elsevier IoT Special Issue on Advances in Social Internet of Things</a>  
-  <a href="https://onlinelibrary.wiley.com/page/journal/21613915/homepage/special_issues.htm/" target="_blank">Wiley ETT Special Issue on Integration of Satellite-Aerial-Terrestrial Networks</a>   
-  
-* Guest Associate Editor
-
-  <a href="https://www.frontiersin.org/journals/communications-and-networks/sections/wireless-communications#" target="_blank">Frontiers in Communications and Networks Research Topic on 5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications</a> 
- 
-* Guest Editor
-
-   <a href="https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/20474962/Special%20Issues/IET_NET_CfP_ET6GFN-1648230828407.pdf" target="_blank">IET Networks Special Issue on Enabling Technologies for 6G and Future Networks</a>  
-  
-  <a href="https://digital-library.theiet.org/content/journals/iet-smc/info/special-Issues/" target="_blank">IET SMC Special Issue on Security and Privacy for Smart Cities</a>
-
 Organizational Activities:
 --------
 * Chair
@@ -50,11 +32,14 @@ Organizational Activities:
   General Chair, <a href="http://collaboratecom.org/collaboratenet-workshop/" target="_blank">CollaborateNet 2020 (EAI CollaborateCom 2020 Workshop on Collaborative Networking Technologies towards Future Networks</a>, October 16-18, 2020, Shanghai, People’s Republic of China.  
   
   <img src="/images/CollaborateCom2020.png" height="330" width="495">   
-  
-  Publicity Chair, <a href="https://computing.derby.ac.uk/c/vehcomnet-2020/" target="_blank">VehComNet 2020 (3rd International Workshop on Vehicular Communication Network in conjunction with IEEE TrustCom 2020)/</a>, November 10-13, 2020, Guangzhou, China.  
 
-* TPC Member  
 
+* TPC Member
+   <a href="https://icc2026.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2026)</a> 
+  <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2026)</a>  
+  <a href="https://icc2025.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2025)</a> 
+  <a href="https://globecom2025.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2025)</a>  
+  <a href="https://icc2024.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2024)</a>  
   <a href="https://globecom2024.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2024)</a>  
   <a href="https://icc2024.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2024)</a>  
   <a href="https://globecom2023.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2023)</a>   
