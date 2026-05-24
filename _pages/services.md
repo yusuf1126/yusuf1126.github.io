@@ -92,10 +92,12 @@ Reviewing Services
   <a href="https://www.comsoc.org/publications/journals/ieee-tnsm" target="_blank">IEEE Transactions on Network and Service Management</a>     
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.ieee-itss.org/its-transactions" target="_blank">IEEE Transactions on Intelligent Transportation Systems</a>  
+  <a href="https://www.comsoc.org/publications/journals/ieee-lnet" target="_blank">IEEE Networking Letters</a>   
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
   <a href="https://ieee-sensors.org/sensors-journal/" target="_blank">IEEE Sensors Journal</a>    
   <a href="https://cesoc.ieee.org/publications/ce-magazine.html" target="_blank">IEEE Consumer Electronics Magazine</a>  
   <a href="https://www.comsoc.org/publications/journals/ieee-comml" target="_blank">IEEE Communications Letters</a>  
+  <a href="https://www.journals.elsevier.com/computer-communications" target="_blank">Elsevier Computer Communications</a>  
   <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
   <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications/" target="_blank">Elsevier Journal of Network and Computer Applications</a>  
   <a href="https://www.journals.elsevier.com/ad-hoc-networks/" target="_blank">Elsevier Ad Hoc Networks</a>   
