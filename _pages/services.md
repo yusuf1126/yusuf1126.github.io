@@ -114,25 +114,6 @@ Verified Editor and Review Records
 --------
 * <a href="https://publons.com/researcher/1280129" target="_blank">Publons,</a> part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact  
 
-Awards
---------
 
-* CollaborateCom 2022 Outstanding Contribution Award  
-
-   <img src="/images/CollaborateCom2022.png" height="200" width="495">   
-   
-* IET Smart Cities Associate Editor Award 2020  
-
-   <img src="/images/smcae.png" height="200" width="495">  
-   
-* <a href="https://publons.com/awards/peer-review/2019/" target="_blank">Top peer reviewer in the Computer Science in the Global Peer Review Awards 2019</a>
-
-   <img src="/images/Top-reviewer.png" height="330" width="495">  
-
-* Elsevier outstanding reviewer
-    
-   <img src="/images/FGCS2017.png" height="330" width="495"> 
-   <img src="/images/SCS2017.png" height="330" width="495"> 
-   <img src="/images/JNCA2016.png" height="330" width="495">  
 
 
