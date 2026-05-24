@@ -109,7 +109,7 @@ Reviewing Services
   <a href="https://www.springer.com/journal/11276" target="_blank">Springer Wireless Networks</a>  
   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>  
   <a href="https://www.springer.com/journal/11277" target="_blank">Springer Wireless Personal Communications</a>  
-  <a href="https://www.springer.com/journal/11042" target="_blank">Springer Multimedia Tools and Applications</a>  
+
 
 
 
