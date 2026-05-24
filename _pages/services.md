@@ -90,9 +90,7 @@ Reviewing Services
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.ieee-itss.org/its-transactions" target="_blank">IEEE Transactions on Intelligent Transportation Systems</a>  
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
-  <a href="https://ieee-iotj.org/" target="_blank">IEEE Internet of Things Journal</a>  
   <a href="https://ieee-sensors.org/sensors-journal/" target="_blank">IEEE Sensors Journal</a>    
-  <a href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>  
   <a href="https://cesoc.ieee.org/publications/ce-magazine.html" target="_blank">IEEE Consumer Electronics Magazine</a>  
   <a href="https://www.comsoc.org/publications/journals/ieee-comml" target="_blank">IEEE Communications Letters</a>  
   <a href="https://www.journals.elsevier.com/future-generation-computer-systems/" target="_blank">Elsevier Future Generation Computer Systems</a>  
@@ -107,12 +105,9 @@ Reviewing Services
   <a href="https://link.springer.com/journal/11235" target="_blank">Springer Telecommunication Systems</a>  
   <a href="https://www.springer.com/journal/11277" target="_blank">Springer Wireless Personal Communications</a>  
   <a href="https://www.springer.com/journal/11042" target="_blank">Springer Multimedia Tools and Applications</a>  
-  <a href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">Wiley International Journal of Communication Systems</a>  
 
-   
-Verified Editor and Review Records
---------
-* <a href="https://publons.com/researcher/1280129" target="_blank">Publons,</a> part of the Web of Science Group, enabling researchers to easily track and show a more complete record of their impact  
+
+
 
 
 
