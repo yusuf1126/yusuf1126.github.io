@@ -87,7 +87,9 @@ Reviewing Services
    <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>  
   <a href="https://www.comsoc.org/publications/journals/ieee-tnet" target="_blank">IEEE Transactions on Networking</a>  
   <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a>  
-  <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/ieee-transactions" target="_blank">IEEE Transactions on Information Forensics & Security</a>      
+  <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/ieee-transactions" target="_blank">IEEE Transactions on Information Forensics & Security</a>
+  <a href="https://www.computer.org/csdl/journal/tn" target="_blank">IEEE Transactions on Network Science and Engineering</a>  
+  <a href="https://www.comsoc.org/publications/journals/ieee-tnsm" target="_blank">IEEE Transactions on Network and Service Management</a>     
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.ieee-itss.org/its-transactions" target="_blank">IEEE Transactions on Intelligent Transportation Systems</a>  
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
