@@ -89,7 +89,8 @@ Reviewing Services
 --------
 
 * Journals
-
+  <a href="https://www.comsoc.org/publications/journals/ieee-tnet" target="_blank">IEEE Transactions on Networking</a>
+  <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a>   
   <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank">IEEE Transactions on Industrial Informatics</a>  
   <a href="https://www.ieee-itss.org/its-transactions" target="_blank">IEEE Transactions on Intelligent Transportation Systems</a>  
   <a href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine" target="_blank">IEEE Communications Magazine</a>  
@@ -111,15 +112,7 @@ Reviewing Services
   <a href="https://www.springer.com/journal/11277" target="_blank">Springer Wireless Personal Communications</a>  
   <a href="https://www.springer.com/journal/11042" target="_blank">Springer Multimedia Tools and Applications</a>  
   <a href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">Wiley International Journal of Communication Systems</a>  
-  <a href="https://digital-library.theiet.org/content/journals/iet-smc" target="_blank">IET Smart Cities</a>  
-  <a href="https://digital-library.theiet.org/content/journals/iet-cps" target="_blank">IET Cyber-Physical Systems: Theory & Applications</a>  
-  <a href="https://www.hindawi.com/journals/scn/" target="_blank">Hindawi Security and Communication Networks</a>  
-  <a href="https://www.hindawi.com/journals/js/" target="_blank">Hindawi Journal of Sensors</a>  
-  <a href="https://journals.sagepub.com/home/dsn" target="_blank">SAGE International Journal of Distributed Sensor Networks</a>  
-  <a href="https://www.inderscience.com/jhome.php?jcode=ijiitc" target="_blank">International Journal of Intelligent Internet of Things Computing</a>  
-  <a href="https://eudl.eu/journal/cc" target="_blank">EAI Endorsed Transactions on Collaborative Computing</a>  
-  <a href="https://www.igi-global.com/gateway/journal/1102" target="_blank">IGI Global International Journal of Mobile Computing and Multimedia Communications</a>  
-  <a href="https://dl.acm.org/journal/ijhcr-igi" target="_blank">IGI Global International Journal of Handheld Computing Research</a>
+
    
 Verified Editor and Review Records
 --------
