@@ -32,8 +32,9 @@ Organizational Activities:
    <a href="https://www.ndss-symposium.org/ndss2026/" target="_blank">Network and Distributed System Security Symposium (NDSS 2026)</a>  
  
 
-* TPC Member 
-   
+* TPC Member
+
+  <a href="https://www.sigsac.org/ccs/CCS2026/index.html" target="_blank">CCS'26 Demo</a>    
    <a href="https://icc2026.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2026)</a>   
   <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE Global Communications Conference (IEEE Globecom 2026)</a>    
   <a href="https://icc2025.ieee-icc.org/" target="_blank">IEEE International Conference on Communications (IEEE ICC 2025)</a>   
