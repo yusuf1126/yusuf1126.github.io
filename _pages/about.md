@@ -19,6 +19,9 @@ Biography
 
 Recent News
 --------
+\[<font color=blue>Organizational activity</font>\]: Appointed as PC member for <a href="https://www.sigsac.org/ccs/CCS2026/index.html" target="_blank">CCS'26 Demo</a> in June, 2026  
+
+--------
 \[<font color=blue>Organizational activity</font>\]: Appointed as TPC member for <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2026 NGNI (CCF C)</a> in March, 2026  
 
 --------
