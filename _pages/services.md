@@ -25,7 +25,7 @@ Editorial Service
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, (Sep.2019-Feb.2022)  
 
 
-Conference Service:
+Conference Service
 --------
 * Student Support Committee Member
   
