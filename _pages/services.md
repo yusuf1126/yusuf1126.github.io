@@ -10,7 +10,7 @@ Membership
    
 * CCF Senior Member  
    
-Editorial Services
+Editorial Service
 --------
 * Editor
 
@@ -25,7 +25,7 @@ Editorial Services
    <a href="https://www.tandfonline.com/toc/tjca20/current" target="_blank">Taylor & Francis International Journal of Computers and Applications</a>, (Sep.2019-Feb.2022)  
 
 
-Organizational Activities:
+Conference Service:
 --------
 * Student Support Committee Member
   
@@ -84,7 +84,7 @@ Organizational Activities:
    <a href="https://vtc2018f-rr-wks.trackchair.com/track/1696/" target="_blank">IEEE Vehicular Technology Conference (IEEE VTC 2018-fall workshop)</a>  
 
 
-Reviewing Services
+Reviewing Service
 --------
 
 * Journals
