@@ -87,6 +87,7 @@ Conference Service
 Reviewing Service
 --------
 
+   <a href="https://dl.acm.org/journal/csur" target="_blank">ACM Computing Surveys</a>  
    <a href="https://www.computer.org/csdl/journal/tp" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>  
   <a href="https://www.comsoc.org/publications/journals/ieee-tnet" target="_blank">IEEE Transactions on Networking</a>  
   <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing</a>  
