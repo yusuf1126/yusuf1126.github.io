@@ -22,7 +22,7 @@ Recent News
 \[<font color=blue>Conference Service</font>\]: Appointed as PC member for <a href="https://www.sigsac.org/ccs/CCS2026/call-for/call-for-posters.html" target="_blank">CCS'26 Posters</a> in July, 2026  
 
 --------
-\[<font color=blue>Conference Service</font>\]: Appointed as PC member for <a href="https://www.sigsac.org/ccs/CCS2026/call-for/call-for-demos.html" target="_blank">CCS'26 Demo</a> in June, 2026  
+\[<font color=blue>Conference Service</font>\]: Appointed as PC member for <a href="https://www.sigsac.org/ccs/CCS2026/call-for/call-for-demos.html" target="_blank">CCS'26 Demos</a> in June, 2026  
 
 --------
 \[<font color=blue>Conference Service</font>\]: Appointed as TPC member for <a href="https://globecom2026.ieee-globecom.org/" target="_blank">IEEE GlobeCom 2026 NGNI (CCF C)</a> in March, 2026  
