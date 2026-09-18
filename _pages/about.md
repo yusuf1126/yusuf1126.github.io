@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 
-*Xuan Liu* (S'11-M'17-SM'21) received the Ph.D. degree from the School of Computer Science and Engineering, Southeast University, China. He is currently a Lecturer and Master’s Supervisor with the College of Information and Artificial Intelligence (College of Industrial Software), Yangzhou University, China. He also serves as an editor for several publications, including IEEE Transactions on Dependable and Secure Computing, IEEE Networking Letters, Computer Communications, and Telecommunication Systems. His current research focuses on the observability and security of networked systems. <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Personal Website (Chinese Version)</a>
+*Xuan Liu* (S'11-M'17-SM'21) received the Ph.D. degree from the School of Computer Science and Engineering, Southeast University, China. He is currently a Lecturer and a Graduate Advisor with the College of Information and Artificial Intelligence (College of Industrial Software), Yangzhou University, China. He serves on the editorial boards of several journals, including IEEE Transactions on Dependable and Secure Computing, IEEE Networking Letters, Computer Communications, and Telecommunication Systems. His current research focuses on the observability and security for networked systems. <a href="http://teacher.yzu.edu.cn/yusuf" target="_blank">Personal Website (Chinese Version)</a>
 
 Recent News
 --------
